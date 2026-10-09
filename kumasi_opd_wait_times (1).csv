@@ -1,0 +1,1501 @@
+patient_id,hospital,residence_area,age,gender,distance_km,arrival_hour,day_of_week,doctors_on_duty,patients_in_queue,nhis_insured,new_patient,lab_test_required,triage_category,wait_time_minutes
+KSI0001,Manhyia Govt Hospital,Bantama,53.0,Female,14.4,14,Wednesday,7,31,yes,no,no,Standard,26
+KSI0002,Tafo Govt Hospital,Ayigya,44.0,Female,2.6,12,Tuesday,6,32,yes,no,no,Standard,38
+KSI0003,Kumasi South Hospital,Suame,47.0,Female,8.9,11,Thursday,7,32,yes,no,yes,Standard,104
+KSI0004,Suntreso Govt Hospital,Abrepo,53.0,Male,4.6,9,Wednesday,5,36,yes,no,yes,Standard,101
+KSI0005,KATH,Asokwa,74.0,Male,4.5,9,Thursday,9,62,yes,no,yes,Standard,156
+KSI0006,KATH,Suame,46.0,Female,6.4,15,Monday,8,59,yes,yes,no,Standard,121
+KSI0007,KATH,Bantama,13.0,Male,15.0,14,Monday,6,65,yes,no,no,Standard,112
+KSI0008,Tafo Govt Hospital,Suame,37.0,Male,1.3,7,Friday,5,41,yes,no,no,Urgent,42
+KSI0009,Suntreso Govt Hospital,Tafo,24.0,Male,8.9,12,Friday,2,32,no,yes,no,Standard,54
+KSI0010,Kumasi South Hospital,Kwadaso,2.0,Female,1.7,7,Wednesday,2,35,yes,yes,no,Standard,103
+KSI0011,KATH,Ayigya,81.0,Female,2.7,7,Friday,11,80,no,yes,yes,Standard,156
+KSI0012,Tafo Govt Hospital,Bantama,14.0,Female,6.9,10,Thursday,2,34,yes,no,yes,Standard,116
+KSI0013,Kumasi South Hospital,Suame,10.0,Male,7.9,8,Friday,3,48,yes,no,no,Standard,82
+KSI0014,KATH,Kwadaso,35.0,Male,4.3,14,Thursday,11,54,yes,no,no,Standard,73
+KSI0015,KATH,Kwadaso,25.0,Female,5.1,7,Friday,10,75,no,no,no,Standard,94
+KSI0016,KATH,Suame,3.0,Female,1.8,9,Friday,6,59,yes,no,no,Standard,109
+KSI0017,Manhyia Govt Hospital,Asokwa,17.0,Male,4.9,13,Friday,5,31,yes,no,no,Standard,61
+KSI0018,Suntreso Govt Hospital,Tafo,12.0,Female,14.5,13,Tuesday,2,38,yes,yes,no,Standard,92
+KSI0019,Manhyia Govt Hospital,Asafo,54.0,Male,14.2,7,Tuesday,4,50,yes,no,no,Urgent,94
+KSI0020,KATH,Tafo,24.0,Female,5.4,8,Friday,6,65,no,no,no,Standard,123
+KSI0021,Suntreso Govt Hospital,Suame,29.0,Male,8.8,10,Thursday,5,34,yes,yes,yes,Urgent,99
+KSI0022,KATH,Ayigya,43.0,Female,13.7,7,Wednesday,9,54,yes,no,no,Standard,94
+KSI0023,KATH,Asafo,25.0,Female,0.6,14,Monday,8,40,yes,no,no,Standard,65
+KSI0024,Manhyia Govt Hospital,Bantama,60.0,Female,12.3,13,Tuesday,7,32,yes,yes,yes,Standard,100
+KSI0025,Manhyia Govt Hospital,Tafo,65.0,Male,14.3,7,Friday,3,49,yes,yes,no,Urgent,92
+KSI0026,Kumasi South Hospital,Suame,84.0,Female,1.8,7,Monday,5,56,yes,yes,no,Urgent,96
+KSI0027,KATH,Tafo,28.0,Male,2.8,7,Tuesday,10,55,no,no,yes,Standard,85
+KSI0028,Suntreso Govt Hospital,Asafo,16.0,Male,14.4,13,Wednesday,5,32,yes,no,no,Standard,57
+KSI0029,Suntreso Govt Hospital,Santasi,47.0,Female,8.3,7,Thursday,6,40,no,no,yes,Standard,79
+KSI0030,KATH,Abrepo,81.0,Female,0.7,8,Friday,10,54,yes,yes,no,Standard,122
+KSI0031,Suntreso Govt Hospital,Tafo,58.0,Female,4.2,9,Wednesday,5,32,yes,no,no,Standard,78
+KSI0032,KATH,Bantama,76.0,Female,7.0,10,Tuesday,11,53,yes,no,yes,Standard,129
+KSI0033,KATH,Bantama,27.0,Male,10.5,7,Friday,7,56,yes,yes,yes,Urgent,108
+KSI0034,Tafo Govt Hospital,Adum,53.0,Male,11.1,8,Monday,5,47,yes,no,no,Standard,106
+KSI0035,Tafo Govt Hospital,Tafo,42.0,Male,14.9,14,Thursday,6,19,yes,no,yes,Standard,45
+KSI0036,Kumasi South Hospital,Abrepo,59.0,Female,4.7,13,Tuesday,2,32,yes,no,yes,Standard,86
+KSI0037,Manhyia Govt Hospital,Asokwa,47.0,Female,8.3,11,Thursday,8,37,yes,yes,no,Standard,70
+KSI0038,KATH,Kwadaso,34.0,Female,8.2,7,Friday,9,63,yes,yes,yes,Standard,179
+KSI0039,Kumasi South Hospital,Abrepo,37.0,Male,6.4,8,Wednesday,7,41,yes,no,yes,Standard,99
+KSI0040,Manhyia Govt Hospital,Kwadaso,6.0,Male,3.0,10,Thursday,4,41,yes,no,no,Standard,110
+KSI0041,KATH,Kwadaso,7.0,Female,14.7,8,Monday,9,61,yes,no,no,Standard,129
+KSI0042,Manhyia Govt Hospital,Santasi,25.0,Male,12.9,13,Tuesday,5,34,yes,no,no,Urgent,23
+KSI0043,KATH,Adum,33.0,Female,7.7,10,Monday,6,64,yes,no,no,Standard,153
+KSI0044,Tafo Govt Hospital,Abrepo,55.0,Female,9.2,7,Thursday,3,45,no,no,yes,Standard,109
+KSI0045,KATH,Abrepo,58.0,Female,3.8,13,Wednesday,11,48,no,no,yes,Standard,58
+KSI0046,Suntreso Govt Hospital,Santasi,7.0,Male,,14,Wednesday,6,30,yes,no,yes,Standard,105
+KSI0047,Manhyia Govt Hospital,Tafo,57.0,Male,10.6,7,Monday,8,65,yes,no,no,Standard,126
+KSI0048,Suntreso Govt Hospital,Tafo,12.0,Male,8.0,9,Friday,6,51,yes,no,no,Standard,92
+KSI0049,Suntreso Govt Hospital,Tafo,16.0,Male,14.9,8,Friday,4,32,no,no,no,Standard,38
+KSI0050,KATH,Ayigya,80.0,Male,9.4,8,Wednesday,8,37,yes,no,no,Urgent,61
+KSI0051,Tafo Govt Hospital,Kwadaso,43.0,Female,5.9,7,Monday,5,46,yes,no,no,Standard,109
+KSI0052,Kumasi South Hospital,Ayigya,77.0,Female,11.7,9,Monday,3,58,yes,yes,yes,Standard,187
+KSI0053,Tafo Govt Hospital,Adum,7.0,Male,3.0,14,Monday,1,35,yes,no,no,Urgent,44
+KSI0054,Tafo Govt Hospital,Santasi,51.0,Male,6.1,9,Thursday,4,29,yes,no,yes,Standard,106
+KSI0055,Suntreso Govt Hospital,Abrepo,73.0,Male,5.5,7,Friday,4,47,yes,no,yes,Standard,144
+KSI0056,Tafo Govt Hospital,Kwadaso,32.0,Male,6.8,10,Friday,1,39,yes,no,no,Standard,81
+KSI0057,KATH,Ayigya,75.0,Female,11.8,8,Thursday,9,54,yes,no,no,Urgent,42
+KSI0058,KATH,Ayigya,8.0,Male,7.5,12,Tuesday,11,56,yes,no,no,Standard,90
+KSI0059,KATH,Suame,72.0,Male,12.0,9,Thursday,9,64,yes,no,no,Urgent,52
+KSI0060,Manhyia Govt Hospital,Ayigya,45.0,Male,8.9,7,Monday,5,58,yes,yes,yes,Standard,177
+KSI0061,Manhyia Govt Hospital,Asokwa,59.0,Female,5.5,7,Thursday,4,48,no,no,no,Standard,73
+KSI0062,KATH,Abrepo,4.0,Female,12.2,11,Monday,7,68,yes,no,no,Standard,152
+KSI0063,Kumasi South Hospital,Asokwa,67.0,Male,4.0,8,Wednesday,2,53,yes,no,yes,Standard,142
+KSI0064,Manhyia Govt Hospital,Abrepo,29.0,Female,3.8,11,Monday,8,43,yes,no,no,Standard,96
+KSI0065,KATH,Santasi,29.0,Female,7.8,7,Friday,6,58,no,yes,no,Standard,107
+KSI0066,Suntreso Govt Hospital,Abrepo,28.0,Female,4.3,8,Thursday,6,41,no,no,no,Standard,69
+KSI0067,KATH,Asokwa,77.0,Male,0.6,9,Monday,7,74,yes,no,no,Standard,179
+KSI0068,Kumasi South Hospital,Abrepo,79.0,Female,9.9,14,Tuesday,2,34,yes,yes,no,Standard,76
+KSI0069,KATH,Santasi,44.0,Female,7.9,14,Wednesday,10,55,yes,no,no,Standard,84
+KSI0070,Tafo Govt Hospital,Santasi,4.0,Female,,7,Tuesday,6,41,yes,no,yes,Standard,148
+KSI0071,Kumasi South Hospital,Adum,9.0,Female,14.5,8,Tuesday,5,44,yes,yes,yes,Standard,138
+KSI0072,KATH,Abrepo,5.0,Female,8.8,7,Tuesday,6,73,no,yes,yes,Standard,168
+KSI0073,KATH,Suame,56.0,Male,13.0,9,Wednesday,10,50,yes,no,yes,Standard,127
+KSI0074,Kumasi South Hospital,Tafo,84.0,Female,2.5,9,Wednesday,3,44,no,no,no,Standard,73
+KSI0075,Kumasi South Hospital,Bantama,50.0,Female,8.8,13,Wednesday,5,33,no,no,no,Standard,10
+KSI0076,Kumasi South Hospital,Santasi,,Female,13.1,14,Wednesday,2,33,yes,no,yes,Standard,120
+KSI0077,Kumasi South Hospital,Asafo,15.0,Male,9.0,8,Tuesday,3,41,no,no,yes,Standard,70
+KSI0078,KATH,Tafo,32.0,Female,10.9,9,Friday,9,53,yes,no,yes,Urgent,83
+KSI0079,Manhyia Govt Hospital,Kwadaso,28.0,Female,5.9,13,Friday,5,30,yes,no,no,Standard,76
+KSI0080,KATH,Abrepo,22.0,Male,1.8,12,Wednesday,7,49,yes,no,no,Standard,86
+KSI0081,Tafo Govt Hospital,Asokwa,17.0,Female,7.1,7,Thursday,3,40,yes,yes,no,Standard,98
+KSI0082,Suntreso Govt Hospital,Bantama,59.0,Female,6.2,8,Monday,7,55,yes,no,no,Standard,120
+KSI0083,Manhyia Govt Hospital,Asafo,71.0,Female,13.1,9,Thursday,3,23,yes,no,yes,Standard,85
+KSI0084,KATH,Tafo,57.0,Male,4.0,8,Thursday,10,68,yes,yes,yes,Standard,144
+KSI0085,Manhyia Govt Hospital,Abrepo,26.0,Male,14.5,7,Thursday,3,47,yes,no,yes,Standard,143
+KSI0086,Manhyia Govt Hospital,Adum,25.0,Female,14.4,7,Friday,4,41,yes,no,yes,Standard,122
+KSI0087,Kumasi South Hospital,Kwadaso,10.0,Male,4.1,10,Monday,4,47,no,no,no,Standard,62
+KSI0088,Suntreso Govt Hospital,Bantama,45.0,Female,5.5,8,Thursday,4,47,yes,no,no,Standard,108
+KSI0089,Tafo Govt Hospital,Suame,83.0,Female,13.5,7,Wednesday,4,38,yes,no,no,Standard,89
+KSI0090,Manhyia Govt Hospital,Adum,11.0,Female,14.5,8,Friday,3,38,yes,no,no,Standard,87
+KSI0091,KATH,Asafo,77.0,Male,6.9,12,Wednesday,6,61,yes,yes,yes,Standard,158
+KSI0092,Kumasi South Hospital,Bantama,,Female,5.2,12,Wednesday,3,38,yes,no,yes,Standard,118
+KSI0093,Kumasi South Hospital,Adum,72.0,Male,8.1,9,Thursday,4,45,yes,no,no,Standard,111
+KSI0094,Suntreso Govt Hospital,Kwadaso,68.0,Male,10.5,8,Wednesday,3,34,yes,no,no,Standard,79
+KSI0095,Kumasi South Hospital,Suame,28.0,Male,4.5,15,Monday,3,40,yes,yes,yes,Standard,146
+KSI0096,Manhyia Govt Hospital,Adum,75.0,Male,11.2,7,Wednesday,8,44,no,no,no,Standard,62
+KSI0097,Suntreso Govt Hospital,Ayigya,65.0,Female,1.2,7,Thursday,4,42,yes,no,no,Standard,106
+KSI0098,Manhyia Govt Hospital,Suame,49.0,Female,1.2,8,Wednesday,4,37,yes,no,no,Standard,87
+KSI0099,KATH,Asafo,47.0,Male,6.1,7,Friday,8,71,yes,no,no,Standard,118
+KSI0100,KATH,Kwadaso,52.0,Female,5.6,8,Friday,7,62,yes,no,no,Standard,114
+KSI0101,KATH,Abrepo,54.0,Male,5.1,13,Friday,10,57,yes,no,no,Standard,91
+KSI0102,Suntreso Govt Hospital,Asokwa,,Female,7.6,10,Tuesday,3,39,yes,yes,no,Standard,131
+KSI0103,Manhyia Govt Hospital,Asokwa,,Female,5.2,8,Friday,4,45,yes,no,no,Standard,91
+KSI0104,Suntreso Govt Hospital,Asokwa,47.0,Female,3.3,14,Friday,6,30,yes,yes,yes,Standard,108
+KSI0105,Tafo Govt Hospital,Bantama,31.0,Male,5.0,7,Tuesday,1,36,yes,no,no,Standard,89
+KSI0106,KATH,Asafo,46.0,Female,14.6,7,Friday,8,60,no,no,yes,Standard,122
+KSI0107,Manhyia Govt Hospital,Kwadaso,26.0,Male,6.5,9,Thursday,6,30,yes,no,yes,Standard,116
+KSI0108,Kumasi South Hospital,Suame,5.0,Female,6.9,10,Friday,6,37,yes,no,no,Standard,80
+KSI0109,KATH,Bantama,84.0,Male,8.9,7,Friday,6,60,yes,no,no,Standard,106
+KSI0110,KATH,Asafo,52.0,Female,14.8,8,Tuesday,7,63,yes,yes,yes,Standard,161
+KSI0111,KATH,Abrepo,75.0,Female,4.0,10,Thursday,11,53,yes,no,yes,Urgent,96
+KSI0112,KATH,Ayigya,54.0,Female,10.4,10,Wednesday,6,48,yes,no,yes,Standard,132
+KSI0113,Tafo Govt Hospital,Kwadaso,33.0,Male,10.9,10,Monday,5,43,yes,no,no,Standard,72
+KSI0114,Kumasi South Hospital,Asokwa,50.0,Female,9.3,8,Thursday,7,48,yes,no,yes,Standard,103
+KSI0115,Suntreso Govt Hospital,Adum,38.0,Male,1.8,7,Wednesday,3,41,yes,no,yes,Standard,137
+KSI0116,Tafo Govt Hospital,Kwadaso,27.0,Female,10.3,9,Thursday,1,38,no,no,no,Urgent,47
+KSI0117,Kumasi South Hospital,Santasi,15.0,Male,1.4,7,Wednesday,5,47,yes,yes,yes,Standard,145
+KSI0118,KATH,Asafo,61.0,Male,9.1,14,Wednesday,8,60,yes,no,no,Urgent,100
+KSI0119,Tafo Govt Hospital,Tafo,21.0,Female,11.2,9,Thursday,3,35,no,no,no,Standard,65
+KSI0120,Suntreso Govt Hospital,Abrepo,46.0,Male,3.6,8,Tuesday,6,37,yes,yes,yes,Standard,117
+KSI0121,Kumasi South Hospital,Ayigya,69.0,Male,12.7,11,Thursday,3,35,yes,no,no,Standard,66
+KSI0122,Tafo Govt Hospital,Abrepo,6.0,Male,0.9,9,Thursday,2,28,yes,no,no,Standard,57
+KSI0123,Manhyia Govt Hospital,Kwadaso,38.0,Male,12.7,8,Wednesday,5,38,yes,no,no,Standard,88
+KSI0124,KATH,Tafo,62.0,Female,7.2,12,Monday,6,63,yes,no,no,Standard,122
+KSI0125,KATH,Santasi,62.0,Female,3.7,13,Wednesday,7,53,yes,no,yes,Standard,150
+KSI0126,Manhyia Govt Hospital,Suame,82.0,Male,2.4,10,Friday,6,31,yes,yes,no,Standard,102
+KSI0127,Kumasi South Hospital,Adum,78.0,Male,14.3,7,Thursday,5,45,yes,yes,no,Urgent,86
+KSI0128,Tafo Govt Hospital,Tafo,74.0,Male,1.6,9,Thursday,2,35,yes,no,yes,Standard,95
+KSI0129,KATH,Asafo,46.0,Male,3.4,11,Tuesday,7,60,no,yes,yes,Standard,123
+KSI0130,Suntreso Govt Hospital,Asokwa,13.0,Female,5.5,7,Wednesday,4,44,yes,no,yes,Standard,145
+KSI0131,Manhyia Govt Hospital,Santasi,3.0,Female,9.5,8,Tuesday,7,54,yes,no,yes,Standard,118
+KSI0132,KATH,Adum,6.0,Male,8.4,13,Thursday,8,59,yes,no,no,Standard,115
+KSI0133,KATH,Ayigya,8.0,Male,2.3,7,Wednesday,10,66,yes,no,yes,Standard,151
+KSI0134,Manhyia Govt Hospital,Asokwa,44.0,Male,4.7,11,Wednesday,6,44,yes,no,yes,Urgent,75
+KSI0135,Tafo Govt Hospital,Kwadaso,33.0,Female,4.0,9,Friday,5,31,yes,no,no,Urgent,16
+KSI0136,Manhyia Govt Hospital,Tafo,81.0,Female,3.6,9,Friday,5,52,no,no,yes,Standard,105
+KSI0137,Suntreso Govt Hospital,Adum,75.0,Male,6.5,7,Monday,3,56,yes,no,no,Standard,134
+KSI0138,Kumasi South Hospital,Bantama,77.0,Male,10.7,12,Friday,6,39,yes,no,no,Standard,82
+KSI0139,Manhyia Govt Hospital,Suame,50.0,Female,3.7,8,Wednesday,5,43,yes,yes,yes,Standard,125
+KSI0140,Tafo Govt Hospital,Suame,11.0,Female,5.8,9,Friday,4,30,yes,no,no,Standard,61
+KSI0141,Tafo Govt Hospital,Santasi,28.0,Male,6.2,10,Monday,6,40,yes,no,no,Standard,80
+KSI0142,KATH,Ayigya,70.0,Male,14.7,11,Thursday,10,63,yes,no,yes,Urgent,104
+KSI0143,Manhyia Govt Hospital,Santasi,41.0,Male,14.3,14,Friday,6,27,no,no,yes,Standard,37
+KSI0144,Manhyia Govt Hospital,Bantama,16.0,Female,12.1,9,Wednesday,6,45,yes,no,no,Standard,66
+KSI0145,KATH,Asafo,68.0,Male,4.0,8,Thursday,6,61,yes,no,no,Standard,134
+KSI0146,KATH,Ayigya,48.0,Male,1.5,14,Wednesday,11,38,yes,yes,no,Standard,45
+KSI0147,Suntreso Govt Hospital,Abrepo,56.0,Female,5.1,10,Thursday,6,31,yes,no,yes,Urgent,73
+KSI0148,Suntreso Govt Hospital,Asafo,64.0,Male,4.4,8,Wednesday,4,40,yes,yes,no,Standard,103
+KSI0149,KATH,Ayigya,59.0,Female,7.8,7,Friday,10,69,no,no,no,Standard,70
+KSI0150,KATH,Ayigya,62.0,Male,11.8,12,Friday,10,54,no,no,no,Standard,51
+KSI0151,Tafo Govt Hospital,Bantama,76.0,Male,12.9,8,Monday,6,41,yes,yes,no,Standard,110
+KSI0152,KATH,Kwadaso,11.0,Female,12.8,10,Thursday,9,59,yes,yes,no,Standard,111
+KSI0153,KATH,Bantama,18.0,Male,5.7,9,Monday,9,74,no,no,no,Standard,113
+KSI0154,Manhyia Govt Hospital,Ayigya,19.0,Female,10.5,7,Tuesday,6,33,yes,yes,no,Standard,102
+KSI0155,Tafo Govt Hospital,Adum,55.0,Female,5.0,10,Friday,4,28,yes,yes,no,Standard,74
+KSI0156,KATH,Asafo,82.0,Male,1.4,7,Thursday,11,62,yes,no,yes,Standard,119
+KSI0157,Suntreso Govt Hospital,Bantama,26.0,Female,10.7,8,Monday,4,47,yes,no,no,Standard,106
+KSI0158,Kumasi South Hospital,Kwadaso,6.0,Male,0.6,9,Monday,3,59,yes,no,no,Standard,153
+KSI0159,KATH,Tafo,4.0,Female,6.4,9,Tuesday,6,77,no,no,yes,Standard,176
+KSI0160,Kumasi South Hospital,Santasi,29.0,Male,5.3,11,Monday,5,59,no,yes,no,Standard,79
+KSI0161,Manhyia Govt Hospital,Ayigya,59.0,Female,10.6,12,Wednesday,6,35,yes,no,yes,Urgent,74
+KSI0162,Suntreso Govt Hospital,Abrepo,17.0,Male,11.6,11,Friday,2,37,yes,no,no,Standard,89
+KSI0163,Suntreso Govt Hospital,Tafo,43.0,Male,4.9,7,Monday,5,57,no,no,no,Standard,111
+KSI0164,Suntreso Govt Hospital,Suame,80.0,Female,12.3,7,Monday,3,50,yes,no,yes,Standard,144
+KSI0165,KATH,Asokwa,66.0,Female,4.8,9,Tuesday,10,50,yes,no,no,Standard,58
+KSI0166,Kumasi South Hospital,Kwadaso,34.0,Male,7.0,14,Wednesday,2,31,yes,no,yes,Standard,109
+KSI0167,Manhyia Govt Hospital,Abrepo,8.0,Male,11.0,12,Monday,5,38,yes,yes,no,Urgent,53
+KSI0168,KATH,Asokwa,13.0,Female,10.5,12,Friday,6,45,yes,yes,no,Urgent,52
+KSI0169,KATH,Kwadaso,8.0,Female,14.8,8,Friday,7,55,yes,no,yes,Standard,120
+KSI0170,Suntreso Govt Hospital,Adum,,Male,3.8,9,Monday,7,57,yes,yes,yes,Standard,165
+KSI0171,Suntreso Govt Hospital,Santasi,43.0,Female,10.1,9,Wednesday,4,42,no,no,yes,Urgent,60
+KSI0172,KATH,Tafo,39.0,Male,9.3,7,Friday,10,60,yes,no,no,Standard,117
+KSI0173,Suntreso Govt Hospital,Asafo,81.0,Female,13.8,7,Friday,5,35,yes,yes,no,Urgent,71
+KSI0174,KATH,Kwadaso,59.0,Male,2.8,14,Wednesday,6,37,yes,no,yes,Standard,97
+KSI0175,Suntreso Govt Hospital,Asafo,84.0,Male,11.4,8,Wednesday,4,56,yes,yes,yes,Standard,158
+KSI0176,KATH,Santasi,44.0,Female,8.7,8,Monday,6,61,yes,no,yes,Standard,158
+KSI0177,Kumasi South Hospital,Ayigya,9.0,Male,4.5,7,Thursday,6,52,yes,no,no,Standard,96
+KSI0178,Manhyia Govt Hospital,Suame,37.0,Female,7.4,14,Tuesday,3,34,yes,no,no,Standard,57
+KSI0179,Tafo Govt Hospital,Tafo,74.0,Male,5.3,9,Thursday,3,38,yes,no,yes,Standard,118
+KSI0180,KATH,Santasi,36.0,Male,8.9,10,Thursday,7,65,no,yes,no,Standard,129
+KSI0181,Manhyia Govt Hospital,Santasi,28.0,Male,13.4,13,Friday,8,35,yes,no,yes,Urgent,33
+KSI0182,KATH,Adum,,Female,8.8,8,Wednesday,8,67,yes,no,no,Standard,142
+KSI0183,Tafo Govt Hospital,Asokwa,43.0,Male,9.7,10,Friday,1,28,yes,no,no,Standard,76
+KSI0184,Tafo Govt Hospital,Suame,85.0,Female,8.0,7,Tuesday,5,31,yes,no,no,Standard,70
+KSI0185,KATH,Tafo,42.0,Female,1.2,7,Monday,9,66,no,no,no,Standard,81
+KSI0186,Suntreso Govt Hospital,Ayigya,66.0,Female,3.9,12,Tuesday,5,23,no,no,no,Standard,5
+KSI0187,Kumasi South Hospital,Ayigya,55.0,Male,7.6,11,Friday,6,40,yes,no,no,Standard,73
+KSI0188,Suntreso Govt Hospital,Bantama,72.0,Male,5.0,8,Friday,2,36,yes,yes,no,Standard,121
+KSI0189,Suntreso Govt Hospital,Santasi,48.0,Male,3.1,8,Friday,7,36,yes,no,yes,Standard,86
+KSI0190,KATH,Kwadaso,22.0,Male,7.8,9,Friday,10,45,yes,no,yes,Standard,133
+KSI0191,KATH,Adum,27.0,Male,5.2,7,Thursday,6,64,yes,no,yes,Standard,172
+KSI0192,Tafo Govt Hospital,Suame,67.0,Female,4.2,8,Monday,3,43,yes,yes,no,Standard,108
+KSI0193,Tafo Govt Hospital,Ayigya,13.0,Male,7.2,7,Thursday,6,39,no,no,yes,Urgent,44
+KSI0194,Suntreso Govt Hospital,Tafo,45.0,Male,2.4,8,Friday,3,44,yes,yes,yes,Urgent,149
+KSI0195,Manhyia Govt Hospital,Bantama,10.0,Male,14.0,12,Wednesday,3,42,yes,no,no,Urgent,35
+KSI0196,Manhyia Govt Hospital,Tafo,9.0,Female,13.1,8,Thursday,6,53,yes,no,yes,Urgent,103
+KSI0197,Kumasi South Hospital,Adum,54.0,Male,10.8,7,Friday,5,42,yes,no,no,Standard,84
+KSI0198,Tafo Govt Hospital,Kwadaso,27.0,Female,2.0,9,Friday,6,45,yes,no,no,Standard,88
+KSI0199,Tafo Govt Hospital,Bantama,34.0,Male,11.8,13,Monday,2,47,yes,yes,no,Standard,140
+KSI0200,Kumasi South Hospital,Bantama,1.0,Female,12.2,8,Tuesday,2,43,yes,yes,no,Standard,115
+KSI0201,Suntreso Govt Hospital,Asokwa,32.0,Female,11.6,7,Thursday,3,38,yes,no,no,Urgent,74
+KSI0202,KATH,Suame,71.0,Male,2.2,8,Thursday,8,66,no,yes,no,Urgent,113
+KSI0203,KATH,Bantama,67.0,Male,9.8,11,Thursday,7,50,yes,no,yes,Standard,126
+KSI0204,Tafo Govt Hospital,Asokwa,84.0,Male,12.6,9,Friday,3,33,yes,yes,no,Standard,104
+KSI0205,Suntreso Govt Hospital,Asokwa,20.0,Male,8.9,12,Monday,5,48,yes,no,yes,Standard,118
+KSI0206,KATH,Adum,35.0,Female,9.9,14,Friday,8,57,no,no,yes,Standard,98
+KSI0207,KATH,Asafo,78.0,Female,7.1,12,Friday,6,56,yes,no,no,Standard,104
+KSI0208,Suntreso Govt Hospital,Tafo,17.0,Female,8.2,10,Wednesday,7,36,yes,no,yes,Standard,103
+KSI0209,KATH,Kwadaso,18.0,Female,1.0,9,Monday,11,65,no,no,yes,Urgent,103
+KSI0210,KATH,Abrepo,45.0,Male,9.8,7,Thursday,6,63,yes,no,yes,Standard,158
+KSI0211,Suntreso Govt Hospital,Tafo,84.0,Male,1.7,15,Tuesday,2,18,yes,no,yes,Urgent,65
+KSI0212,Kumasi South Hospital,Bantama,53.0,Female,6.8,8,Thursday,2,41,yes,no,yes,Standard,153
+KSI0213,Suntreso Govt Hospital,Kwadaso,82.0,Male,4.7,7,Friday,6,36,no,no,yes,Standard,92
+KSI0214,KATH,Ayigya,68.0,Female,8.4,10,Monday,8,53,yes,no,no,Standard,101
+KSI0215,Kumasi South Hospital,Asafo,65.0,Male,2.4,8,Monday,2,52,yes,no,no,Urgent,84
+KSI0216,KATH,Ayigya,1.0,Male,10.5,10,Monday,11,68,yes,yes,yes,Standard,152
+KSI0217,Manhyia Govt Hospital,Ayigya,58.0,Female,12.0,10,Wednesday,4,41,no,no,no,Urgent,41
+KSI0218,Kumasi South Hospital,Suame,26.0,Male,2.9,9,Thursday,3,33,yes,no,yes,Standard,92
+KSI0219,Suntreso Govt Hospital,Tafo,20.0,Female,2.0,12,Wednesday,6,32,yes,yes,yes,Standard,114
+KSI0220,Kumasi South Hospital,Abrepo,10.0,Female,2.6,8,Tuesday,4,40,no,yes,yes,Standard,95
+KSI0221,Suntreso Govt Hospital,Adum,59.0,Female,13.2,9,Friday,4,42,yes,no,no,Standard,100
+KSI0222,Suntreso Govt Hospital,Abrepo,75.0,Female,8.2,9,Wednesday,4,33,no,no,no,Standard,50
+KSI0223,KATH,Ayigya,41.0,Female,7.3,10,Wednesday,11,68,no,no,no,Standard,100
+KSI0224,Manhyia Govt Hospital,Bantama,5.0,Female,2.0,11,Friday,8,44,no,no,no,Standard,61
+KSI0225,KATH,Asafo,65.0,Male,9.9,8,Monday,10,72,yes,no,no,Standard,154
+KSI0226,KATH,Santasi,17.0,Female,13.1,10,Friday,8,54,yes,no,no,Urgent,85
+KSI0227,Tafo Govt Hospital,Abrepo,22.0,Female,12.5,7,Thursday,3,40,no,yes,no,Standard,85
+KSI0228,Manhyia Govt Hospital,Ayigya,41.0,Male,9.6,14,Friday,3,33,no,no,yes,Urgent,23
+KSI0229,Tafo Govt Hospital,Asafo,68.0,Male,1.6,8,Monday,3,38,yes,yes,yes,Standard,129
+KSI0230,Suntreso Govt Hospital,Kwadaso,69.0,Male,2.1,11,Friday,7,33,no,yes,no,Standard,16
+KSI0231,Kumasi South Hospital,Tafo,11.0,Female,1.2,7,Wednesday,2,44,yes,yes,no,Standard,109
+KSI0232,Suntreso Govt Hospital,Asokwa,56.0,Female,4.2,7,Tuesday,2,48,yes,no,yes,Standard,143
+KSI0233,Suntreso Govt Hospital,Suame,51.0,Male,2.5,9,Wednesday,4,38,yes,yes,yes,Standard,122
+KSI0234,Manhyia Govt Hospital,Asafo,21.0,Female,4.3,13,Tuesday,4,24,no,yes,no,Standard,44
+KSI0235,KATH,Bantama,76.0,Female,6.1,9,Friday,9,79,yes,no,no,Standard,141
+KSI0236,Kumasi South Hospital,Bantama,26.0,Female,14.2,14,Thursday,7,33,yes,yes,yes,Standard,91
+KSI0237,KATH,Asafo,19.0,Female,9.4,9,Friday,7,55,no,no,no,Standard,66
+KSI0238,KATH,Bantama,60.0,Female,12.6,9,Monday,8,72,yes,no,no,Standard,139
+KSI0239,Suntreso Govt Hospital,Tafo,71.0,Male,10.8,7,Friday,4,31,yes,no,no,Standard,63
+KSI0240,KATH,Bantama,47.0,Female,2.1,12,Tuesday,7,58,yes,yes,no,Urgent,83
+KSI0241,Tafo Govt Hospital,Abrepo,71.0,Male,11.2,8,Wednesday,3,41,yes,yes,no,Standard,127
+KSI0242,Tafo Govt Hospital,Asokwa,26.0,Female,4.5,13,Thursday,6,25,yes,no,yes,Standard,63
+KSI0243,Tafo Govt Hospital,Bantama,40.0,Female,9.8,13,Friday,1,28,no,yes,yes,Standard,117
+KSI0244,Manhyia Govt Hospital,Asokwa,5.0,Male,5.4,14,Friday,7,22,yes,no,no,Standard,55
+KSI0245,KATH,Ayigya,21.0,Male,15.0,9,Wednesday,8,60,no,yes,no,Standard,94
+KSI0246,Tafo Govt Hospital,Adum,78.0,Female,4.3,10,Thursday,3,27,yes,no,yes,Standard,76
+KSI0247,Manhyia Govt Hospital,Tafo,4.0,Male,4.5,11,Friday,4,31,yes,no,no,Urgent,34
+KSI0248,Tafo Govt Hospital,Adum,23.0,Female,14.0,7,Friday,1,38,yes,no,no,Standard,114
+KSI0249,Tafo Govt Hospital,Ayigya,84.0,Male,0.9,10,Tuesday,2,25,yes,no,yes,Standard,88
+KSI0250,Tafo Govt Hospital,Tafo,15.0,Male,10.6,7,Tuesday,6,36,yes,no,yes,Standard,113
+KSI0251,KATH,Asafo,8.0,Female,11.0,9,Monday,7,76,yes,no,yes,Standard,199
+KSI0252,Manhyia Govt Hospital,Asafo,41.0,Female,12.6,7,Wednesday,5,48,yes,no,no,Standard,88
+KSI0253,Tafo Govt Hospital,Asokwa,19.0,Female,14.6,7,Thursday,1,39,yes,no,no,Standard,88
+KSI0254,Manhyia Govt Hospital,Ayigya,46.0,Male,14.6,8,Friday,8,50,yes,yes,no,Standard,114
+KSI0255,KATH,Asokwa,28.0,Female,1.4,9,Friday,8,61,yes,yes,no,Standard,132
+KSI0256,Suntreso Govt Hospital,Suame,68.0,Female,12.4,10,Monday,7,54,no,no,no,Standard,65
+KSI0257,Tafo Govt Hospital,Bantama,15.0,Female,9.9,7,Friday,3,42,yes,yes,no,Standard,106
+KSI0258,Kumasi South Hospital,Santasi,37.0,Female,9.9,9,Wednesday,4,37,yes,no,no,Standard,80
+KSI0259,Suntreso Govt Hospital,Suame,1.0,Female,2.4,7,Monday,4,52,no,yes,no,Standard,90
+KSI0260,KATH,Bantama,67.0,Male,9.9,9,Wednesday,10,66,no,no,no,Standard,95
+KSI0261,Suntreso Govt Hospital,Tafo,24.0,Male,14.7,10,Monday,5,53,yes,yes,yes,Standard,150
+KSI0262,Tafo Govt Hospital,Asokwa,27.0,Female,13.7,9,Friday,1,37,yes,no,no,Standard,49
+KSI0263,KATH,Tafo,40.0,Male,6.9,11,Monday,10,66,yes,yes,yes,Standard,164
+KSI0264,Suntreso Govt Hospital,Tafo,63.0,Female,1.1,8,Tuesday,5,42,yes,yes,no,Standard,92
+KSI0265,Tafo Govt Hospital,Bantama,61.0,Male,5.8,11,Thursday,6,36,no,yes,no,Standard,77
+KSI0266,Kumasi South Hospital,Ayigya,36.0,Female,12.5,9,Friday,5,38,yes,no,yes,Standard,99
+KSI0267,Kumasi South Hospital,Bantama,24.0,Female,10.7,9,Thursday,5,38,yes,yes,yes,Standard,110
+KSI0268,Kumasi South Hospital,Kwadaso,24.0,Male,7.2,10,Friday,6,36,no,no,no,Standard,50
+KSI0269,Manhyia Govt Hospital,Asafo,4.0,Male,1.3,7,Thursday,3,40,yes,yes,no,Standard,106
+KSI0270,KATH,Asafo,67.0,Male,6.7,10,Tuesday,7,49,yes,yes,yes,Standard,132
+KSI0271,Kumasi South Hospital,Suame,34.0,Female,7.3,10,Thursday,5,34,no,no,no,Standard,52
+KSI0272,Kumasi South Hospital,Asafo,57.0,Female,14.0,8,Monday,3,42,yes,no,yes,Standard,123
+KSI0273,Tafo Govt Hospital,Bantama,49.0,Male,,7,Thursday,2,29,no,no,yes,Standard,62
+KSI0274,Tafo Govt Hospital,Abrepo,53.0,Female,5.0,7,Friday,3,39,no,no,yes,Standard,119
+KSI0275,Suntreso Govt Hospital,Asokwa,23.0,Male,8.1,14,Wednesday,3,27,yes,no,yes,Standard,97
+KSI0276,Suntreso Govt Hospital,Bantama,69.0,Female,1.5,10,Thursday,7,27,yes,no,no,Standard,44
+KSI0277,Kumasi South Hospital,Bantama,53.0,Female,14.6,7,Thursday,7,43,yes,no,no,Standard,80
+KSI0278,Suntreso Govt Hospital,Santasi,62.0,Male,5.7,8,Thursday,4,45,yes,no,no,Urgent,68
+KSI0279,Kumasi South Hospital,Asokwa,41.0,Female,7.4,10,Friday,2,39,yes,no,no,Standard,107
+KSI0280,Kumasi South Hospital,Kwadaso,57.0,Male,5.7,12,Thursday,2,36,yes,no,yes,Standard,101
+KSI0281,Tafo Govt Hospital,Asafo,60.0,Male,10.4,7,Friday,6,30,no,no,no,Standard,40
+KSI0282,Manhyia Govt Hospital,Asokwa,54.0,Male,10.1,8,Friday,5,46,yes,yes,yes,Standard,135
+KSI0283,Manhyia Govt Hospital,Asafo,70.0,Male,10.9,13,Wednesday,3,44,yes,yes,no,Standard,104
+KSI0284,KATH,Suame,57.0,Female,4.4,7,Monday,9,100,yes,no,no,Urgent,149
+KSI0285,Suntreso Govt Hospital,Asokwa,10.0,Male,5.1,7,Friday,2,43,no,no,yes,Urgent,74
+KSI0286,KATH,Asafo,40.0,Female,2.3,14,Tuesday,8,49,yes,no,no,Standard,92
+KSI0287,Manhyia Govt Hospital,Kwadaso,7.0,Male,10.0,10,Thursday,8,41,yes,yes,yes,Standard,122
+KSI0288,Suntreso Govt Hospital,Adum,38.0,Male,1.1,8,Tuesday,5,44,no,no,yes,Standard,71
+KSI0289,KATH,Tafo,85.0,Female,9.2,7,Thursday,7,70,yes,yes,yes,Standard,163
+KSI0290,Suntreso Govt Hospital,Tafo,61.0,Female,13.1,7,Wednesday,3,36,yes,no,yes,Standard,113
+KSI0291,KATH,Kwadaso,84.0,Male,13.4,8,Friday,7,47,no,yes,yes,Standard,148
+KSI0292,KATH,Santasi,3.0,Female,7.0,13,Monday,11,57,yes,no,yes,Standard,110
+KSI0293,Kumasi South Hospital,Adum,51.0,Female,7.2,8,Friday,4,41,no,no,no,Standard,62
+KSI0294,Manhyia Govt Hospital,Suame,47.0,Female,1.6,11,Thursday,4,31,yes,yes,yes,Standard,109
+KSI0295,KATH,Kwadaso,68.0,Female,10.2,13,Monday,6,59,yes,no,no,Urgent,77
+KSI0296,Suntreso Govt Hospital,Tafo,76.0,Male,12.4,8,Friday,3,41,no,no,no,Standard,72
+KSI0297,Kumasi South Hospital,Tafo,38.0,Male,4.0,7,Monday,6,60,yes,yes,no,Urgent,127
+KSI0298,KATH,Tafo,36.0,Female,6.6,9,Thursday,11,65,yes,no,yes,Standard,139
+KSI0299,Suntreso Govt Hospital,Ayigya,41.0,Male,12.7,13,Wednesday,6,34,no,no,yes,Standard,49
+KSI0300,KATH,Kwadaso,69.0,Female,13.2,12,Wednesday,7,64,no,no,no,Standard,130
+KSI0301,KATH,Bantama,13.0,Male,4.0,7,Friday,7,58,no,yes,no,Standard,111
+KSI0302,Suntreso Govt Hospital,Suame,58.0,Male,8.5,10,Tuesday,6,33,yes,no,no,Standard,53
+KSI0303,Suntreso Govt Hospital,Tafo,50.0,Female,3.3,9,Thursday,7,38,yes,no,yes,Urgent,83
+KSI0304,Suntreso Govt Hospital,Asafo,30.0,Male,2.0,13,Friday,7,30,yes,no,no,Urgent,5
+KSI0305,Kumasi South Hospital,Kwadaso,62.0,Female,13.7,7,Friday,3,38,yes,no,yes,Standard,148
+KSI0306,Tafo Govt Hospital,Ayigya,25.0,Female,12.4,9,Wednesday,6,34,no,no,no,Standard,23
+KSI0307,Suntreso Govt Hospital,Kwadaso,27.0,Female,11.5,13,Monday,5,31,yes,yes,no,Standard,108
+KSI0308,Manhyia Govt Hospital,Suame,51.0,Female,1.2,8,Thursday,8,42,yes,yes,yes,Standard,125
+KSI0309,Kumasi South Hospital,Ayigya,78.0,Female,12.7,9,Monday,6,47,yes,no,no,Standard,118
+KSI0310,KATH,Suame,57.0,Female,6.9,7,Thursday,8,59,yes,no,yes,Standard,172
+KSI0311,Manhyia Govt Hospital,Kwadaso,47.0,Female,5.5,8,Tuesday,7,46,no,yes,no,Standard,61
+KSI0312,KATH,Bantama,39.0,Male,8.4,8,Wednesday,6,66,yes,yes,no,Standard,169
+KSI0313,KATH,Suame,16.0,Male,1.8,14,Tuesday,9,48,yes,no,no,Standard,53
+KSI0314,Tafo Govt Hospital,Ayigya,22.0,Male,11.5,8,Friday,3,31,no,no,yes,Standard,63
+KSI0315,Kumasi South Hospital,Ayigya,85.0,Male,8.9,9,Wednesday,3,40,yes,yes,yes,Standard,127
+KSI0316,Kumasi South Hospital,Suame,54.0,Female,3.2,10,Friday,2,45,yes,yes,no,Urgent,92
+KSI0317,Manhyia Govt Hospital,Abrepo,21.0,Female,3.2,7,Tuesday,3,48,yes,no,no,Standard,110
+KSI0318,KATH,Kwadaso,72.0,Female,3.2,9,Thursday,9,57,yes,no,no,Urgent,63
+KSI0319,KATH,Abrepo,16.0,Male,1.3,11,Friday,8,40,yes,no,yes,Standard,107
+KSI0320,KATH,Santasi,59.0,Female,9.0,13,Monday,6,70,no,no,yes,Urgent,116
+KSI0321,Suntreso Govt Hospital,Kwadaso,31.0,Male,12.7,10,Thursday,4,29,yes,no,no,Standard,76
+KSI0322,Kumasi South Hospital,Suame,42.0,Female,0.8,10,Thursday,4,38,no,no,no,Standard,72
+KSI0323,Suntreso Govt Hospital,Adum,74.0,Female,1.2,7,Tuesday,7,48,no,no,no,Urgent,54
+KSI0324,KATH,Suame,32.0,Male,8.8,14,Tuesday,6,49,yes,yes,no,Standard,109
+KSI0325,Tafo Govt Hospital,Abrepo,59.0,Male,12.4,7,Wednesday,3,38,yes,no,no,Standard,79
+KSI0326,Kumasi South Hospital,Bantama,34.0,Male,5.2,11,Wednesday,5,44,yes,no,yes,Urgent,86
+KSI0327,Suntreso Govt Hospital,Suame,9.0,Female,5.6,8,Monday,2,48,yes,no,yes,Standard,134
+KSI0328,Suntreso Govt Hospital,Suame,81.0,Female,9.1,14,Thursday,5,30,no,no,no,Urgent,5
+KSI0329,Manhyia Govt Hospital,Bantama,11.0,Female,4.5,11,Monday,6,48,yes,no,no,Standard,112
+KSI0330,KATH,Suame,10.0,Male,0.9,11,Monday,8,66,yes,no,no,Urgent,89
+KSI0331,Manhyia Govt Hospital,Tafo,,Male,11.2,7,Tuesday,5,52,yes,yes,no,Standard,106
+KSI0332,Kumasi South Hospital,Adum,68.0,Female,9.6,9,Monday,7,54,yes,no,yes,Standard,112
+KSI0333,KATH,Asafo,48.0,Female,8.9,10,Monday,11,59,yes,no,yes,Standard,134
+KSI0334,KATH,Adum,52.0,Male,11.3,11,Friday,6,60,yes,no,no,Urgent,97
+KSI0335,KATH,Suame,25.0,Male,10.3,7,Wednesday,11,70,yes,no,no,Standard,132
+KSI0336,KATH,Tafo,,Female,3.5,14,Wednesday,7,48,yes,no,no,Standard,86
+KSI0337,Tafo Govt Hospital,Kwadaso,65.0,Male,5.6,13,Thursday,1,25,yes,no,no,Standard,93
+KSI0338,Kumasi South Hospital,Suame,63.0,Male,2.3,8,Wednesday,5,43,yes,yes,no,Standard,104
+KSI0339,Manhyia Govt Hospital,Abrepo,51.0,Male,2.4,12,Thursday,8,41,yes,yes,yes,Standard,108
+KSI0340,KATH,Tafo,36.0,Female,10.3,9,Friday,11,63,yes,no,no,Urgent,26
+KSI0341,Manhyia Govt Hospital,Bantama,81.0,Female,12.9,9,Wednesday,8,37,yes,no,no,Standard,57
+KSI0342,Manhyia Govt Hospital,Tafo,66.0,Female,,8,Friday,5,39,yes,no,no,Standard,97
+KSI0343,KATH,Bantama,15.0,Female,9.6,10,Wednesday,9,64,no,no,no,Standard,107
+KSI0344,Manhyia Govt Hospital,Santasi,39.0,Female,3.2,11,Wednesday,8,39,yes,yes,yes,Standard,97
+KSI0345,Manhyia Govt Hospital,Asafo,70.0,Male,2.0,8,Friday,7,55,yes,no,yes,Standard,135
+KSI0346,Suntreso Govt Hospital,Asokwa,1.0,Female,12.3,10,Monday,6,49,no,yes,yes,Standard,137
+KSI0347,Suntreso Govt Hospital,Tafo,23.0,Male,8.9,10,Monday,5,39,no,no,yes,Standard,93
+KSI0348,KATH,Ayigya,39.0,Female,9.5,11,Monday,11,59,yes,no,no,Standard,66
+KSI0349,Manhyia Govt Hospital,Abrepo,57.0,Male,11.8,7,Monday,4,53,yes,no,no,Standard,128
+KSI0350,Suntreso Govt Hospital,Suame,81.0,Male,,12,Wednesday,3,48,yes,yes,no,Standard,124
+KSI0351,Suntreso Govt Hospital,Abrepo,34.0,Male,12.6,9,Tuesday,2,42,yes,yes,no,Standard,102
+KSI0352,Tafo Govt Hospital,Adum,41.0,Male,1.3,8,Friday,1,31,no,no,yes,Standard,85
+KSI0353,Suntreso Govt Hospital,Asokwa,73.0,Male,11.3,8,Tuesday,7,37,yes,no,no,Standard,51
+KSI0354,KATH,Adum,13.0,Male,12.8,9,Tuesday,6,62,yes,no,yes,Standard,114
+KSI0355,KATH,Santasi,70.0,Female,4.6,13,Thursday,8,57,yes,yes,yes,Standard,159
+KSI0356,Suntreso Govt Hospital,Asokwa,6.0,Male,9.8,8,Monday,3,47,yes,no,no,Urgent,80
+KSI0357,KATH,Asokwa,84.0,Female,5.1,11,Wednesday,9,60,yes,no,no,Standard,124
+KSI0358,Suntreso Govt Hospital,Adum,52.0,Female,14.4,7,Monday,7,38,no,no,no,Standard,72
+KSI0359,Tafo Govt Hospital,Bantama,3.0,Female,1.0,9,Monday,6,50,yes,no,yes,Standard,122
+KSI0360,Suntreso Govt Hospital,Adum,81.0,Female,8.9,15,Tuesday,6,23,yes,yes,no,Standard,51
+KSI0361,Manhyia Govt Hospital,Abrepo,63.0,Female,2.9,11,Thursday,4,29,yes,no,yes,Standard,105
+KSI0362,Suntreso Govt Hospital,Bantama,49.0,Male,10.8,7,Monday,3,46,yes,no,yes,Standard,161
+KSI0363,Manhyia Govt Hospital,Abrepo,76.0,Male,3.1,9,Friday,4,35,yes,no,no,Standard,85
+KSI0364,Suntreso Govt Hospital,Santasi,47.0,Male,,8,Friday,2,40,no,no,no,Standard,89
+KSI0365,Tafo Govt Hospital,Suame,55.0,Female,7.7,8,Monday,3,47,yes,no,no,Standard,106
+KSI0366,Manhyia Govt Hospital,Kwadaso,64.0,Female,13.8,11,Tuesday,6,49,no,yes,no,Standard,65
+KSI0367,Tafo Govt Hospital,Bantama,65.0,Male,3.6,11,Tuesday,1,28,yes,no,no,Standard,71
+KSI0368,Tafo Govt Hospital,Santasi,81.0,Male,2.6,8,Wednesday,3,29,yes,no,no,Standard,74
+KSI0369,KATH,Ayigya,67.0,Female,11.5,14,Thursday,7,51,yes,no,no,Standard,71
+KSI0370,KATH,Santasi,15.0,Male,7.8,10,Tuesday,8,44,yes,yes,no,Standard,81
+KSI0371,KATH,Adum,32.0,Female,13.7,8,Wednesday,6,59,no,no,no,Standard,103
+KSI0372,KATH,Adum,68.0,Female,2.6,9,Friday,7,58,yes,yes,no,Standard,124
+KSI0373,KATH,Kwadaso,18.0,Female,9.9,10,Friday,6,58,yes,yes,yes,Standard,160
+KSI0374,Kumasi South Hospital,Santasi,83.0,Female,3.9,9,Friday,5,48,yes,no,no,Standard,88
+KSI0375,KATH,Asafo,43.0,Female,2.8,9,Monday,7,62,no,no,no,Standard,128
+KSI0376,Manhyia Govt Hospital,Suame,35.0,Female,10.4,9,Thursday,5,34,yes,no,yes,Standard,123
+KSI0377,Kumasi South Hospital,Adum,78.0,Female,9.1,7,Wednesday,2,39,yes,no,no,Standard,81
+KSI0378,KATH,Kwadaso,58.0,Female,11.4,12,Thursday,10,54,yes,no,yes,Urgent,71
+KSI0379,Kumasi South Hospital,Suame,33.0,Male,5.0,9,Monday,4,45,yes,no,no,Standard,118
+KSI0380,KATH,Santasi,14.0,Male,7.0,7,Wednesday,8,80,yes,no,no,Urgent,119
+KSI0381,KATH,Santasi,34.0,Male,6.4,11,Wednesday,7,41,no,yes,yes,Standard,104
+KSI0382,Kumasi South Hospital,Asokwa,61.0,Male,14.8,14,Tuesday,7,22,yes,no,no,Standard,14
+KSI0383,Suntreso Govt Hospital,Kwadaso,4.0,Female,4.7,14,Thursday,4,30,yes,no,no,Standard,47
+KSI0384,Tafo Govt Hospital,Adum,59.0,Female,4.8,8,Thursday,1,35,yes,no,no,Standard,82
+KSI0385,Kumasi South Hospital,Asafo,29.0,Male,5.6,7,Tuesday,6,41,yes,no,yes,Standard,117
+KSI0386,Kumasi South Hospital,Santasi,83.0,Male,8.7,9,Friday,5,44,yes,yes,no,Standard,131
+KSI0387,KATH,Asafo,6.0,Female,4.2,7,Monday,10,72,no,no,no,Standard,100
+KSI0388,KATH,Santasi,49.0,Male,13.8,14,Thursday,6,46,no,yes,no,Standard,64
+KSI0389,Kumasi South Hospital,Adum,40.0,Female,4.4,7,Tuesday,3,40,no,no,no,Standard,69
+KSI0390,Kumasi South Hospital,Suame,83.0,Female,13.5,8,Wednesday,2,45,no,yes,no,Urgent,79
+KSI0391,Tafo Govt Hospital,Tafo,65.0,Female,2.0,8,Tuesday,6,38,yes,no,no,Urgent,13
+KSI0392,Manhyia Govt Hospital,Suame,69.0,Male,10.0,8,Friday,8,48,yes,no,no,Standard,104
+KSI0393,Manhyia Govt Hospital,Santasi,27.0,Male,13.7,12,Monday,8,55,yes,no,yes,Urgent,87
+KSI0394,Kumasi South Hospital,Abrepo,80.0,Male,2.9,9,Friday,4,38,yes,no,no,Urgent,37
+KSI0395,Manhyia Govt Hospital,Tafo,6.0,Female,14.5,7,Wednesday,4,58,yes,no,no,Standard,96
+KSI0396,Tafo Govt Hospital,Tafo,13.0,Female,7.1,8,Wednesday,6,46,yes,no,no,Standard,92
+KSI0397,Tafo Govt Hospital,Asafo,64.0,Male,14.2,9,Wednesday,4,30,yes,no,yes,Standard,92
+KSI0398,Manhyia Govt Hospital,Kwadaso,62.0,Female,10.3,7,Wednesday,6,46,no,no,yes,Standard,100
+KSI0399,Kumasi South Hospital,Asafo,19.0,Female,4.9,10,Tuesday,2,37,yes,no,yes,Standard,105
+KSI0400,Kumasi South Hospital,Asafo,76.0,Male,3.2,9,Wednesday,7,34,no,yes,yes,Standard,80
+KSI0401,KATH,Abrepo,80.0,Female,4.9,11,Wednesday,8,68,yes,no,no,Standard,110
+KSI0402,Tafo Govt Hospital,Suame,43.0,Female,1.8,14,Tuesday,4,26,yes,yes,yes,Standard,93
+KSI0403,Suntreso Govt Hospital,Suame,74.0,Male,2.6,13,Wednesday,6,30,yes,no,no,Standard,40
+KSI0404,Kumasi South Hospital,Ayigya,20.0,Male,2.0,14,Friday,3,23,yes,no,yes,Standard,60
+KSI0405,Manhyia Govt Hospital,Santasi,68.0,Female,6.6,8,Friday,7,36,yes,no,yes,Standard,140
+KSI0406,Tafo Govt Hospital,Abrepo,44.0,Female,12.0,7,Thursday,4,27,yes,no,no,Urgent,10
+KSI0407,Manhyia Govt Hospital,Ayigya,23.0,Female,2.6,8,Friday,6,49,yes,no,yes,Standard,127
+KSI0408,KATH,Adum,2.0,Female,2.4,13,Monday,6,76,yes,yes,no,Standard,137
+KSI0409,Tafo Govt Hospital,Santasi,22.0,Female,9.8,15,Monday,1,33,yes,no,yes,Urgent,47
+KSI0410,KATH,Santasi,57.0,Male,3.4,12,Monday,11,61,yes,yes,no,Urgent,85
+KSI0411,Manhyia Govt Hospital,Asokwa,72.0,Female,1.9,7,Tuesday,4,39,yes,no,no,Standard,94
+KSI0412,Tafo Govt Hospital,Asokwa,7.0,Female,2.9,14,Friday,6,31,yes,yes,no,Standard,81
+KSI0413,Tafo Govt Hospital,Bantama,78.0,Male,13.9,9,Monday,1,47,yes,no,yes,Urgent,118
+KSI0414,Suntreso Govt Hospital,Bantama,56.0,Female,12.4,7,Thursday,4,41,yes,no,no,Standard,89
+KSI0415,Suntreso Govt Hospital,Asafo,,Female,5.6,9,Tuesday,3,49,yes,yes,no,Standard,107
+KSI0416,Manhyia Govt Hospital,Adum,16.0,Male,10.0,7,Thursday,5,61,yes,no,no,Standard,142
+KSI0417,KATH,Tafo,83.0,Female,8.3,9,Friday,11,59,no,no,no,Standard,82
+KSI0418,Manhyia Govt Hospital,Tafo,51.0,Male,10.3,8,Wednesday,3,43,yes,no,yes,Standard,111
+KSI0419,Suntreso Govt Hospital,Asokwa,82.0,Male,10.4,9,Thursday,3,44,yes,no,no,Standard,97
+KSI0420,Kumasi South Hospital,Asokwa,80.0,Male,9.6,10,Wednesday,7,44,yes,yes,yes,Urgent,90
+KSI0421,Kumasi South Hospital,Asokwa,72.0,Female,4.4,13,Tuesday,5,29,yes,yes,yes,Standard,97
+KSI0422,Kumasi South Hospital,Abrepo,12.0,Female,1.1,10,Thursday,7,35,yes,no,no,Standard,73
+KSI0423,KATH,Kwadaso,53.0,Male,7.1,9,Thursday,10,72,yes,no,yes,Standard,160
+KSI0424,Manhyia Govt Hospital,Bantama,75.0,Female,13.4,12,Tuesday,6,33,yes,no,yes,Urgent,52
+KSI0425,KATH,Abrepo,5.0,Male,8.8,13,Tuesday,8,54,yes,yes,yes,Standard,135
+KSI0426,Suntreso Govt Hospital,Suame,27.0,Female,12.6,7,Monday,5,53,yes,yes,no,Standard,157
+KSI0427,Manhyia Govt Hospital,Tafo,12.0,Female,14.9,9,Friday,8,47,yes,no,no,Urgent,57
+KSI0428,Tafo Govt Hospital,Santasi,17.0,Male,2.9,8,Thursday,4,41,yes,yes,no,Standard,103
+KSI0429,Manhyia Govt Hospital,Bantama,6.0,Female,10.5,7,Thursday,7,48,yes,no,yes,Standard,96
+KSI0430,KATH,Ayigya,5.0,Male,10.3,10,Tuesday,11,56,yes,yes,no,Urgent,75
+KSI0431,KATH,Suame,57.0,Male,14.7,13,Tuesday,10,28,no,yes,no,Urgent,10
+KSI0432,Kumasi South Hospital,Bantama,28.0,Female,,7,Friday,5,43,no,no,no,Standard,24
+KSI0433,Suntreso Govt Hospital,Abrepo,78.0,Female,10.5,12,Tuesday,6,24,yes,no,yes,Urgent,42
+KSI0434,KATH,Adum,69.0,Male,4.0,12,Wednesday,9,49,yes,no,no,Standard,75
+KSI0435,KATH,Santasi,59.0,Male,12.1,13,Wednesday,7,54,yes,yes,no,Standard,111
+KSI0436,Kumasi South Hospital,Bantama,33.0,Male,2.1,8,Wednesday,5,38,yes,no,yes,Urgent,62
+KSI0437,KATH,Kwadaso,62.0,Female,11.8,13,Wednesday,6,46,no,no,yes,Urgent,57
+KSI0438,Kumasi South Hospital,Asokwa,50.0,Male,13.7,8,Friday,6,35,no,no,yes,Standard,97
+KSI0439,Kumasi South Hospital,Asokwa,19.0,Female,6.1,9,Thursday,6,45,yes,no,no,Standard,77
+KSI0440,KATH,Santasi,69.0,Female,9.6,7,Wednesday,8,55,yes,no,yes,Standard,152
+KSI0441,KATH,Abrepo,66.0,Female,6.7,7,Tuesday,8,72,yes,no,no,Standard,121
+KSI0442,Tafo Govt Hospital,Asokwa,47.0,Male,6.8,11,Wednesday,1,27,yes,no,yes,Standard,112
+KSI0443,Manhyia Govt Hospital,Bantama,39.0,Male,5.0,9,Friday,7,33,no,no,no,Standard,38
+KSI0444,Manhyia Govt Hospital,Ayigya,68.0,Male,11.6,8,Tuesday,7,32,no,yes,yes,Standard,92
+KSI0445,Kumasi South Hospital,Tafo,33.0,Female,14.1,7,Wednesday,4,41,yes,no,no,Standard,93
+KSI0446,Tafo Govt Hospital,Tafo,13.0,Male,14.1,10,Thursday,3,19,yes,no,no,Standard,61
+KSI0447,Tafo Govt Hospital,Suame,84.0,Male,3.0,7,Tuesday,4,43,yes,no,yes,Standard,81
+KSI0448,Kumasi South Hospital,Asafo,54.0,Female,13.2,12,Tuesday,7,37,yes,no,no,Standard,38
+KSI0449,Manhyia Govt Hospital,Adum,7.0,Male,11.2,7,Thursday,7,44,no,no,yes,Standard,95
+KSI0450,KATH,Santasi,79.0,Female,4.2,7,Tuesday,10,81,yes,no,no,Urgent,71
+KSI0451,Kumasi South Hospital,Suame,14.0,Male,1.5,8,Wednesday,5,41,yes,yes,no,Standard,95
+KSI0452,Suntreso Govt Hospital,Asafo,19.0,Female,4.4,9,Tuesday,6,41,yes,no,yes,Standard,106
+KSI0453,Manhyia Govt Hospital,Abrepo,54.0,Female,13.7,8,Wednesday,3,47,no,no,yes,Standard,99
+KSI0454,Tafo Govt Hospital,Kwadaso,20.0,Female,9.7,8,Thursday,3,41,yes,no,yes,Standard,109
+KSI0455,KATH,Kwadaso,29.0,Female,11.0,14,Monday,8,58,no,no,no,Standard,86
+KSI0456,Manhyia Govt Hospital,Adum,24.0,Male,4.2,10,Thursday,8,39,no,yes,no,Standard,72
+KSI0457,KATH,Asokwa,82.0,Female,10.9,7,Wednesday,8,63,no,no,no,Standard,80
+KSI0458,Manhyia Govt Hospital,Bantama,63.0,Female,,9,Friday,4,38,yes,yes,yes,Standard,124
+KSI0459,KATH,Suame,74.0,Female,5.9,13,Thursday,6,48,yes,no,yes,Standard,111
+KSI0460,KATH,Suame,57.0,Male,9.6,8,Friday,6,47,yes,no,no,Standard,67
+KSI0461,KATH,Santasi,8.0,Male,2.6,7,Friday,9,58,yes,no,yes,Urgent,104
+KSI0462,Suntreso Govt Hospital,Santasi,62.0,Male,12.4,11,Wednesday,3,35,yes,no,no,Standard,92
+KSI0463,Kumasi South Hospital,Kwadaso,29.0,Male,3.9,10,Wednesday,6,31,yes,no,yes,Standard,105
+KSI0464,Suntreso Govt Hospital,Kwadaso,74.0,Male,10.0,9,Monday,7,48,yes,no,yes,Standard,111
+KSI0465,Tafo Govt Hospital,Ayigya,17.0,Female,6.4,7,Tuesday,1,41,no,no,no,Standard,58
+KSI0466,Manhyia Govt Hospital,Ayigya,66.0,Male,,7,Thursday,4,46,yes,no,no,Urgent,67
+KSI0467,KATH,Asokwa,6.0,Male,2.1,10,Wednesday,7,57,yes,yes,no,Standard,138
+KSI0468,Tafo Govt Hospital,Ayigya,58.0,Female,0.7,7,Thursday,1,42,no,no,yes,Urgent,75
+KSI0469,KATH,Bantama,69.0,Female,13.7,9,Friday,9,61,no,no,yes,Standard,116
+KSI0470,Tafo Govt Hospital,Bantama,28.0,Female,4.4,9,Tuesday,2,37,no,yes,no,Urgent,61
+KSI0471,KATH,Suame,62.0,Female,12.4,8,Monday,8,74,yes,no,no,Standard,134
+KSI0472,Tafo Govt Hospital,Tafo,41.0,Male,15.0,14,Thursday,2,24,no,no,no,Standard,25
+KSI0473,KATH,Bantama,69.0,Female,3.6,12,Tuesday,10,57,yes,no,yes,Standard,143
+KSI0474,Tafo Govt Hospital,Asafo,82.0,Female,4.3,11,Monday,1,33,yes,no,no,Standard,89
+KSI0475,Suntreso Govt Hospital,Kwadaso,84.0,Male,10.1,7,Thursday,6,46,yes,no,no,Standard,70
+KSI0476,Tafo Govt Hospital,Santasi,41.0,Female,14.5,7,Tuesday,4,34,yes,no,no,Standard,66
+KSI0477,KATH,Ayigya,49.0,Female,13.8,9,Wednesday,11,71,yes,yes,no,Standard,115
+KSI0478,Suntreso Govt Hospital,Suame,49.0,Male,7.8,7,Thursday,4,29,yes,no,no,Urgent,44
+KSI0479,Tafo Govt Hospital,Adum,76.0,Male,12.0,15,Tuesday,1,16,yes,no,no,Standard,31
+KSI0480,Suntreso Govt Hospital,Santasi,71.0,Male,2.5,7,Monday,3,55,yes,no,no,Standard,134
+KSI0481,Suntreso Govt Hospital,Asafo,3.0,Male,14.7,9,Tuesday,4,44,yes,yes,no,Urgent,63
+KSI0482,Kumasi South Hospital,Ayigya,10.0,Male,14.5,8,Wednesday,3,39,no,yes,no,Urgent,18
+KSI0483,Manhyia Govt Hospital,Asafo,35.0,Female,2.9,10,Thursday,6,45,yes,yes,no,Standard,106
+KSI0484,Suntreso Govt Hospital,Kwadaso,80.0,Male,4.8,7,Thursday,7,51,yes,no,no,Standard,94
+KSI0485,Suntreso Govt Hospital,Kwadaso,2.0,Female,2.0,9,Thursday,2,30,yes,no,yes,Standard,118
+KSI0486,Tafo Govt Hospital,Asokwa,24.0,Female,4.4,8,Wednesday,4,44,no,yes,yes,Standard,101
+KSI0487,KATH,Suame,74.0,Female,12.3,13,Monday,9,56,no,no,yes,Standard,94
+KSI0488,KATH,Santasi,38.0,Female,,7,Thursday,11,59,yes,no,yes,Standard,135
+KSI0489,Tafo Govt Hospital,Abrepo,22.0,Male,1.8,13,Monday,4,31,yes,no,yes,Standard,121
+KSI0490,Tafo Govt Hospital,Abrepo,26.0,Female,5.5,12,Tuesday,4,36,yes,no,yes,Standard,97
+KSI0491,Manhyia Govt Hospital,Santasi,43.0,Female,14.7,8,Monday,4,46,no,yes,yes,Urgent,106
+KSI0492,Suntreso Govt Hospital,Adum,55.0,Female,9.6,11,Monday,6,45,no,no,no,Standard,60
+KSI0493,KATH,Suame,39.0,Female,6.5,7,Thursday,7,62,no,yes,yes,Standard,123
+KSI0494,KATH,Asafo,29.0,Male,2.9,14,Friday,11,42,yes,no,yes,Standard,100
+KSI0495,Manhyia Govt Hospital,Adum,20.0,Female,14.8,9,Friday,5,45,yes,no,no,Standard,104
+KSI0496,Manhyia Govt Hospital,Tafo,41.0,Male,12.4,8,Wednesday,8,48,no,no,no,Standard,68
+KSI0497,Suntreso Govt Hospital,Santasi,54.0,Female,4.6,8,Wednesday,7,37,yes,no,no,Standard,65
+KSI0498,KATH,Asafo,20.0,Female,1.5,7,Friday,11,61,yes,no,no,Urgent,75
+KSI0499,Tafo Govt Hospital,Abrepo,19.0,Male,1.3,15,Tuesday,6,24,yes,no,no,Standard,44
+KSI0500,Tafo Govt Hospital,Bantama,84.0,Female,2.2,7,Thursday,4,35,no,no,no,Standard,77
+KSI0501,Kumasi South Hospital,Asokwa,66.0,Male,8.9,10,Thursday,7,29,yes,yes,no,Standard,85
+KSI0502,Suntreso Govt Hospital,Abrepo,30.0,Male,14.0,9,Tuesday,4,43,yes,no,no,Standard,90
+KSI0503,Manhyia Govt Hospital,Suame,53.0,Female,7.7,14,Tuesday,8,33,yes,no,no,Standard,25
+KSI0504,Kumasi South Hospital,Kwadaso,34.0,Female,12.7,8,Friday,3,32,no,no,no,Standard,59
+KSI0505,Kumasi South Hospital,Bantama,22.0,Female,7.0,9,Wednesday,5,43,yes,no,no,Standard,89
+KSI0506,KATH,Asokwa,67.0,Female,10.8,9,Tuesday,7,48,yes,no,yes,Standard,138
+KSI0507,Tafo Govt Hospital,Asokwa,6.0,Female,11.1,11,Wednesday,4,32,yes,no,no,Standard,83
+KSI0508,Kumasi South Hospital,Tafo,79.0,Female,3.0,7,Monday,3,50,no,no,no,Standard,97
+KSI0509,Tafo Govt Hospital,Tafo,27.0,Female,5.7,7,Thursday,1,31,no,no,no,Standard,93
+KSI0510,Kumasi South Hospital,Ayigya,10.0,Male,9.7,7,Friday,6,41,no,yes,no,Standard,49
+KSI0511,Suntreso Govt Hospital,Abrepo,73.0,Female,1.5,11,Thursday,6,30,yes,no,no,Standard,61
+KSI0512,Manhyia Govt Hospital,Abrepo,48.0,Male,5.7,7,Friday,6,54,no,no,no,Standard,67
+KSI0513,Tafo Govt Hospital,Abrepo,70.0,Female,8.3,9,Monday,1,41,yes,no,no,Urgent,45
+KSI0514,Tafo Govt Hospital,Ayigya,59.0,Male,14.9,7,Thursday,3,27,yes,no,yes,Standard,97
+KSI0515,KATH,Adum,59.0,Male,7.4,13,Monday,6,59,yes,no,no,Standard,99
+KSI0516,KATH,Asokwa,2.0,Male,12.3,14,Friday,9,43,yes,no,yes,Standard,95
+KSI0517,Manhyia Govt Hospital,Bantama,29.0,Female,6.8,9,Tuesday,3,33,no,no,yes,Standard,88
+KSI0518,Kumasi South Hospital,Suame,68.0,Male,12.0,8,Thursday,4,36,yes,yes,no,Standard,117
+KSI0519,Tafo Govt Hospital,Asokwa,65.0,Male,9.1,8,Monday,4,56,yes,no,yes,Standard,126
+KSI0520,KATH,Tafo,83.0,Female,13.4,7,Thursday,10,60,yes,no,no,Standard,119
+KSI0521,Suntreso Govt Hospital,Asafo,26.0,Female,6.5,8,Thursday,7,50,yes,yes,yes,Standard,137
+KSI0522,Manhyia Govt Hospital,Kwadaso,10.0,Male,9.3,10,Thursday,3,39,yes,no,yes,Standard,134
+KSI0523,Tafo Govt Hospital,Ayigya,53.0,Male,9.6,9,Wednesday,5,31,yes,no,no,Standard,55
+KSI0524,Kumasi South Hospital,Santasi,79.0,Male,6.6,14,Monday,6,34,yes,no,yes,Standard,77
+KSI0525,Kumasi South Hospital,Asafo,59.0,Male,2.6,8,Monday,3,69,yes,yes,no,Standard,149
+KSI0526,Manhyia Govt Hospital,Suame,22.0,Female,1.9,10,Thursday,5,34,yes,yes,no,Urgent,35
+KSI0527,Manhyia Govt Hospital,Abrepo,51.0,Female,0.7,9,Tuesday,8,38,no,no,no,Urgent,12
+KSI0528,KATH,Tafo,48.0,Female,13.2,9,Thursday,6,69,yes,yes,no,Standard,174
+KSI0529,KATH,Tafo,21.0,Male,3.9,8,Wednesday,10,46,no,no,no,Standard,48
+KSI0530,Tafo Govt Hospital,Tafo,22.0,Female,3.6,9,Friday,5,36,no,yes,no,Standard,71
+KSI0531,Kumasi South Hospital,Abrepo,30.0,Female,11.2,9,Wednesday,4,38,no,no,no,Urgent,5
+KSI0532,Tafo Govt Hospital,Santasi,25.0,Female,5.1,11,Tuesday,6,37,yes,yes,yes,Standard,111
+KSI0533,Tafo Govt Hospital,Ayigya,28.0,Female,7.8,14,Thursday,6,29,yes,yes,no,Urgent,34
+KSI0534,Suntreso Govt Hospital,Asafo,65.0,Female,2.9,8,Monday,6,54,no,no,no,Standard,64
+KSI0535,Kumasi South Hospital,Abrepo,45.0,Female,14.4,7,Thursday,6,34,yes,yes,no,Standard,87
+KSI0536,Tafo Govt Hospital,Suame,68.0,Male,12.8,9,Tuesday,5,29,yes,no,no,Urgent,34
+KSI0537,Kumasi South Hospital,Ayigya,7.0,Female,13.0,9,Monday,6,46,yes,no,no,Standard,53
+KSI0538,KATH,Suame,49.0,Female,6.4,7,Wednesday,7,56,yes,no,no,Standard,134
+KSI0539,Manhyia Govt Hospital,Ayigya,9.0,Female,11.6,11,Friday,4,37,no,no,no,Standard,59
+KSI0540,KATH,Santasi,36.0,Male,2.6,15,Friday,11,32,yes,yes,yes,Standard,97
+KSI0541,Tafo Govt Hospital,Kwadaso,83.0,Female,0.6,14,Thursday,4,30,yes,yes,yes,Standard,94
+KSI0542,Suntreso Govt Hospital,Suame,1.0,Female,0.8,7,Wednesday,2,60,yes,no,no,Standard,104
+KSI0543,KATH,Abrepo,10.0,Male,9.0,13,Tuesday,8,50,yes,no,no,Standard,93
+KSI0544,Suntreso Govt Hospital,Ayigya,36.0,Male,7.1,11,Friday,5,31,yes,no,yes,Standard,90
+KSI0545,Suntreso Govt Hospital,Tafo,73.0,Female,8.0,9,Wednesday,3,40,yes,no,yes,Standard,120
+KSI0546,Manhyia Govt Hospital,Asokwa,46.0,Female,0.6,9,Thursday,4,43,yes,no,yes,Urgent,104
+KSI0547,KATH,Tafo,32.0,Female,6.6,12,Monday,7,61,yes,yes,no,Standard,150
+KSI0548,Suntreso Govt Hospital,Adum,32.0,Male,10.9,9,Thursday,5,51,no,no,no,Standard,100
+KSI0549,Suntreso Govt Hospital,Kwadaso,6.0,Female,6.9,8,Thursday,3,36,yes,no,no,Standard,89
+KSI0550,Kumasi South Hospital,Kwadaso,48.0,Male,11.1,9,Wednesday,5,45,yes,no,yes,Standard,108
+KSI0551,Suntreso Govt Hospital,Tafo,38.0,Male,3.9,9,Friday,3,27,yes,no,yes,Urgent,63
+KSI0552,Tafo Govt Hospital,Asafo,17.0,Male,12.3,7,Wednesday,5,38,yes,no,yes,Standard,113
+KSI0553,Suntreso Govt Hospital,Santasi,74.0,Male,9.0,13,Monday,6,55,no,yes,yes,Standard,138
+KSI0554,Suntreso Govt Hospital,Suame,27.0,Male,3.6,10,Wednesday,2,40,no,no,no,Standard,45
+KSI0555,Tafo Govt Hospital,Abrepo,54.0,Male,3.9,10,Tuesday,2,27,yes,no,no,Standard,68
+KSI0556,Manhyia Govt Hospital,Kwadaso,50.0,Male,9.6,7,Thursday,3,46,yes,no,yes,Urgent,126
+KSI0557,KATH,Tafo,35.0,Male,12.5,10,Friday,9,52,yes,yes,yes,Urgent,100
+KSI0558,KATH,Tafo,85.0,Female,6.5,7,Monday,6,72,yes,yes,yes,Standard,217
+KSI0559,Kumasi South Hospital,Santasi,25.0,Female,4.2,7,Thursday,3,36,yes,no,no,Urgent,62
+KSI0560,Suntreso Govt Hospital,Santasi,28.0,Male,13.1,9,Wednesday,5,35,no,no,yes,Standard,92
+KSI0561,Kumasi South Hospital,Bantama,15.0,Female,10.2,8,Tuesday,5,47,yes,no,yes,Standard,112
+KSI0562,KATH,Bantama,4.0,Male,7.0,10,Wednesday,10,54,no,no,yes,Standard,81
+KSI0563,KATH,Asafo,73.0,Female,7.6,7,Thursday,9,79,yes,no,no,Standard,139
+KSI0564,KATH,Asafo,27.0,Male,3.5,9,Monday,9,59,yes,no,no,Standard,93
+KSI0565,Manhyia Govt Hospital,Adum,26.0,Male,9.6,7,Friday,3,36,yes,no,no,Urgent,53
+KSI0566,Suntreso Govt Hospital,Asafo,19.0,Female,5.7,15,Thursday,7,26,yes,no,yes,Standard,68
+KSI0567,Manhyia Govt Hospital,Ayigya,17.0,Female,14.9,9,Monday,6,37,yes,yes,no,Standard,130
+KSI0568,Manhyia Govt Hospital,Santasi,43.0,Female,7.5,10,Thursday,5,50,yes,yes,no,Standard,120
+KSI0569,Tafo Govt Hospital,Abrepo,41.0,Female,7.5,8,Tuesday,6,35,yes,no,yes,Standard,104
+KSI0570,Manhyia Govt Hospital,Ayigya,42.0,Female,8.7,7,Wednesday,7,44,yes,no,yes,Standard,131
+KSI0571,Suntreso Govt Hospital,Suame,50.0,Male,13.8,15,Friday,6,27,yes,yes,no,Standard,44
+KSI0572,Kumasi South Hospital,Tafo,84.0,Male,12.1,8,Monday,5,43,yes,yes,yes,Standard,146
+KSI0573,Manhyia Govt Hospital,Asafo,40.0,Male,7.0,9,Friday,3,44,yes,no,no,Standard,135
+KSI0574,Suntreso Govt Hospital,Tafo,39.0,Male,10.9,10,Friday,7,27,yes,yes,no,Standard,65
+KSI0575,Tafo Govt Hospital,Kwadaso,23.0,Female,9.0,7,Friday,5,36,yes,no,no,Urgent,56
+KSI0576,Tafo Govt Hospital,Adum,52.0,Female,7.6,12,Monday,5,34,yes,no,yes,Standard,115
+KSI0577,KATH,Kwadaso,47.0,Male,3.3,9,Monday,8,70,yes,yes,no,Standard,133
+KSI0578,Tafo Govt Hospital,Adum,63.0,Female,7.2,8,Friday,4,34,yes,no,no,Standard,78
+KSI0579,Manhyia Govt Hospital,Bantama,69.0,Female,4.1,7,Wednesday,8,38,no,yes,yes,Standard,95
+KSI0580,KATH,Tafo,43.0,Male,13.8,7,Thursday,10,60,yes,no,no,Urgent,75
+KSI0581,Manhyia Govt Hospital,Adum,48.0,Male,5.4,13,Friday,7,39,yes,yes,yes,Standard,98
+KSI0582,Tafo Govt Hospital,Asokwa,34.0,Male,14.3,10,Tuesday,5,33,no,yes,yes,Standard,68
+KSI0583,Manhyia Govt Hospital,Ayigya,40.0,Male,8.2,8,Friday,7,47,yes,yes,no,Urgent,62
+KSI0584,Manhyia Govt Hospital,Adum,75.0,Male,9.7,7,Monday,3,59,yes,yes,yes,Standard,185
+KSI0585,Suntreso Govt Hospital,Adum,61.0,Female,8.4,10,Thursday,3,38,no,yes,yes,Standard,125
+KSI0586,KATH,Ayigya,50.0,Male,2.4,9,Tuesday,8,57,yes,no,yes,Standard,163
+KSI0587,KATH,Tafo,67.0,Male,5.9,8,Thursday,6,59,no,no,no,Standard,117
+KSI0588,KATH,Tafo,62.0,Female,1.9,8,Thursday,8,59,yes,no,no,Standard,124
+KSI0589,KATH,Ayigya,58.0,Female,9.5,7,Tuesday,10,69,yes,no,yes,Standard,133
+KSI0590,KATH,Kwadaso,33.0,Female,7.0,10,Friday,8,43,no,no,no,Urgent,16
+KSI0591,KATH,Asokwa,75.0,Male,11.8,15,Friday,9,57,yes,no,yes,Standard,119
+KSI0592,Suntreso Govt Hospital,Abrepo,16.0,Male,3.7,7,Friday,5,37,yes,no,no,Standard,71
+KSI0593,KATH,Suame,82.0,Female,2.9,10,Wednesday,7,55,yes,no,no,Standard,114
+KSI0594,Manhyia Govt Hospital,Asokwa,48.0,Male,6.4,9,Friday,4,43,yes,no,no,Standard,103
+KSI0595,Tafo Govt Hospital,Tafo,10.0,Male,13.9,9,Tuesday,3,41,yes,no,no,Standard,95
+KSI0596,Manhyia Govt Hospital,Abrepo,82.0,Female,10.8,8,Wednesday,3,43,yes,no,no,Standard,115
+KSI0597,Suntreso Govt Hospital,Bantama,38.0,Female,6.6,12,Friday,2,21,yes,no,yes,Standard,75
+KSI0598,KATH,Asafo,19.0,Male,8.0,9,Wednesday,10,60,yes,no,no,Standard,114
+KSI0599,KATH,Adum,36.0,Female,1.7,9,Tuesday,6,60,yes,no,yes,Standard,140
+KSI0600,KATH,Ayigya,59.0,Male,14.8,8,Friday,7,60,yes,no,no,Standard,103
+KSI0601,KATH,Ayigya,63.0,Male,10.2,7,Monday,6,72,yes,no,yes,Standard,193
+KSI0602,KATH,Adum,77.0,Male,4.6,7,Tuesday,10,68,no,no,yes,Standard,140
+KSI0603,KATH,Asafo,46.0,Male,9.0,11,Thursday,9,60,yes,no,yes,Standard,137
+KSI0604,KATH,Suame,3.0,Male,2.1,7,Thursday,6,62,yes,yes,yes,Standard,176
+KSI0605,KATH,Asafo,74.0,Female,14.5,10,Tuesday,6,62,no,yes,no,Standard,118
+KSI0606,Manhyia Govt Hospital,Abrepo,65.0,Female,3.0,8,Thursday,4,40,no,no,no,Urgent,33
+KSI0607,KATH,Asafo,8.0,Female,9.9,8,Tuesday,8,66,yes,no,no,Standard,105
+KSI0608,Manhyia Govt Hospital,Abrepo,51.0,Male,4.1,9,Monday,6,58,no,yes,no,Standard,91
+KSI0609,Suntreso Govt Hospital,Asafo,81.0,Male,10.9,8,Tuesday,4,44,yes,no,no,Standard,92
+KSI0610,Kumasi South Hospital,Suame,73.0,Male,11.8,7,Friday,6,46,no,no,yes,Standard,96
+KSI0611,KATH,Suame,6.0,Male,10.3,8,Friday,10,60,yes,no,yes,Standard,133
+KSI0612,Kumasi South Hospital,Tafo,39.0,Male,9.4,10,Wednesday,4,45,yes,yes,yes,Standard,149
+KSI0613,Suntreso Govt Hospital,Adum,60.0,Female,13.4,10,Thursday,3,33,yes,yes,yes,Standard,122
+KSI0614,KATH,Suame,28.0,Female,1.6,8,Thursday,11,63,no,no,yes,Standard,115
+KSI0615,Tafo Govt Hospital,Abrepo,54.0,Female,5.3,9,Tuesday,2,40,yes,no,yes,Standard,118
+KSI0616,Tafo Govt Hospital,Suame,37.0,Female,4.1,7,Thursday,6,38,yes,no,yes,Standard,129
+KSI0617,KATH,Tafo,9.0,Female,14.8,7,Friday,11,59,yes,no,yes,Standard,130
+KSI0618,KATH,Ayigya,82.0,Male,6.1,7,Monday,7,72,no,no,no,Standard,160
+KSI0619,Kumasi South Hospital,Abrepo,56.0,Male,11.1,13,Tuesday,7,34,no,yes,yes,Urgent,45
+KSI0620,Kumasi South Hospital,Tafo,59.0,Male,10.4,7,Thursday,7,42,yes,no,no,Standard,76
+KSI0621,KATH,Kwadaso,85.0,Female,3.6,8,Friday,11,70,yes,no,no,Standard,99
+KSI0622,KATH,Kwadaso,2.0,Female,4.0,8,Wednesday,9,61,yes,no,no,Standard,87
+KSI0623,Manhyia Govt Hospital,Bantama,61.0,Male,4.6,7,Thursday,7,50,yes,no,yes,Standard,108
+KSI0624,Manhyia Govt Hospital,Asafo,58.0,Female,6.5,10,Monday,8,49,no,no,yes,Standard,83
+KSI0625,Suntreso Govt Hospital,Adum,60.0,Female,3.9,7,Monday,6,57,yes,no,yes,Standard,153
+KSI0626,Manhyia Govt Hospital,Santasi,40.0,Male,,7,Thursday,7,47,yes,no,yes,Standard,111
+KSI0627,Manhyia Govt Hospital,Asokwa,36.0,Male,13.3,10,Thursday,6,39,yes,no,yes,Standard,107
+KSI0628,Kumasi South Hospital,Tafo,37.0,Male,14.5,8,Friday,6,48,yes,no,no,Standard,110
+KSI0629,KATH,Ayigya,79.0,Female,5.5,11,Thursday,8,64,yes,yes,no,Standard,128
+KSI0630,KATH,Asokwa,18.0,Male,5.4,9,Wednesday,6,50,yes,no,no,Standard,136
+KSI0631,Kumasi South Hospital,Ayigya,63.0,Female,0.6,8,Friday,5,48,yes,yes,no,Urgent,61
+KSI0632,Tafo Govt Hospital,Asokwa,22.0,Male,10.4,10,Tuesday,1,25,yes,yes,yes,Standard,116
+KSI0633,Suntreso Govt Hospital,Tafo,11.0,Female,12.5,7,Wednesday,4,51,yes,no,no,Standard,98
+KSI0634,Suntreso Govt Hospital,Santasi,58.0,Male,2.6,9,Friday,3,36,yes,yes,yes,Standard,146
+KSI0635,KATH,Asokwa,57.0,Female,2.8,9,Friday,7,46,yes,yes,no,Standard,78
+KSI0636,Manhyia Govt Hospital,Tafo,77.0,Female,12.0,8,Monday,8,56,no,no,no,Standard,60
+KSI0637,Suntreso Govt Hospital,Suame,4.0,Female,9.4,10,Friday,3,30,yes,no,no,Standard,71
+KSI0638,KATH,Santasi,7.0,Female,1.2,13,Wednesday,9,54,yes,no,yes,Standard,139
+KSI0639,KATH,Abrepo,61.0,Male,9.5,15,Thursday,7,34,yes,yes,no,Urgent,47
+KSI0640,Manhyia Govt Hospital,Ayigya,54.0,Female,5.0,10,Wednesday,6,42,yes,yes,yes,Standard,106
+KSI0641,KATH,Kwadaso,68.0,Male,5.8,8,Tuesday,9,45,yes,yes,yes,Standard,115
+KSI0642,Manhyia Govt Hospital,Asafo,79.0,Male,11.7,8,Friday,3,40,yes,no,yes,Standard,151
+KSI0643,KATH,Kwadaso,1.0,Female,12.3,8,Friday,7,65,yes,yes,yes,Standard,164
+KSI0644,Manhyia Govt Hospital,Santasi,55.0,Male,6.3,9,Friday,7,49,yes,no,no,Standard,72
+KSI0645,KATH,Abrepo,3.0,Female,14.2,8,Friday,7,58,yes,no,no,Standard,137
+KSI0646,Tafo Govt Hospital,Ayigya,78.0,Female,6.4,13,Monday,2,34,no,yes,yes,Standard,121
+KSI0647,Suntreso Govt Hospital,Abrepo,38.0,Male,11.7,8,Monday,3,41,no,no,no,Standard,100
+KSI0648,Suntreso Govt Hospital,Asokwa,1.0,Female,7.5,8,Thursday,7,41,yes,no,no,Urgent,25
+KSI0649,Kumasi South Hospital,Ayigya,38.0,Male,13.5,8,Friday,6,36,yes,no,no,Standard,50
+KSI0650,Manhyia Govt Hospital,Asokwa,85.0,Male,13.7,12,Tuesday,7,25,yes,yes,no,Standard,63
+KSI0651,KATH,Tafo,29.0,Male,1.8,10,Thursday,9,47,yes,no,yes,Standard,118
+KSI0652,Suntreso Govt Hospital,Santasi,5.0,Female,14.1,10,Friday,6,34,yes,no,yes,Standard,99
+KSI0653,Suntreso Govt Hospital,Tafo,74.0,Female,12.5,8,Monday,5,40,no,no,no,Standard,92
+KSI0654,Kumasi South Hospital,Bantama,21.0,Female,12.0,12,Tuesday,2,32,yes,yes,no,Standard,68
+KSI0655,Manhyia Govt Hospital,Abrepo,71.0,Female,3.4,7,Thursday,6,46,no,no,no,Standard,80
+KSI0656,KATH,Asokwa,67.0,Male,12.2,13,Tuesday,7,45,yes,no,no,Standard,66
+KSI0657,KATH,Suame,47.0,Male,12.8,9,Friday,8,57,no,no,no,Standard,93
+KSI0658,Manhyia Govt Hospital,Tafo,84.0,Female,4.7,8,Wednesday,5,49,yes,no,yes,Standard,122
+KSI0659,Suntreso Govt Hospital,Bantama,83.0,Female,14.3,9,Tuesday,7,43,yes,yes,yes,Standard,110
+KSI0660,Suntreso Govt Hospital,Adum,35.0,Male,1.2,10,Tuesday,3,34,yes,yes,yes,Urgent,82
+KSI0661,Manhyia Govt Hospital,Kwadaso,68.0,Male,2.7,7,Monday,6,55,yes,no,no,Standard,96
+KSI0662,Tafo Govt Hospital,Ayigya,69.0,Female,8.3,13,Friday,2,26,yes,yes,no,Standard,78
+KSI0663,Suntreso Govt Hospital,Bantama,1.0,Female,8.8,9,Tuesday,7,36,yes,no,no,Standard,52
+KSI0664,KATH,Santasi,68.0,Male,9.9,8,Friday,10,58,yes,yes,no,Urgent,94
+KSI0665,KATH,Tafo,12.0,Female,0.7,7,Monday,9,84,yes,no,no,Standard,168
+KSI0666,KATH,Santasi,60.0,Female,14.4,9,Friday,7,55,no,no,no,Standard,108
+KSI0667,KATH,Kwadaso,27.0,Female,1.1,9,Monday,10,75,yes,no,no,Standard,140
+KSI0668,KATH,Suame,56.0,Male,2.6,8,Monday,11,53,yes,no,yes,Standard,137
+KSI0669,KATH,Abrepo,23.0,Female,0.7,10,Thursday,10,62,yes,no,no,Standard,122
+KSI0670,KATH,Abrepo,25.0,Male,8.7,9,Friday,9,62,no,no,no,Standard,74
+KSI0671,KATH,Santasi,21.0,Male,14.0,14,Wednesday,11,48,yes,yes,yes,Standard,90
+KSI0672,Tafo Govt Hospital,Asokwa,61.0,Female,10.2,10,Thursday,6,29,yes,no,yes,Standard,84
+KSI0673,KATH,Suame,63.0,Female,12.4,12,Monday,11,68,yes,no,no,Standard,90
+KSI0674,Suntreso Govt Hospital,Abrepo,52.0,Male,0.7,7,Wednesday,2,38,no,yes,yes,Standard,157
+KSI0675,Manhyia Govt Hospital,Suame,25.0,Female,8.4,8,Tuesday,8,47,no,no,no,Standard,78
+KSI0676,Tafo Govt Hospital,Bantama,55.0,Female,,8,Tuesday,1,42,yes,yes,yes,Urgent,146
+KSI0677,KATH,Suame,46.0,Female,7.7,9,Thursday,10,63,yes,no,no,Urgent,70
+KSI0678,Manhyia Govt Hospital,Asafo,32.0,Female,1.5,13,Wednesday,3,28,yes,yes,no,Standard,91
+KSI0679,Tafo Govt Hospital,Kwadaso,55.0,Female,10.4,7,Friday,5,31,yes,no,yes,Standard,90
+KSI0680,Tafo Govt Hospital,Abrepo,5.0,Female,7.8,7,Wednesday,1,46,yes,yes,no,Standard,140
+KSI0681,Kumasi South Hospital,Suame,36.0,Male,11.6,12,Thursday,6,29,yes,no,no,Standard,34
+KSI0682,KATH,Santasi,49.0,Male,7.5,7,Friday,10,67,no,no,no,Standard,52
+KSI0683,KATH,Adum,58.0,Male,2.7,10,Friday,11,67,yes,no,no,Standard,91
+KSI0684,Suntreso Govt Hospital,Asafo,39.0,Female,9.9,9,Tuesday,7,22,yes,no,no,Urgent,5
+KSI0685,Tafo Govt Hospital,Asafo,80.0,Female,3.0,12,Wednesday,5,24,yes,no,yes,Urgent,61
+KSI0686,Suntreso Govt Hospital,Asokwa,,Male,13.1,7,Friday,7,35,yes,yes,no,Standard,113
+KSI0687,Suntreso Govt Hospital,Suame,61.0,Male,9.4,7,Thursday,6,39,no,no,no,Standard,32
+KSI0688,KATH,Asokwa,9.0,Female,2.8,9,Tuesday,11,52,yes,yes,yes,Urgent,115
+KSI0689,Kumasi South Hospital,Asokwa,6.0,Male,14.5,14,Friday,4,30,yes,yes,yes,Urgent,86
+KSI0690,KATH,Adum,35.0,Female,8.0,8,Wednesday,6,68,yes,no,yes,Urgent,106
+KSI0691,Manhyia Govt Hospital,Bantama,39.0,Male,1.6,8,Tuesday,7,47,yes,yes,no,Standard,98
+KSI0692,Manhyia Govt Hospital,Suame,22.0,Female,9.6,10,Wednesday,4,49,no,no,no,Standard,65
+KSI0693,Suntreso Govt Hospital,Tafo,,Female,4.2,14,Wednesday,7,15,yes,no,yes,Standard,61
+KSI0694,KATH,Abrepo,5.0,Male,12.2,12,Wednesday,11,54,no,no,no,Standard,35
+KSI0695,KATH,Asokwa,42.0,Female,12.4,15,Tuesday,9,48,yes,no,no,Standard,71
+KSI0696,Suntreso Govt Hospital,Kwadaso,81.0,Male,14.7,7,Friday,3,38,no,no,yes,Standard,87
+KSI0697,KATH,Ayigya,76.0,Female,7.8,7,Monday,7,55,yes,no,no,Urgent,97
+KSI0698,Suntreso Govt Hospital,Kwadaso,80.0,Female,7.1,10,Friday,4,39,no,no,no,Urgent,18
+KSI0699,KATH,Adum,67.0,Male,11.4,12,Tuesday,6,55,yes,yes,no,Standard,115
+KSI0700,Manhyia Govt Hospital,Adum,30.0,Female,2.4,8,Monday,5,43,yes,no,yes,Urgent,94
+KSI0701,Suntreso Govt Hospital,Santasi,57.0,Female,8.4,8,Monday,2,47,yes,no,yes,Standard,181
+KSI0702,KATH,Bantama,73.0,Male,8.4,11,Monday,10,56,yes,no,yes,Standard,125
+KSI0703,Manhyia Govt Hospital,Abrepo,29.0,Male,1.8,7,Thursday,5,51,yes,no,no,Standard,89
+KSI0704,KATH,Asokwa,37.0,Female,6.6,8,Tuesday,9,68,yes,no,no,Standard,128
+KSI0705,KATH,Kwadaso,13.0,Female,12.9,9,Thursday,6,51,no,yes,no,Standard,97
+KSI0706,Tafo Govt Hospital,Ayigya,32.0,Female,12.9,9,Monday,3,49,yes,yes,yes,Standard,137
+KSI0707,Manhyia Govt Hospital,Adum,46.0,Female,1.9,11,Thursday,6,29,no,yes,yes,Standard,113
+KSI0708,Kumasi South Hospital,Adum,23.0,Female,1.8,8,Thursday,3,37,no,yes,no,Standard,77
+KSI0709,KATH,Bantama,45.0,Male,4.3,10,Tuesday,11,48,yes,yes,no,Urgent,52
+KSI0710,Kumasi South Hospital,Ayigya,17.0,Female,13.2,10,Wednesday,6,39,yes,no,no,Standard,74
+KSI0711,Kumasi South Hospital,Ayigya,85.0,Female,2.4,9,Thursday,6,35,yes,no,no,Standard,94
+KSI0712,Suntreso Govt Hospital,Bantama,66.0,Female,10.9,10,Thursday,3,27,yes,no,yes,Standard,73
+KSI0713,Manhyia Govt Hospital,Adum,6.0,Male,2.0,8,Monday,5,44,yes,yes,yes,Standard,156
+KSI0714,Manhyia Govt Hospital,Abrepo,18.0,Male,9.5,7,Monday,8,48,no,no,yes,Standard,133
+KSI0715,Manhyia Govt Hospital,Suame,22.0,Male,5.7,7,Monday,4,60,yes,no,yes,Standard,167
+KSI0716,Tafo Govt Hospital,Suame,33.0,Male,11.9,8,Friday,4,43,yes,no,yes,Standard,98
+KSI0717,Kumasi South Hospital,Bantama,30.0,Male,3.9,9,Thursday,7,31,yes,no,yes,Standard,78
+KSI0718,Tafo Govt Hospital,Ayigya,81.0,Female,9.8,12,Monday,1,43,no,no,yes,Standard,112
+KSI0719,KATH,Asokwa,32.0,Female,3.9,11,Tuesday,8,53,yes,no,yes,Standard,144
+KSI0720,Kumasi South Hospital,Bantama,42.0,Male,,11,Friday,7,36,yes,no,no,Standard,55
+KSI0721,Tafo Govt Hospital,Abrepo,78.0,Female,13.2,8,Wednesday,1,39,yes,yes,yes,Urgent,121
+KSI0722,KATH,Bantama,10.0,Male,2.3,8,Thursday,7,48,yes,no,no,Standard,78
+KSI0723,KATH,Asafo,36.0,Male,13.1,8,Thursday,10,52,no,yes,no,Standard,62
+KSI0724,Kumasi South Hospital,Kwadaso,34.0,Male,9.1,7,Tuesday,7,45,no,no,no,Urgent,16
+KSI0725,Suntreso Govt Hospital,Ayigya,73.0,Female,2.3,7,Wednesday,7,46,yes,no,no,Standard,106
+KSI0726,Kumasi South Hospital,Santasi,28.0,Male,6.7,10,Wednesday,2,30,yes,yes,yes,Standard,128
+KSI0727,KATH,Santasi,11.0,Male,2.8,15,Friday,6,63,yes,yes,no,Urgent,97
+KSI0728,Kumasi South Hospital,Ayigya,78.0,Male,10.7,7,Thursday,6,32,yes,yes,no,Standard,91
+KSI0729,KATH,Abrepo,39.0,Female,11.5,7,Monday,6,83,yes,yes,no,Standard,206
+KSI0730,KATH,Asafo,47.0,Male,2.0,11,Tuesday,6,63,yes,yes,yes,Urgent,123
+KSI0731,KATH,Asafo,19.0,Female,7.8,8,Tuesday,11,75,yes,yes,yes,Urgent,143
+KSI0732,Kumasi South Hospital,Adum,15.0,Female,12.3,12,Tuesday,6,31,no,yes,yes,Standard,66
+KSI0733,Suntreso Govt Hospital,Kwadaso,28.0,Female,14.1,11,Tuesday,6,41,yes,yes,no,Standard,119
+KSI0734,Suntreso Govt Hospital,Suame,24.0,Female,7.9,14,Monday,7,30,no,no,no,Standard,17
+KSI0735,Manhyia Govt Hospital,Tafo,72.0,Male,14.3,8,Monday,4,57,yes,no,yes,Standard,145
+KSI0736,Tafo Govt Hospital,Abrepo,9.0,Male,,10,Friday,2,26,yes,yes,no,Standard,93
+KSI0737,Manhyia Govt Hospital,Tafo,47.0,Female,6.2,9,Thursday,8,40,no,no,no,Standard,44
+KSI0738,Kumasi South Hospital,Tafo,33.0,Female,12.8,10,Monday,2,47,yes,no,no,Standard,121
+KSI0739,Manhyia Govt Hospital,Ayigya,62.0,Female,7.6,9,Friday,5,42,yes,no,no,Urgent,54
+KSI0740,Manhyia Govt Hospital,Santasi,19.0,Female,7.3,7,Wednesday,4,43,yes,yes,no,Urgent,64
+KSI0741,Manhyia Govt Hospital,Santasi,67.0,Female,7.6,9,Thursday,4,41,yes,no,yes,Urgent,109
+KSI0742,Manhyia Govt Hospital,Suame,74.0,Female,12.8,9,Monday,8,66,no,no,no,Urgent,72
+KSI0743,Kumasi South Hospital,Ayigya,40.0,Female,12.6,12,Wednesday,7,36,no,no,yes,Standard,83
+KSI0744,Suntreso Govt Hospital,Tafo,47.0,Female,6.4,11,Friday,4,29,yes,no,no,Standard,56
+KSI0745,KATH,Asokwa,65.0,Male,5.3,10,Monday,8,74,yes,no,no,Standard,147
+KSI0746,Tafo Govt Hospital,Santasi,29.0,Female,7.6,7,Monday,5,43,yes,no,no,Standard,99
+KSI0747,Manhyia Govt Hospital,Abrepo,50.0,Male,8.8,11,Wednesday,8,40,yes,no,no,Standard,80
+KSI0748,Suntreso Govt Hospital,Abrepo,13.0,Male,4.0,9,Monday,3,38,yes,no,yes,Standard,146
+KSI0749,Tafo Govt Hospital,Adum,1.0,Female,12.0,13,Tuesday,4,31,yes,no,yes,Urgent,54
+KSI0750,Suntreso Govt Hospital,Bantama,34.0,Male,7.6,13,Monday,5,37,yes,no,no,Standard,55
+KSI0751,KATH,Asokwa,48.0,Male,5.3,7,Thursday,6,60,yes,yes,yes,Standard,200
+KSI0752,Tafo Govt Hospital,Santasi,77.0,Male,2.0,12,Wednesday,2,32,yes,no,no,Standard,79
+KSI0753,Suntreso Govt Hospital,Asafo,48.0,Female,4.0,7,Thursday,5,40,yes,yes,yes,Standard,124
+KSI0754,Manhyia Govt Hospital,Santasi,49.0,Female,14.3,8,Friday,4,46,yes,no,yes,Standard,136
+KSI0755,KATH,Adum,64.0,Female,4.9,9,Thursday,11,67,no,no,yes,Standard,88
+KSI0756,Kumasi South Hospital,Abrepo,61.0,Male,2.9,7,Tuesday,3,43,no,yes,no,Standard,109
+KSI0757,Suntreso Govt Hospital,Tafo,29.0,Female,7.2,11,Tuesday,5,48,yes,no,no,Standard,65
+KSI0758,Suntreso Govt Hospital,Asafo,39.0,Female,5.0,7,Thursday,3,37,yes,yes,yes,Standard,135
+KSI0759,Tafo Govt Hospital,Ayigya,26.0,Male,1.0,7,Friday,3,26,no,no,yes,Standard,78
+KSI0760,Kumasi South Hospital,Kwadaso,17.0,Male,5.2,10,Monday,2,38,no,yes,no,Urgent,76
+KSI0761,KATH,Tafo,71.0,Male,8.4,11,Tuesday,10,46,no,no,yes,Standard,81
+KSI0762,Manhyia Govt Hospital,Kwadaso,,Female,8.5,13,Thursday,6,31,yes,no,no,Urgent,29
+KSI0763,KATH,Asokwa,69.0,Female,5.7,11,Thursday,11,51,no,no,no,Standard,51
+KSI0764,Kumasi South Hospital,Bantama,26.0,Female,7.0,10,Thursday,6,49,yes,no,no,Standard,87
+KSI0765,KATH,Asafo,49.0,Male,14.5,8,Monday,6,67,yes,yes,no,Standard,164
+KSI0766,Suntreso Govt Hospital,Suame,67.0,Female,6.0,7,Wednesday,4,45,no,no,no,Standard,70
+KSI0767,Kumasi South Hospital,Asafo,7.0,Female,4.2,7,Friday,4,50,yes,yes,no,Standard,99
+KSI0768,Tafo Govt Hospital,Santasi,58.0,Female,4.0,9,Wednesday,3,37,no,yes,no,Standard,62
+KSI0769,Manhyia Govt Hospital,Abrepo,49.0,Female,7.1,10,Friday,5,27,yes,yes,no,Urgent,48
+KSI0770,Kumasi South Hospital,Santasi,53.0,Male,11.5,8,Friday,5,39,no,no,yes,Standard,83
+KSI0771,KATH,Santasi,65.0,Male,3.5,11,Thursday,9,55,yes,no,no,Standard,90
+KSI0772,Kumasi South Hospital,Asokwa,62.0,Female,10.8,9,Tuesday,3,44,no,yes,yes,Standard,115
+KSI0773,KATH,Tafo,17.0,Female,0.8,7,Thursday,11,56,yes,yes,no,Standard,99
+KSI0774,Manhyia Govt Hospital,Suame,43.0,Female,6.6,7,Monday,4,45,yes,yes,no,Standard,123
+KSI0775,Kumasi South Hospital,Suame,,Male,11.8,12,Friday,7,31,yes,no,yes,Standard,75
+KSI0776,KATH,Santasi,3.0,Female,5.4,11,Tuesday,6,63,yes,no,yes,Standard,150
+KSI0777,KATH,Kwadaso,79.0,Male,8.7,13,Friday,7,58,yes,yes,no,Standard,126
+KSI0778,Kumasi South Hospital,Asokwa,29.0,Male,3.5,7,Friday,2,29,yes,no,no,Standard,82
+KSI0779,Kumasi South Hospital,Santasi,32.0,Female,11.3,15,Thursday,2,34,yes,no,no,Standard,57
+KSI0780,Suntreso Govt Hospital,Bantama,26.0,Female,,7,Tuesday,2,39,yes,no,no,Standard,78
+KSI0781,Kumasi South Hospital,Abrepo,16.0,Male,12.9,7,Tuesday,4,37,yes,no,yes,Standard,155
+KSI0782,Suntreso Govt Hospital,Tafo,25.0,Male,3.4,15,Friday,6,27,no,no,no,Standard,5
+KSI0783,KATH,Ayigya,54.0,Male,13.2,8,Tuesday,10,63,yes,no,no,Standard,99
+KSI0784,Manhyia Govt Hospital,Bantama,28.0,Male,5.6,10,Tuesday,6,34,yes,no,no,Standard,74
+KSI0785,KATH,Kwadaso,73.0,Female,11.0,7,Thursday,6,65,yes,yes,yes,Standard,186
+KSI0786,Tafo Govt Hospital,Asafo,56.0,Female,5.1,10,Wednesday,3,30,yes,no,no,Standard,75
+KSI0787,Suntreso Govt Hospital,Asafo,65.0,Male,13.6,13,Monday,3,53,yes,no,yes,Standard,135
+KSI0788,Manhyia Govt Hospital,Bantama,80.0,Female,2.3,8,Wednesday,4,49,yes,yes,yes,Standard,156
+KSI0789,Manhyia Govt Hospital,Santasi,41.0,Female,3.1,10,Tuesday,6,37,no,yes,no,Standard,65
+KSI0790,Tafo Govt Hospital,Ayigya,51.0,Female,7.6,7,Friday,4,37,yes,no,yes,Standard,106
+KSI0791,KATH,Adum,71.0,Male,1.7,10,Monday,6,65,yes,no,yes,Standard,171
+KSI0792,Suntreso Govt Hospital,Adum,78.0,Female,3.3,8,Monday,2,55,yes,no,no,Standard,148
+KSI0793,Suntreso Govt Hospital,Kwadaso,29.0,Male,14.2,7,Friday,3,39,yes,no,no,Standard,93
+KSI0794,Suntreso Govt Hospital,Santasi,83.0,Male,14.7,8,Monday,3,43,yes,no,no,Standard,109
+KSI0795,KATH,Suame,19.0,Male,6.0,7,Friday,7,54,no,yes,no,Standard,120
+KSI0796,Tafo Govt Hospital,Suame,66.0,Female,13.9,13,Monday,2,39,yes,no,no,Standard,105
+KSI0797,Tafo Govt Hospital,Tafo,41.0,Male,8.4,8,Wednesday,5,44,yes,no,yes,Standard,137
+KSI0798,Suntreso Govt Hospital,Ayigya,45.0,Male,4.4,8,Monday,2,44,yes,yes,yes,Standard,137
+KSI0799,Kumasi South Hospital,Ayigya,15.0,Male,10.7,9,Thursday,2,38,no,yes,yes,Standard,130
+KSI0800,Tafo Govt Hospital,Asafo,3.0,Female,,8,Friday,2,28,yes,yes,no,Standard,102
+KSI0801,Kumasi South Hospital,Asokwa,11.0,Female,14.8,11,Monday,4,47,yes,no,yes,Standard,120
+KSI0802,KATH,Kwadaso,53.0,Male,4.3,15,Friday,7,44,yes,no,yes,Standard,110
+KSI0803,Suntreso Govt Hospital,Adum,46.0,Female,10.2,9,Thursday,7,39,yes,no,no,Standard,84
+KSI0804,Suntreso Govt Hospital,Kwadaso,30.0,Female,1.3,13,Monday,5,38,no,no,no,Standard,42
+KSI0805,Manhyia Govt Hospital,Suame,57.0,Female,2.1,9,Monday,8,52,yes,yes,no,Standard,123
+KSI0806,Kumasi South Hospital,Suame,18.0,Male,0.6,7,Thursday,4,42,yes,no,no,Standard,107
+KSI0807,Tafo Govt Hospital,Bantama,51.0,Female,15.0,10,Thursday,4,41,no,no,yes,Urgent,33
+KSI0808,Tafo Govt Hospital,Tafo,48.0,Female,12.1,9,Thursday,3,35,yes,no,no,Standard,75
+KSI0809,Manhyia Govt Hospital,Ayigya,,Female,11.9,10,Friday,6,42,yes,no,no,Standard,83
+KSI0810,KATH,Abrepo,8.0,Male,7.9,13,Thursday,7,61,yes,yes,no,Standard,113
+KSI0811,Tafo Govt Hospital,Kwadaso,22.0,Female,4.9,9,Friday,2,35,yes,no,yes,Standard,99
+KSI0812,Kumasi South Hospital,Suame,6.0,Female,2.7,13,Wednesday,4,25,yes,no,no,Standard,51
+KSI0813,KATH,Asokwa,76.0,Female,4.6,11,Monday,9,72,no,no,no,Standard,117
+KSI0814,Tafo Govt Hospital,Asafo,57.0,Male,6.0,9,Monday,5,53,yes,no,yes,Standard,146
+KSI0815,Tafo Govt Hospital,Adum,36.0,Male,11.5,10,Tuesday,3,32,yes,yes,no,Urgent,41
+KSI0816,Suntreso Govt Hospital,Tafo,79.0,Female,8.3,8,Wednesday,4,40,no,no,yes,Standard,102
+KSI0817,Suntreso Govt Hospital,Asokwa,57.0,Female,1.6,15,Thursday,7,19,yes,no,no,Standard,11
+KSI0818,Manhyia Govt Hospital,Tafo,49.0,Male,0.8,10,Thursday,3,43,yes,no,no,Standard,71
+KSI0819,KATH,Bantama,45.0,Female,2.0,7,Wednesday,8,69,yes,no,yes,Standard,153
+KSI0820,Manhyia Govt Hospital,Abrepo,82.0,Male,6.5,8,Thursday,7,46,no,no,yes,Standard,106
+KSI0821,Kumasi South Hospital,Suame,66.0,Female,14.0,10,Tuesday,3,38,no,yes,yes,Standard,118
+KSI0822,KATH,Asafo,77.0,Female,9.7,7,Friday,9,50,no,no,yes,Standard,100
+KSI0823,Manhyia Govt Hospital,Asokwa,45.0,Female,12.1,7,Monday,3,57,no,no,yes,Standard,134
+KSI0824,Manhyia Govt Hospital,Tafo,79.0,Female,7.3,9,Wednesday,6,49,yes,no,yes,Standard,116
+KSI0825,Suntreso Govt Hospital,Ayigya,20.0,Male,5.7,8,Monday,3,55,yes,yes,no,Standard,147
+KSI0826,Tafo Govt Hospital,Bantama,64.0,Female,2.1,9,Friday,3,29,no,yes,yes,Standard,75
+KSI0827,Manhyia Govt Hospital,Ayigya,67.0,Male,13.2,8,Wednesday,8,32,yes,yes,no,Standard,71
+KSI0828,Manhyia Govt Hospital,Asafo,83.0,Female,11.9,7,Friday,7,45,yes,no,no,Standard,82
+KSI0829,Kumasi South Hospital,Asokwa,3.0,Female,2.9,10,Thursday,2,33,yes,no,no,Standard,63
+KSI0830,Manhyia Govt Hospital,Bantama,54.0,Female,7.9,9,Thursday,7,36,yes,no,no,Standard,54
+KSI0831,KATH,Asokwa,78.0,Male,7.6,7,Thursday,10,63,no,no,yes,Standard,121
+KSI0832,Manhyia Govt Hospital,Suame,64.0,Female,9.6,8,Friday,7,28,yes,no,yes,Standard,88
+KSI0833,KATH,Santasi,40.0,Male,14.2,10,Friday,10,56,yes,no,no,Standard,87
+KSI0834,KATH,Bantama,59.0,Male,8.9,7,Friday,7,68,no,no,no,Standard,93
+KSI0835,Manhyia Govt Hospital,Ayigya,55.0,Female,8.3,7,Monday,7,51,yes,no,no,Standard,130
+KSI0836,Manhyia Govt Hospital,Asafo,62.0,Female,1.2,7,Friday,8,46,yes,no,no,Standard,69
+KSI0837,Tafo Govt Hospital,Abrepo,4.0,Female,1.4,12,Thursday,5,25,yes,no,no,Urgent,14
+KSI0838,Manhyia Govt Hospital,Suame,60.0,Male,3.2,11,Tuesday,4,37,no,no,no,Standard,46
+KSI0839,Suntreso Govt Hospital,Santasi,75.0,Male,1.0,11,Friday,5,41,no,no,no,Standard,52
+KSI0840,Suntreso Govt Hospital,Abrepo,30.0,Female,11.3,11,Tuesday,3,34,no,no,yes,Standard,88
+KSI0841,KATH,Adum,2.0,Female,11.0,10,Thursday,11,46,yes,yes,yes,Standard,99
+KSI0842,Suntreso Govt Hospital,Suame,62.0,Male,2.5,9,Friday,7,43,yes,yes,no,Standard,92
+KSI0843,KATH,Asafo,49.0,Female,12.6,10,Monday,8,55,no,yes,no,Standard,123
+KSI0844,Tafo Govt Hospital,Tafo,9.0,Female,2.7,7,Monday,2,53,no,no,no,Standard,128
+KSI0845,KATH,Bantama,31.0,Female,4.9,10,Tuesday,9,60,yes,yes,yes,Urgent,114
+KSI0846,Manhyia Govt Hospital,Asokwa,61.0,Female,4.1,11,Monday,5,40,yes,yes,no,Standard,109
+KSI0847,KATH,Asafo,79.0,Female,5.9,9,Monday,8,58,no,yes,yes,Standard,175
+KSI0848,Tafo Govt Hospital,Bantama,48.0,Female,4.2,8,Monday,1,38,no,no,no,Urgent,64
+KSI0849,Suntreso Govt Hospital,Abrepo,25.0,Female,7.6,8,Thursday,6,44,no,no,yes,Urgent,44
+KSI0850,Suntreso Govt Hospital,Asokwa,36.0,Male,6.4,10,Monday,4,37,no,no,yes,Standard,86
+KSI0851,KATH,Kwadaso,8.0,Female,14.8,10,Wednesday,8,53,yes,yes,yes,Standard,159
+KSI0852,Kumasi South Hospital,Ayigya,73.0,Female,1.3,13,Friday,7,23,yes,yes,yes,Standard,68
+KSI0853,KATH,Adum,58.0,Female,2.6,8,Monday,9,78,yes,no,no,Standard,163
+KSI0854,Tafo Govt Hospital,Suame,45.0,Male,1.3,11,Monday,3,44,yes,no,yes,Standard,133
+KSI0855,KATH,Asafo,62.0,Female,9.6,9,Monday,9,75,yes,yes,yes,Standard,195
+KSI0856,KATH,Adum,39.0,Female,1.3,13,Wednesday,10,43,yes,yes,no,Standard,79
+KSI0857,KATH,Tafo,58.0,Male,12.6,9,Monday,11,66,yes,no,no,Standard,107
+KSI0858,Manhyia Govt Hospital,Bantama,81.0,Male,7.9,9,Monday,3,37,yes,no,yes,Standard,152
+KSI0859,Suntreso Govt Hospital,Bantama,83.0,Female,8.1,9,Friday,2,42,yes,yes,yes,Standard,142
+KSI0860,KATH,Asafo,64.0,Male,8.6,11,Wednesday,10,51,yes,yes,no,Standard,93
+KSI0861,Kumasi South Hospital,Santasi,44.0,Female,3.0,14,Wednesday,6,21,yes,no,no,Standard,34
+KSI0862,Manhyia Govt Hospital,Santasi,29.0,Female,3.4,7,Monday,8,52,yes,no,yes,Standard,136
+KSI0863,Suntreso Govt Hospital,Kwadaso,59.0,Female,5.1,7,Wednesday,7,49,yes,no,no,Standard,73
+KSI0864,Manhyia Govt Hospital,Ayigya,71.0,Male,9.1,14,Tuesday,4,42,no,no,yes,Standard,75
+KSI0865,Manhyia Govt Hospital,Asokwa,9.0,Male,3.5,9,Wednesday,5,53,yes,no,yes,Standard,123
+KSI0866,Suntreso Govt Hospital,Tafo,6.0,Female,2.2,10,Wednesday,4,38,yes,no,no,Standard,92
+KSI0867,KATH,Adum,29.0,Male,14.6,9,Wednesday,8,66,yes,no,no,Standard,106
+KSI0868,KATH,Santasi,58.0,Female,0.8,7,Thursday,9,63,yes,no,yes,Standard,118
+KSI0869,Tafo Govt Hospital,Kwadaso,17.0,Male,12.1,11,Thursday,2,28,yes,yes,no,Standard,55
+KSI0870,Tafo Govt Hospital,Kwadaso,16.0,Male,11.9,11,Thursday,3,32,no,no,yes,Standard,51
+KSI0871,Manhyia Govt Hospital,Asafo,3.0,Male,4.8,8,Wednesday,6,43,no,no,yes,Standard,110
+KSI0872,KATH,Tafo,21.0,Female,2.5,8,Tuesday,9,50,yes,yes,yes,Standard,141
+KSI0873,Suntreso Govt Hospital,Abrepo,64.0,Female,2.6,12,Wednesday,2,41,yes,no,yes,Standard,127
+KSI0874,Manhyia Govt Hospital,Asokwa,36.0,Male,10.6,7,Monday,6,62,no,no,no,Standard,111
+KSI0875,KATH,Ayigya,62.0,Male,9.8,13,Tuesday,10,46,no,no,no,Standard,45
+KSI0876,KATH,Suame,42.0,Male,11.8,8,Thursday,11,64,yes,no,yes,Standard,132
+KSI0877,Kumasi South Hospital,Asafo,76.0,Female,14.1,10,Friday,5,44,yes,no,no,Standard,100
+KSI0878,Suntreso Govt Hospital,Asokwa,42.0,Male,10.5,14,Tuesday,6,28,yes,yes,no,Standard,65
+KSI0879,KATH,Suame,61.0,Female,2.8,10,Thursday,10,65,yes,no,no,Standard,126
+KSI0880,KATH,Suame,13.0,Female,4.0,8,Tuesday,6,55,yes,no,no,Standard,124
+KSI0881,KATH,Tafo,11.0,Female,12.7,10,Tuesday,6,48,yes,yes,yes,Urgent,103
+KSI0882,Suntreso Govt Hospital,Tafo,54.0,Male,3.5,8,Wednesday,5,37,yes,yes,no,Urgent,54
+KSI0883,KATH,Adum,16.0,Female,1.6,8,Monday,6,79,yes,no,no,Standard,152
+KSI0884,KATH,Kwadaso,8.0,Male,10.7,15,Friday,6,55,no,yes,no,Standard,109
+KSI0885,Kumasi South Hospital,Asokwa,59.0,Male,6.3,11,Thursday,7,33,no,no,no,Standard,24
+KSI0886,KATH,Asafo,57.0,Female,13.8,10,Tuesday,8,47,yes,yes,yes,Urgent,89
+KSI0887,Suntreso Govt Hospital,Bantama,40.0,Female,9.9,8,Friday,5,39,no,yes,no,Standard,79
+KSI0888,KATH,Asafo,59.0,Male,1.8,7,Tuesday,9,56,yes,no,yes,Standard,133
+KSI0889,KATH,Adum,2.0,Male,14.2,7,Monday,9,78,no,yes,yes,Standard,176
+KSI0890,KATH,Ayigya,76.0,Female,4.2,9,Friday,6,51,yes,no,yes,Standard,165
+KSI0891,Kumasi South Hospital,Kwadaso,10.0,Male,5.4,11,Thursday,7,37,yes,no,no,Standard,75
+KSI0892,Tafo Govt Hospital,Bantama,44.0,Female,6.3,9,Tuesday,1,26,yes,yes,yes,Standard,122
+KSI0893,Kumasi South Hospital,Santasi,11.0,Female,1.2,12,Monday,6,47,yes,yes,no,Standard,88
+KSI0894,Manhyia Govt Hospital,Ayigya,79.0,Male,7.7,7,Friday,4,45,no,no,yes,Standard,98
+KSI0895,Suntreso Govt Hospital,Tafo,80.0,Female,2.3,8,Tuesday,3,41,yes,yes,no,Urgent,88
+KSI0896,KATH,Suame,81.0,Male,6.3,8,Tuesday,7,65,yes,no,yes,Standard,137
+KSI0897,KATH,Santasi,2.0,Female,5.6,9,Thursday,8,58,yes,no,no,Standard,139
+KSI0898,Tafo Govt Hospital,Asafo,50.0,Female,11.7,7,Monday,1,57,yes,yes,no,Standard,156
+KSI0899,KATH,Asafo,12.0,Male,12.1,14,Wednesday,10,44,yes,no,no,Standard,64
+KSI0900,KATH,Tafo,23.0,Female,2.7,8,Tuesday,10,58,yes,yes,yes,Standard,138
+KSI0901,KATH,Adum,18.0,Female,5.8,14,Friday,7,45,no,yes,no,Standard,80
+KSI0902,KATH,Asokwa,62.0,Male,5.9,9,Thursday,11,41,no,yes,no,Standard,42
+KSI0903,KATH,Santasi,62.0,Female,2.7,15,Thursday,8,44,no,no,no,Standard,78
+KSI0904,Suntreso Govt Hospital,Santasi,38.0,Male,,9,Tuesday,4,45,yes,no,yes,Standard,142
+KSI0905,Manhyia Govt Hospital,Abrepo,67.0,Male,10.8,14,Tuesday,4,22,yes,no,no,Urgent,28
+KSI0906,Tafo Govt Hospital,Ayigya,38.0,Male,3.3,7,Tuesday,2,39,yes,no,yes,Standard,103
+KSI0907,Kumasi South Hospital,Kwadaso,67.0,Male,5.8,11,Wednesday,2,17,yes,yes,no,Standard,78
+KSI0908,Manhyia Govt Hospital,Ayigya,61.0,Male,2.0,13,Tuesday,8,29,yes,no,no,Standard,60
+KSI0909,KATH,Asokwa,1.0,Male,9.6,7,Monday,8,76,no,no,yes,Standard,165
+KSI0910,Manhyia Govt Hospital,Asafo,45.0,Female,2.3,7,Friday,7,46,yes,no,no,Standard,72
+KSI0911,Suntreso Govt Hospital,Asafo,28.0,Female,14.8,9,Tuesday,3,37,no,yes,no,Standard,69
+KSI0912,KATH,Asafo,21.0,Female,11.8,14,Wednesday,6,61,no,yes,no,Standard,95
+KSI0913,Suntreso Govt Hospital,Abrepo,13.0,Male,6.2,9,Friday,6,38,no,no,yes,Standard,68
+KSI0914,Manhyia Govt Hospital,Asafo,27.0,Male,8.9,9,Thursday,5,35,no,no,no,Standard,73
+KSI0915,Suntreso Govt Hospital,Asokwa,7.0,Male,13.7,7,Tuesday,3,28,yes,no,no,Standard,48
+KSI0916,Manhyia Govt Hospital,Tafo,22.0,Female,8.5,7,Friday,8,42,yes,no,yes,Urgent,81
+KSI0917,KATH,Kwadaso,74.0,Female,3.0,12,Thursday,7,59,yes,no,yes,Standard,117
+KSI0918,Tafo Govt Hospital,Asokwa,53.0,Male,6.0,7,Wednesday,6,32,yes,no,no,Standard,49
+KSI0919,Kumasi South Hospital,Kwadaso,79.0,Male,12.7,10,Monday,2,49,yes,no,yes,Standard,119
+KSI0920,KATH,Asokwa,79.0,Female,9.8,13,Tuesday,6,49,yes,no,no,Standard,85
+KSI0921,Tafo Govt Hospital,Asafo,4.0,Male,9.9,7,Monday,3,58,yes,no,yes,Standard,182
+KSI0922,Manhyia Govt Hospital,Tafo,23.0,Male,13.1,10,Wednesday,8,42,no,no,yes,Urgent,42
+KSI0923,Tafo Govt Hospital,Santasi,,Female,13.5,7,Friday,2,42,no,yes,no,Standard,73
+KSI0924,Kumasi South Hospital,Ayigya,84.0,Female,13.8,10,Friday,2,39,yes,no,no,Standard,107
+KSI0925,Manhyia Govt Hospital,Suame,84.0,Male,1.9,7,Wednesday,4,51,yes,no,no,Standard,128
+KSI0926,KATH,Tafo,76.0,Male,8.4,11,Wednesday,8,51,yes,no,no,Standard,93
+KSI0927,KATH,Santasi,,Female,11.2,8,Tuesday,11,54,yes,yes,no,Standard,137
+KSI0928,Suntreso Govt Hospital,Adum,28.0,Male,11.5,9,Thursday,3,37,no,yes,yes,Standard,121
+KSI0929,Suntreso Govt Hospital,Asokwa,8.0,Male,9.3,10,Monday,6,36,yes,no,no,Standard,89
+KSI0930,KATH,Adum,1.0,Male,2.9,7,Monday,7,85,yes,yes,yes,Urgent,170
+KSI0931,KATH,Santasi,37.0,Male,12.1,11,Friday,9,57,no,no,no,Standard,80
+KSI0932,Kumasi South Hospital,Tafo,63.0,Male,10.9,8,Friday,5,32,no,no,yes,Standard,80
+KSI0933,Tafo Govt Hospital,Asokwa,22.0,Female,1.7,10,Tuesday,3,35,yes,no,yes,Standard,113
+KSI0934,Suntreso Govt Hospital,Suame,70.0,Male,7.2,7,Wednesday,4,42,yes,yes,no,Standard,101
+KSI0935,KATH,Asafo,21.0,Male,3.0,10,Monday,8,65,yes,no,yes,Standard,159
+KSI0936,KATH,Asokwa,35.0,Female,5.4,7,Tuesday,10,57,yes,no,yes,Standard,118
+KSI0937,KATH,Asokwa,79.0,Female,0.8,9,Friday,11,53,yes,no,no,Standard,52
+KSI0938,Tafo Govt Hospital,Tafo,5.0,Female,6.3,8,Friday,5,36,yes,no,no,Standard,86
+KSI0939,KATH,Tafo,60.0,Female,8.5,11,Monday,7,59,yes,yes,no,Standard,116
+KSI0940,Suntreso Govt Hospital,Santasi,46.0,Male,9.5,8,Friday,2,34,yes,yes,no,Standard,108
+KSI0941,KATH,Bantama,50.0,Female,10.1,13,Friday,11,68,yes,yes,yes,Standard,150
+KSI0942,Suntreso Govt Hospital,Asokwa,48.0,Female,12.6,13,Thursday,5,29,no,no,no,Urgent,5
+KSI0943,Suntreso Govt Hospital,Ayigya,6.0,Female,3.6,7,Wednesday,5,45,yes,yes,yes,Standard,136
+KSI0944,Kumasi South Hospital,Asokwa,56.0,Female,2.2,10,Friday,5,41,yes,no,no,Standard,84
+KSI0945,KATH,Santasi,59.0,Female,12.8,7,Thursday,7,74,no,no,no,Standard,123
+KSI0946,KATH,Kwadaso,29.0,Female,2.8,8,Tuesday,7,72,yes,yes,no,Standard,165
+KSI0947,KATH,Adum,71.0,Male,14.6,11,Friday,8,50,no,yes,no,Standard,109
+KSI0948,Tafo Govt Hospital,Asafo,77.0,Female,12.7,10,Tuesday,1,33,yes,no,yes,Standard,116
+KSI0949,Tafo Govt Hospital,Bantama,18.0,Female,7.8,10,Friday,3,18,yes,no,no,Urgent,15
+KSI0950,Suntreso Govt Hospital,Suame,2.0,Female,14.7,8,Monday,3,65,yes,yes,no,Urgent,111
+KSI0951,Suntreso Govt Hospital,Suame,8.0,Male,1.9,8,Thursday,6,49,yes,yes,yes,Standard,146
+KSI0952,Suntreso Govt Hospital,Suame,75.0,Female,4.9,7,Thursday,4,45,yes,no,yes,Standard,138
+KSI0953,KATH,Tafo,54.0,Male,9.8,11,Monday,11,72,yes,yes,no,Standard,135
+KSI0954,Tafo Govt Hospital,Suame,38.0,Male,5.6,9,Wednesday,2,54,yes,no,no,Standard,119
+KSI0955,Manhyia Govt Hospital,Asafo,48.0,Male,14.0,11,Thursday,4,30,yes,yes,yes,Standard,112
+KSI0956,Manhyia Govt Hospital,Adum,27.0,Male,1.5,8,Tuesday,7,42,yes,no,no,Standard,89
+KSI0957,Suntreso Govt Hospital,Suame,20.0,Female,8.5,8,Thursday,6,36,yes,no,yes,Standard,115
+KSI0958,KATH,Asokwa,12.0,Male,9.1,8,Wednesday,10,56,yes,no,yes,Standard,140
+KSI0959,KATH,Asokwa,43.0,Female,10.0,7,Tuesday,6,47,yes,no,no,Standard,107
+KSI0960,Kumasi South Hospital,Tafo,61.0,Male,4.2,8,Tuesday,7,46,yes,no,yes,Standard,97
+KSI0961,KATH,Asafo,31.0,Male,5.8,12,Monday,7,56,yes,yes,no,Standard,122
+KSI0962,Suntreso Govt Hospital,Adum,61.0,Male,12.7,13,Friday,6,21,yes,yes,yes,Standard,93
+KSI0963,KATH,Bantama,74.0,Male,3.3,9,Monday,6,74,yes,no,yes,Standard,220
+KSI0964,Manhyia Govt Hospital,Santasi,67.0,Male,12.5,9,Friday,6,38,no,no,yes,Standard,75
+KSI0965,KATH,Adum,35.0,Male,8.7,7,Monday,11,76,yes,no,no,Standard,143
+KSI0966,Manhyia Govt Hospital,Santasi,15.0,Female,11.6,13,Friday,6,41,yes,no,no,Standard,61
+KSI0967,Kumasi South Hospital,Kwadaso,16.0,Male,10.8,7,Thursday,5,40,yes,no,no,Standard,71
+KSI0968,KATH,Santasi,13.0,Male,3.5,14,Tuesday,7,63,yes,no,yes,Standard,127
+KSI0969,Suntreso Govt Hospital,Ayigya,35.0,Male,8.7,9,Friday,2,34,yes,no,no,Standard,55
+KSI0970,Manhyia Govt Hospital,Asokwa,75.0,Female,13.1,8,Thursday,3,44,yes,no,no,Standard,122
+KSI0971,Suntreso Govt Hospital,Asafo,59.0,Female,6.8,14,Wednesday,5,25,yes,no,no,Standard,12
+KSI0972,Tafo Govt Hospital,Abrepo,21.0,Female,14.5,7,Monday,6,51,yes,no,no,Urgent,65
+KSI0973,Kumasi South Hospital,Tafo,54.0,Male,7.1,10,Wednesday,4,28,yes,no,no,Standard,48
+KSI0974,KATH,Ayigya,75.0,Male,2.6,9,Thursday,9,56,yes,yes,yes,Urgent,99
+KSI0975,KATH,Santasi,30.0,Female,6.1,7,Wednesday,7,77,yes,no,no,Standard,166
+KSI0976,KATH,Suame,48.0,Male,14.3,9,Wednesday,9,67,yes,yes,no,Standard,137
+KSI0977,Suntreso Govt Hospital,Asafo,35.0,Male,5.1,10,Thursday,7,36,yes,no,no,Standard,47
+KSI0978,KATH,Ayigya,38.0,Male,13.1,11,Tuesday,11,54,yes,yes,yes,Standard,120
+KSI0979,Manhyia Govt Hospital,Tafo,31.0,Male,13.3,7,Friday,6,50,yes,yes,yes,Standard,135
+KSI0980,Suntreso Govt Hospital,Asokwa,78.0,Male,5.6,14,Monday,2,35,yes,no,no,Standard,86
+KSI0981,Manhyia Govt Hospital,Asafo,24.0,Female,1.7,7,Friday,6,45,yes,no,yes,Standard,123
+KSI0982,Kumasi South Hospital,Tafo,49.0,Male,11.0,8,Monday,6,55,no,no,yes,Standard,146
+KSI0983,KATH,Kwadaso,32.0,Female,5.0,8,Friday,10,55,yes,no,no,Standard,66
+KSI0984,KATH,Kwadaso,55.0,Male,11.9,7,Wednesday,8,69,yes,no,no,Standard,128
+KSI0985,Kumasi South Hospital,Tafo,79.0,Male,6.9,7,Tuesday,3,41,no,yes,no,Urgent,51
+KSI0986,Manhyia Govt Hospital,Ayigya,58.0,Female,7.5,15,Wednesday,4,30,yes,no,no,Standard,72
+KSI0987,Kumasi South Hospital,Asafo,3.0,Male,11.8,8,Tuesday,2,35,yes,no,yes,Standard,126
+KSI0988,Manhyia Govt Hospital,Ayigya,80.0,Female,6.0,7,Thursday,4,50,no,no,no,Standard,92
+KSI0989,KATH,Bantama,69.0,Female,6.9,7,Monday,8,71,yes,no,yes,Standard,179
+KSI0990,Kumasi South Hospital,Santasi,85.0,Male,6.0,11,Monday,6,47,yes,no,no,Standard,80
+KSI0991,Kumasi South Hospital,Bantama,10.0,Female,5.8,12,Thursday,2,51,no,no,no,Urgent,63
+KSI0992,Kumasi South Hospital,Kwadaso,83.0,Male,8.1,8,Friday,7,51,no,no,yes,Standard,107
+KSI0993,KATH,Asokwa,25.0,Female,12.2,7,Thursday,10,57,yes,no,yes,Urgent,109
+KSI0994,Suntreso Govt Hospital,Adum,68.0,Male,5.7,8,Thursday,4,39,yes,no,no,Standard,105
+KSI0995,Manhyia Govt Hospital,Santasi,61.0,Female,8.1,7,Tuesday,3,44,yes,no,yes,Standard,140
+KSI0996,KATH,Kwadaso,29.0,Male,10.2,7,Thursday,9,66,yes,yes,yes,Standard,189
+KSI0997,Tafo Govt Hospital,Ayigya,19.0,Female,4.4,9,Monday,2,47,yes,no,no,Standard,118
+KSI0998,KATH,Ayigya,43.0,Female,4.5,8,Wednesday,8,59,yes,no,no,Urgent,73
+KSI0999,Tafo Govt Hospital,Ayigya,66.0,Female,14.0,9,Tuesday,1,35,yes,yes,yes,Standard,135
+KSI1000,Manhyia Govt Hospital,Asokwa,74.0,Female,11.0,8,Tuesday,7,44,yes,no,no,Standard,81
+KSI1001,KATH,Bantama,61.0,Female,8.9,14,Friday,6,53,yes,no,no,Standard,89
+KSI1002,Suntreso Govt Hospital,Adum,43.0,Female,9.9,13,Wednesday,5,28,yes,no,yes,Standard,106
+KSI1003,Tafo Govt Hospital,Ayigya,25.0,Male,0.9,9,Tuesday,3,36,no,no,no,Standard,58
+KSI1004,Kumasi South Hospital,Abrepo,20.0,Male,9.5,8,Thursday,2,37,no,no,yes,Standard,100
+KSI1005,Kumasi South Hospital,Santasi,48.0,Male,7.9,8,Tuesday,7,49,yes,yes,no,Standard,111
+KSI1006,Suntreso Govt Hospital,Asafo,83.0,Male,8.4,8,Tuesday,4,31,no,no,no,Standard,94
+KSI1007,Kumasi South Hospital,Abrepo,24.0,Male,5.7,11,Tuesday,4,38,no,no,no,Standard,36
+KSI1008,Kumasi South Hospital,Adum,11.0,Female,1.7,9,Friday,6,47,yes,no,no,Standard,74
+KSI1009,KATH,Asokwa,55.0,Male,3.3,12,Tuesday,7,51,yes,yes,yes,Standard,121
+KSI1010,Manhyia Govt Hospital,Adum,28.0,Female,14.3,14,Tuesday,8,30,yes,yes,yes,Urgent,50
+KSI1011,KATH,Asafo,69.0,Male,6.4,8,Friday,9,73,yes,no,no,Standard,131
+KSI1012,Tafo Govt Hospital,Santasi,63.0,Male,7.3,9,Wednesday,1,41,yes,no,no,Standard,90
+KSI1013,Tafo Govt Hospital,Asafo,59.0,Female,1.3,7,Monday,2,42,yes,no,yes,Urgent,97
+KSI1014,KATH,Tafo,5.0,Female,1.0,7,Friday,10,60,yes,no,no,Standard,107
+KSI1015,Kumasi South Hospital,Santasi,51.0,Female,10.9,8,Friday,3,39,yes,no,yes,Standard,114
+KSI1016,Tafo Govt Hospital,Adum,21.0,Female,8.3,7,Tuesday,3,26,yes,no,yes,Standard,104
+KSI1017,KATH,Ayigya,12.0,Male,7.9,13,Tuesday,8,57,no,no,no,Standard,87
+KSI1018,Suntreso Govt Hospital,Adum,50.0,Female,4.0,7,Monday,5,57,yes,yes,yes,Standard,181
+KSI1019,Tafo Govt Hospital,Adum,4.0,Male,11.3,9,Tuesday,6,26,no,no,no,Standard,37
+KSI1020,KATH,Santasi,42.0,Male,2.9,10,Thursday,6,63,yes,no,yes,Standard,168
+KSI1021,Kumasi South Hospital,Tafo,84.0,Male,3.3,10,Tuesday,2,35,no,no,yes,Standard,95
+KSI1022,KATH,Adum,38.0,Male,7.2,8,Tuesday,10,59,yes,no,no,Standard,99
+KSI1023,Tafo Govt Hospital,Abrepo,25.0,Male,4.7,13,Thursday,4,27,yes,no,no,Standard,39
+KSI1024,Tafo Govt Hospital,Kwadaso,14.0,Female,4.1,9,Monday,1,41,yes,no,no,Standard,103
+KSI1025,Tafo Govt Hospital,Suame,75.0,Female,9.9,9,Thursday,6,28,yes,no,no,Standard,44
+KSI1026,Manhyia Govt Hospital,Suame,32.0,Male,9.9,7,Friday,5,37,no,no,yes,Standard,99
+KSI1027,Tafo Govt Hospital,Adum,11.0,Male,12.5,9,Thursday,4,45,yes,no,no,Standard,93
+KSI1028,Kumasi South Hospital,Abrepo,61.0,Male,6.6,12,Wednesday,3,43,no,no,no,Standard,73
+KSI1029,Manhyia Govt Hospital,Ayigya,18.0,Male,1.6,10,Friday,6,37,yes,no,no,Urgent,19
+KSI1030,Kumasi South Hospital,Asokwa,27.0,Female,4.5,12,Tuesday,5,37,yes,no,yes,Urgent,85
+KSI1031,KATH,Asokwa,55.0,Male,14.7,9,Friday,11,73,no,no,yes,Standard,113
+KSI1032,Suntreso Govt Hospital,Santasi,54.0,Female,9.1,7,Monday,7,57,yes,yes,no,Standard,114
+KSI1033,KATH,Suame,82.0,Male,10.8,7,Monday,6,64,yes,no,no,Standard,136
+KSI1034,KATH,Adum,75.0,Female,0.6,8,Thursday,10,61,no,no,no,Urgent,81
+KSI1035,KATH,Asokwa,21.0,Male,8.0,10,Friday,10,50,no,no,no,Standard,52
+KSI1036,Kumasi South Hospital,Adum,44.0,Female,1.0,12,Tuesday,7,31,no,yes,yes,Standard,68
+KSI1037,Manhyia Govt Hospital,Santasi,5.0,Male,8.8,8,Monday,3,45,no,no,no,Standard,87
+KSI1038,Kumasi South Hospital,Suame,41.0,Female,13.9,9,Tuesday,2,42,yes,yes,no,Standard,115
+KSI1039,KATH,Asafo,,Male,14.5,9,Wednesday,6,62,no,no,no,Standard,86
+KSI1040,Manhyia Govt Hospital,Kwadaso,54.0,Male,8.3,8,Monday,8,65,yes,no,yes,Standard,152
+KSI1041,Suntreso Govt Hospital,Kwadaso,74.0,Female,7.1,8,Thursday,6,26,no,no,yes,Standard,78
+KSI1042,Kumasi South Hospital,Asokwa,22.0,Female,14.2,7,Wednesday,2,30,yes,yes,yes,Standard,139
+KSI1043,Manhyia Govt Hospital,Kwadaso,83.0,Female,10.3,7,Friday,8,44,yes,yes,no,Standard,80
+KSI1044,Suntreso Govt Hospital,Asafo,65.0,Female,1.4,7,Tuesday,3,35,yes,yes,yes,Standard,130
+KSI1045,Tafo Govt Hospital,Adum,64.0,Female,7.3,7,Monday,2,45,yes,yes,yes,Standard,154
+KSI1046,Suntreso Govt Hospital,Santasi,71.0,Male,4.0,7,Wednesday,4,41,yes,no,no,Standard,92
+KSI1047,KATH,Asafo,4.0,Male,7.3,10,Wednesday,7,72,no,no,yes,Standard,155
+KSI1048,KATH,Santasi,65.0,Male,7.1,8,Monday,9,58,no,no,yes,Standard,119
+KSI1049,Tafo Govt Hospital,Santasi,15.0,Female,8.9,15,Friday,3,22,yes,no,yes,Standard,72
+KSI1050,KATH,Suame,76.0,Male,5.7,7,Friday,7,56,no,yes,yes,Standard,164
+KSI1051,Tafo Govt Hospital,Adum,22.0,Male,2.9,8,Thursday,4,47,yes,yes,no,Standard,124
+KSI1052,Suntreso Govt Hospital,Abrepo,47.0,Female,7.8,8,Friday,3,31,yes,yes,no,Standard,106
+KSI1053,Tafo Govt Hospital,Kwadaso,81.0,Female,12.5,7,Thursday,6,44,yes,no,no,Standard,110
+KSI1054,Kumasi South Hospital,Abrepo,46.0,Male,10.1,12,Wednesday,5,26,no,no,no,Standard,35
+KSI1055,Tafo Govt Hospital,Suame,14.0,Male,,7,Monday,1,49,yes,yes,no,Standard,114
+KSI1056,Manhyia Govt Hospital,Santasi,50.0,Male,14.1,14,Friday,8,35,yes,yes,no,Standard,78
+KSI1057,Kumasi South Hospital,Asokwa,20.0,Male,13.7,13,Thursday,5,23,yes,no,yes,Standard,52
+KSI1058,Manhyia Govt Hospital,Kwadaso,50.0,Male,3.5,9,Wednesday,8,53,yes,no,yes,Standard,124
+KSI1059,Manhyia Govt Hospital,Kwadaso,33.0,Female,1.1,9,Friday,3,44,yes,no,no,Standard,73
+KSI1060,Suntreso Govt Hospital,Adum,59.0,Female,11.2,10,Tuesday,5,35,yes,no,yes,Standard,93
+KSI1061,Tafo Govt Hospital,Tafo,43.0,Female,12.5,8,Wednesday,4,33,yes,yes,yes,Standard,115
+KSI1062,Tafo Govt Hospital,Bantama,79.0,Male,14.5,10,Friday,6,32,yes,no,no,Standard,44
+KSI1063,Kumasi South Hospital,Bantama,12.0,Female,13.4,7,Wednesday,3,44,no,no,no,Standard,72
+KSI1064,Manhyia Govt Hospital,Bantama,40.0,Male,9.2,7,Monday,6,53,yes,no,yes,Urgent,125
+KSI1065,Manhyia Govt Hospital,Tafo,20.0,Female,8.2,9,Monday,4,47,yes,no,yes,Urgent,95
+KSI1066,Kumasi South Hospital,Adum,38.0,Female,0.9,9,Monday,5,50,yes,no,yes,Standard,146
+KSI1067,KATH,Tafo,3.0,Male,,13,Tuesday,10,42,no,yes,no,Standard,42
+KSI1068,KATH,Bantama,28.0,Male,7.2,7,Monday,8,82,yes,no,yes,Standard,187
+KSI1069,Manhyia Govt Hospital,Suame,56.0,Female,9.6,12,Tuesday,4,47,no,yes,no,Standard,89
+KSI1070,KATH,Asafo,13.0,Male,8.6,7,Monday,7,66,yes,yes,no,Standard,144
+KSI1071,KATH,Santasi,77.0,Female,11.3,8,Wednesday,6,58,no,no,no,Standard,75
+KSI1072,KATH,Tafo,66.0,Male,4.6,8,Friday,10,56,yes,yes,yes,Urgent,117
+KSI1073,KATH,Adum,37.0,Female,8.7,8,Friday,6,56,yes,no,yes,Standard,163
+KSI1074,KATH,Adum,49.0,Male,1.8,7,Monday,10,87,yes,no,no,Standard,156
+KSI1075,Tafo Govt Hospital,Abrepo,66.0,Male,6.5,9,Friday,5,37,yes,yes,no,Standard,82
+KSI1076,Manhyia Govt Hospital,Asafo,36.0,Female,11.4,12,Monday,8,37,no,no,yes,Standard,75
+KSI1077,Manhyia Govt Hospital,Asokwa,54.0,Male,10.6,9,Monday,8,47,no,no,no,Urgent,31
+KSI1078,Suntreso Govt Hospital,Kwadaso,26.0,Male,14.9,9,Thursday,7,38,yes,no,yes,Standard,101
+KSI1079,KATH,Bantama,75.0,Male,4.5,12,Thursday,9,42,yes,no,yes,Standard,63
+KSI1080,Tafo Govt Hospital,Asokwa,72.0,Male,7.7,11,Thursday,1,44,yes,no,no,Standard,80
+KSI1081,Kumasi South Hospital,Abrepo,40.0,Male,5.3,9,Tuesday,4,35,yes,no,yes,Standard,96
+KSI1082,KATH,Bantama,43.0,Male,6.9,8,Thursday,10,51,yes,no,no,Standard,91
+KSI1083,Manhyia Govt Hospital,Asafo,22.0,Female,12.9,13,Monday,7,47,no,no,no,Standard,63
+KSI1084,Tafo Govt Hospital,Abrepo,20.0,Male,10.4,9,Wednesday,2,35,no,no,no,Standard,67
+KSI1085,Tafo Govt Hospital,Bantama,8.0,Female,13.3,8,Thursday,4,25,yes,no,no,Standard,64
+KSI1086,Manhyia Govt Hospital,Asafo,29.0,Male,3.5,8,Thursday,5,38,no,yes,no,Standard,56
+KSI1087,Suntreso Govt Hospital,Ayigya,40.0,Male,13.2,12,Wednesday,7,26,yes,no,yes,Standard,93
+KSI1088,KATH,Asokwa,30.0,Female,1.4,7,Monday,10,73,yes,no,no,Urgent,121
+KSI1089,Tafo Govt Hospital,Asokwa,81.0,Male,13.4,15,Tuesday,2,25,yes,no,no,Standard,34
+KSI1090,KATH,Kwadaso,84.0,Female,,7,Thursday,6,72,yes,no,yes,Standard,178
+KSI1091,Tafo Govt Hospital,Asafo,55.0,Male,5.1,12,Wednesday,5,37,yes,yes,yes,Urgent,67
+KSI1092,Suntreso Govt Hospital,Tafo,16.0,Female,7.9,8,Monday,3,57,yes,yes,yes,Urgent,145
+KSI1093,Suntreso Govt Hospital,Ayigya,46.0,Female,14.1,9,Friday,2,32,yes,yes,no,Standard,117
+KSI1094,Suntreso Govt Hospital,Suame,62.0,Female,1.2,13,Tuesday,5,31,yes,yes,no,Standard,106
+KSI1095,KATH,Bantama,7.0,Female,5.6,8,Wednesday,11,53,no,no,no,Standard,73
+KSI1096,KATH,Ayigya,80.0,Female,12.9,9,Wednesday,6,60,yes,no,no,Standard,124
+KSI1097,KATH,Asafo,45.0,Male,6.2,7,Wednesday,10,73,no,no,no,Standard,94
+KSI1098,KATH,Santasi,59.0,Male,3.4,7,Thursday,8,61,no,yes,no,Standard,112
+KSI1099,Kumasi South Hospital,Bantama,56.0,Female,6.7,8,Friday,2,39,yes,no,no,Standard,117
+KSI1100,Manhyia Govt Hospital,Adum,48.0,Male,6.1,10,Tuesday,5,43,yes,no,no,Standard,84
+KSI1101,KATH,Asokwa,27.0,Male,13.8,7,Monday,8,73,no,no,no,Urgent,73
+KSI1102,Tafo Govt Hospital,Asafo,53.0,Female,11.5,7,Monday,1,57,yes,no,no,Standard,113
+KSI1103,Tafo Govt Hospital,Adum,73.0,Male,7.8,8,Friday,4,38,no,yes,no,Standard,80
+KSI1104,Tafo Govt Hospital,Kwadaso,35.0,Female,14.8,10,Wednesday,1,28,yes,no,no,Standard,78
+KSI1105,Tafo Govt Hospital,Abrepo,51.0,Female,7.2,11,Wednesday,2,30,yes,no,no,Urgent,25
+KSI1106,KATH,Suame,84.0,Female,1.3,7,Wednesday,11,54,no,yes,no,Standard,99
+KSI1107,Manhyia Govt Hospital,Suame,37.0,Female,4.3,7,Wednesday,5,43,no,yes,no,Standard,79
+KSI1108,Kumasi South Hospital,Adum,81.0,Male,6.8,14,Wednesday,7,26,no,yes,no,Urgent,5
+KSI1109,Kumasi South Hospital,Asokwa,57.0,Male,2.8,8,Friday,6,45,yes,yes,no,Standard,104
+KSI1110,KATH,Kwadaso,8.0,Female,14.2,12,Thursday,8,53,no,no,no,Standard,62
+KSI1111,Kumasi South Hospital,Santasi,79.0,Male,11.6,13,Tuesday,6,34,no,no,yes,Urgent,31
+KSI1112,KATH,Asokwa,20.0,Female,4.4,11,Wednesday,7,56,no,yes,yes,Urgent,109
+KSI1113,KATH,Ayigya,53.0,Female,9.1,7,Thursday,7,73,yes,no,no,Standard,122
+KSI1114,Suntreso Govt Hospital,Suame,12.0,Male,11.0,12,Monday,7,57,yes,no,no,Standard,107
+KSI1115,Suntreso Govt Hospital,Ayigya,49.0,Male,,11,Friday,3,40,no,yes,no,Standard,81
+KSI1116,Suntreso Govt Hospital,Bantama,17.0,Female,13.3,10,Thursday,2,33,yes,yes,yes,Standard,132
+KSI1117,KATH,Tafo,64.0,Male,8.0,8,Wednesday,8,51,yes,yes,yes,Standard,160
+KSI1118,Tafo Govt Hospital,Asafo,42.0,Female,11.7,8,Wednesday,5,43,yes,no,yes,Standard,113
+KSI1119,KATH,Kwadaso,29.0,Male,8.7,7,Wednesday,11,53,yes,yes,yes,Standard,145
+KSI1120,KATH,Asokwa,19.0,Female,8.5,9,Thursday,11,51,yes,no,no,Standard,92
+KSI1121,Tafo Govt Hospital,Suame,11.0,Female,2.2,10,Wednesday,2,41,yes,no,yes,Standard,111
+KSI1122,Tafo Govt Hospital,Ayigya,50.0,Female,2.3,8,Thursday,2,39,no,no,no,Standard,70
+KSI1123,Tafo Govt Hospital,Abrepo,71.0,Female,8.2,9,Wednesday,5,20,yes,yes,no,Standard,59
+KSI1124,Kumasi South Hospital,Bantama,58.0,Male,4.4,8,Monday,4,49,yes,no,no,Standard,112
+KSI1125,Suntreso Govt Hospital,Asafo,34.0,Male,0.8,10,Monday,4,58,yes,no,no,Standard,117
+KSI1126,Suntreso Govt Hospital,Asafo,20.0,Female,11.0,13,Tuesday,7,17,yes,no,no,Standard,33
+KSI1127,KATH,Asokwa,,Male,1.0,7,Wednesday,10,61,yes,no,yes,Standard,138
+KSI1128,Manhyia Govt Hospital,Kwadaso,10.0,Female,9.1,8,Wednesday,8,46,yes,no,no,Standard,85
+KSI1129,Manhyia Govt Hospital,Santasi,32.0,Female,8.3,7,Thursday,6,50,yes,no,no,Standard,98
+KSI1130,KATH,Abrepo,52.0,Female,14.5,10,Thursday,8,60,no,no,yes,Standard,88
+KSI1131,Kumasi South Hospital,Asokwa,15.0,Female,7.5,11,Wednesday,6,43,yes,no,yes,Standard,106
+KSI1132,Manhyia Govt Hospital,Ayigya,84.0,Female,1.4,14,Tuesday,7,45,yes,yes,yes,Standard,117
+KSI1133,KATH,Tafo,3.0,Female,8.5,8,Wednesday,11,61,yes,no,yes,Standard,133
+KSI1134,KATH,Adum,37.0,Male,12.7,14,Thursday,7,45,yes,no,no,Urgent,36
+KSI1135,Kumasi South Hospital,Santasi,40.0,Male,15.0,7,Wednesday,6,48,no,no,no,Standard,50
+KSI1136,KATH,Kwadaso,72.0,Male,6.7,10,Thursday,11,62,no,yes,yes,Standard,128
+KSI1137,Tafo Govt Hospital,Bantama,40.0,Female,5.1,7,Wednesday,1,34,yes,no,no,Standard,87
+KSI1138,Manhyia Govt Hospital,Santasi,56.0,Female,13.6,13,Friday,4,43,yes,no,no,Standard,85
+KSI1139,Manhyia Govt Hospital,Suame,23.0,Female,3.3,9,Thursday,4,49,yes,yes,yes,Standard,145
+KSI1140,Suntreso Govt Hospital,Kwadaso,11.0,Male,9.4,10,Tuesday,4,31,yes,yes,no,Standard,87
+KSI1141,Kumasi South Hospital,Tafo,64.0,Female,6.4,12,Friday,5,31,no,no,no,Standard,28
+KSI1142,Manhyia Govt Hospital,Suame,8.0,Male,1.1,7,Wednesday,5,45,yes,no,no,Standard,81
+KSI1143,Suntreso Govt Hospital,Santasi,56.0,Female,5.5,7,Thursday,2,40,yes,no,no,Standard,107
+KSI1144,Suntreso Govt Hospital,Adum,60.0,Female,4.3,13,Friday,7,20,yes,yes,no,Standard,39
+KSI1145,KATH,Adum,10.0,Male,10.4,8,Tuesday,7,63,yes,no,yes,Standard,154
+KSI1146,Tafo Govt Hospital,Tafo,39.0,Male,14.3,7,Thursday,2,38,yes,no,no,Standard,98
+KSI1147,Kumasi South Hospital,Asafo,28.0,Female,4.4,9,Friday,6,40,yes,no,no,Standard,67
+KSI1148,Suntreso Govt Hospital,Abrepo,49.0,Female,12.3,10,Friday,5,43,no,no,yes,Standard,69
+KSI1149,Tafo Govt Hospital,Bantama,36.0,Male,1.3,7,Friday,4,44,yes,no,no,Standard,127
+KSI1150,Tafo Govt Hospital,Asafo,13.0,Female,8.3,8,Monday,5,39,yes,no,no,Urgent,45
+KSI1151,Kumasi South Hospital,Adum,36.0,Female,1.5,7,Wednesday,2,37,yes,yes,yes,Standard,154
+KSI1152,Kumasi South Hospital,Adum,26.0,Female,14.0,9,Thursday,5,20,no,no,no,Standard,55
+KSI1153,Kumasi South Hospital,Ayigya,4.0,Male,11.6,13,Thursday,3,21,yes,no,yes,Standard,94
+KSI1154,Kumasi South Hospital,Suame,82.0,Female,10.0,15,Thursday,2,24,no,no,no,Standard,27
+KSI1155,Suntreso Govt Hospital,Santasi,64.0,Female,12.4,10,Friday,4,40,no,no,yes,Standard,86
+KSI1156,Kumasi South Hospital,Bantama,38.0,Female,9.9,7,Wednesday,4,40,no,no,no,Standard,54
+KSI1157,KATH,Tafo,22.0,Female,14.5,13,Tuesday,6,69,yes,yes,yes,Urgent,150
+KSI1158,Tafo Govt Hospital,Santasi,2.0,Male,10.9,9,Thursday,2,39,yes,yes,yes,Standard,145
+KSI1159,Tafo Govt Hospital,Ayigya,31.0,Male,13.9,7,Wednesday,3,35,yes,no,yes,Standard,105
+KSI1160,KATH,Adum,11.0,Male,8.0,14,Wednesday,11,53,yes,no,no,Standard,56
+KSI1161,Kumasi South Hospital,Tafo,46.0,Male,2.2,11,Monday,3,51,yes,no,no,Standard,95
+KSI1162,KATH,Adum,62.0,Male,8.2,11,Thursday,10,50,yes,yes,no,Standard,113
+KSI1163,Manhyia Govt Hospital,Bantama,69.0,Male,2.3,11,Friday,6,40,no,no,no,Standard,50
+KSI1164,Kumasi South Hospital,Suame,64.0,Female,9.1,7,Wednesday,2,53,yes,yes,no,Standard,142
+KSI1165,KATH,Santasi,10.0,Male,7.5,7,Wednesday,9,62,yes,yes,yes,Standard,149
+KSI1166,Kumasi South Hospital,Santasi,,Female,9.5,10,Tuesday,6,35,yes,no,no,Standard,44
+KSI1167,Kumasi South Hospital,Asafo,24.0,Female,0.6,7,Monday,4,64,yes,no,yes,Standard,183
+KSI1168,Suntreso Govt Hospital,Tafo,44.0,Female,3.3,9,Wednesday,7,30,yes,no,no,Standard,56
+KSI1169,KATH,Abrepo,60.0,Male,7.6,11,Wednesday,7,62,yes,yes,no,Standard,145
+KSI1170,KATH,Ayigya,62.0,Female,14.3,11,Friday,7,52,yes,no,no,Urgent,57
+KSI1171,Suntreso Govt Hospital,Abrepo,17.0,Female,6.1,9,Friday,6,42,yes,no,yes,Standard,104
+KSI1172,Tafo Govt Hospital,Asafo,65.0,Female,6.7,12,Tuesday,1,29,no,no,no,Urgent,22
+KSI1173,Suntreso Govt Hospital,Bantama,57.0,Female,10.9,12,Tuesday,5,37,no,no,yes,Standard,84
+KSI1174,KATH,Ayigya,55.0,Female,9.3,10,Tuesday,11,48,no,no,yes,Standard,91
+KSI1175,Suntreso Govt Hospital,Suame,53.0,Female,4.8,8,Friday,4,40,yes,no,yes,Standard,113
+KSI1176,Suntreso Govt Hospital,Abrepo,56.0,Male,6.5,8,Friday,2,41,yes,no,no,Urgent,73
+KSI1177,Kumasi South Hospital,Suame,9.0,Female,3.7,8,Monday,7,51,yes,no,no,Standard,119
+KSI1178,KATH,Abrepo,22.0,Male,14.5,7,Thursday,11,64,yes,yes,yes,Standard,152
+KSI1179,Kumasi South Hospital,Suame,13.0,Female,2.4,8,Thursday,6,37,yes,no,yes,Standard,96
+KSI1180,Suntreso Govt Hospital,Abrepo,48.0,Male,5.9,7,Monday,6,44,yes,yes,no,Urgent,101
+KSI1181,Tafo Govt Hospital,Suame,18.0,Male,0.9,9,Thursday,2,44,yes,yes,no,Urgent,69
+KSI1182,Manhyia Govt Hospital,Asafo,76.0,Female,3.7,13,Friday,5,42,yes,yes,yes,Urgent,98
+KSI1183,Suntreso Govt Hospital,Kwadaso,40.0,Female,11.8,7,Thursday,2,42,no,no,yes,Urgent,72
+KSI1184,Tafo Govt Hospital,Ayigya,17.0,Male,3.4,11,Friday,2,28,yes,no,no,Standard,39
+KSI1185,KATH,Tafo,15.0,Female,1.7,10,Monday,8,83,yes,no,no,Standard,171
+KSI1186,Tafo Govt Hospital,Bantama,15.0,Female,7.4,7,Tuesday,4,35,yes,no,no,Standard,36
+KSI1187,Kumasi South Hospital,Asokwa,79.0,Male,0.6,14,Monday,5,38,yes,yes,no,Standard,66
+KSI1188,KATH,Adum,63.0,Female,1.7,9,Thursday,7,58,yes,no,yes,Standard,150
+KSI1189,Manhyia Govt Hospital,Tafo,39.0,Male,12.2,8,Friday,3,48,yes,yes,yes,Urgent,128
+KSI1190,Kumasi South Hospital,Adum,13.0,Female,11.7,11,Thursday,4,35,yes,no,yes,Standard,94
+KSI1191,KATH,Ayigya,81.0,Female,13.8,8,Thursday,9,52,no,no,yes,Standard,103
+KSI1192,Suntreso Govt Hospital,Tafo,32.0,Male,12.9,10,Tuesday,5,31,no,yes,no,Urgent,5
+KSI1193,Manhyia Govt Hospital,Suame,9.0,Male,10.4,7,Thursday,3,58,yes,yes,no,Standard,154
+KSI1194,Suntreso Govt Hospital,Suame,40.0,Male,1.3,12,Tuesday,3,26,yes,no,no,Standard,65
+KSI1195,KATH,Asokwa,20.0,Female,11.9,9,Friday,10,56,yes,no,yes,Standard,123
+KSI1196,Tafo Govt Hospital,Adum,85.0,Female,,10,Friday,6,31,no,no,no,Standard,29
+KSI1197,Tafo Govt Hospital,Bantama,82.0,Female,12.1,8,Tuesday,3,37,yes,no,no,Standard,90
+KSI1198,Tafo Govt Hospital,Ayigya,77.0,Male,7.9,10,Monday,4,31,yes,no,yes,Standard,106
+KSI1199,Kumasi South Hospital,Suame,80.0,Male,3.9,11,Friday,7,30,yes,no,no,Standard,23
+KSI1200,KATH,Kwadaso,73.0,Male,12.8,9,Monday,11,65,yes,yes,yes,Urgent,160
+KSI1201,Kumasi South Hospital,Asafo,63.0,Male,11.0,10,Friday,6,41,no,yes,yes,Standard,116
+KSI1202,KATH,Asafo,76.0,Female,14.7,9,Friday,11,68,yes,no,no,Standard,88
+KSI1203,KATH,Abrepo,44.0,Female,2.8,13,Wednesday,6,61,yes,no,no,Urgent,71
+KSI1204,Manhyia Govt Hospital,Bantama,38.0,Female,3.8,9,Thursday,4,40,yes,yes,yes,Standard,132
+KSI1205,Manhyia Govt Hospital,Asafo,83.0,Male,3.6,12,Thursday,5,28,yes,yes,yes,Standard,122
+KSI1206,Kumasi South Hospital,Abrepo,60.0,Female,12.0,12,Monday,2,39,no,yes,no,Standard,60
+KSI1207,Kumasi South Hospital,Adum,71.0,Female,3.2,8,Thursday,3,33,no,yes,no,Standard,69
+KSI1208,Manhyia Govt Hospital,Suame,48.0,Female,1.5,8,Monday,3,49,yes,yes,no,Standard,113
+KSI1209,KATH,Suame,18.0,Female,15.0,8,Friday,9,57,yes,no,yes,Standard,129
+KSI1210,Tafo Govt Hospital,Kwadaso,16.0,Male,0.9,12,Wednesday,4,23,yes,no,yes,Standard,70
+KSI1211,Manhyia Govt Hospital,Tafo,55.0,Male,12.6,8,Wednesday,7,65,yes,no,yes,Standard,144
+KSI1212,Manhyia Govt Hospital,Asafo,39.0,Female,5.8,9,Friday,3,42,yes,no,yes,Standard,117
+KSI1213,KATH,Adum,68.0,Male,12.7,12,Tuesday,11,60,yes,no,yes,Standard,106
+KSI1214,Kumasi South Hospital,Santasi,59.0,Male,8.5,8,Tuesday,5,39,yes,no,yes,Standard,121
+KSI1215,Kumasi South Hospital,Asafo,62.0,Female,13.6,10,Thursday,3,35,yes,no,no,Urgent,53
+KSI1216,KATH,Bantama,13.0,Female,13.9,8,Monday,10,61,yes,no,yes,Standard,154
+KSI1217,KATH,Tafo,81.0,Female,0.6,7,Wednesday,11,66,no,no,no,Standard,81
+KSI1218,Kumasi South Hospital,Asafo,6.0,Male,1.6,12,Thursday,4,30,yes,no,yes,Standard,85
+KSI1219,Suntreso Govt Hospital,Adum,83.0,Male,4.1,7,Friday,2,43,yes,no,no,Standard,103
+KSI1220,KATH,Asafo,77.0,Female,10.2,8,Wednesday,9,65,yes,no,yes,Standard,153
+KSI1221,Tafo Govt Hospital,Bantama,,Female,13.4,12,Monday,6,45,yes,no,no,Standard,49
+KSI1222,KATH,Santasi,14.0,Female,7.2,8,Monday,7,63,yes,no,yes,Standard,170
+KSI1223,Manhyia Govt Hospital,Ayigya,54.0,Female,9.3,15,Tuesday,3,38,yes,yes,no,Standard,98
+KSI1224,Tafo Govt Hospital,Asokwa,4.0,Female,3.2,15,Thursday,2,21,no,no,no,Standard,22
+KSI1225,Manhyia Govt Hospital,Santasi,39.0,Female,12.2,8,Friday,7,49,yes,no,no,Standard,87
+KSI1226,Suntreso Govt Hospital,Abrepo,72.0,Male,14.5,7,Wednesday,5,44,yes,yes,yes,Standard,101
+KSI1227,Manhyia Govt Hospital,Asafo,25.0,Female,4.4,11,Monday,6,60,yes,no,no,Standard,108
+KSI1228,KATH,Suame,77.0,Female,7.7,9,Wednesday,10,66,yes,no,no,Standard,136
+KSI1229,Tafo Govt Hospital,Kwadaso,32.0,Female,1.7,7,Friday,2,35,yes,yes,yes,Standard,136
+KSI1230,Manhyia Govt Hospital,Suame,59.0,Female,8.6,11,Wednesday,3,24,yes,no,no,Standard,59
+KSI1231,Tafo Govt Hospital,Santasi,63.0,Female,,7,Thursday,2,38,yes,yes,no,Standard,110
+KSI1232,KATH,Suame,38.0,Male,2.6,13,Tuesday,6,46,yes,no,no,Standard,94
+KSI1233,KATH,Adum,53.0,Female,6.9,7,Wednesday,11,77,yes,no,no,Standard,135
+KSI1234,KATH,Suame,67.0,Male,5.3,7,Tuesday,10,51,yes,no,no,Standard,88
+KSI1235,Suntreso Govt Hospital,Tafo,28.0,Female,8.1,7,Friday,4,44,yes,no,no,Standard,102
+KSI1236,Manhyia Govt Hospital,Ayigya,3.0,Male,9.0,14,Tuesday,3,40,yes,no,no,Standard,106
+KSI1237,Tafo Govt Hospital,Asafo,80.0,Male,0.6,10,Wednesday,4,34,yes,no,no,Standard,84
+KSI1238,Manhyia Govt Hospital,Suame,22.0,Male,11.5,12,Wednesday,8,44,no,no,no,Standard,77
+KSI1239,Tafo Govt Hospital,Bantama,38.0,Female,10.8,8,Monday,4,59,yes,no,no,Urgent,78
+KSI1240,KATH,Ayigya,72.0,Male,5.8,8,Wednesday,11,66,no,no,no,Urgent,72
+KSI1241,Tafo Govt Hospital,Ayigya,72.0,Male,1.3,8,Tuesday,4,41,yes,no,yes,Standard,102
+KSI1242,Kumasi South Hospital,Suame,62.0,Female,11.4,9,Monday,3,46,no,yes,yes,Urgent,105
+KSI1243,Kumasi South Hospital,Ayigya,57.0,Male,14.4,9,Wednesday,3,31,yes,no,yes,Standard,118
+KSI1244,Kumasi South Hospital,Kwadaso,,Female,4.0,10,Wednesday,3,34,yes,yes,yes,Standard,120
+KSI1245,Kumasi South Hospital,Suame,78.0,Female,5.2,8,Friday,7,38,yes,no,yes,Standard,102
+KSI1246,Suntreso Govt Hospital,Adum,32.0,Female,3.2,14,Monday,7,27,yes,no,no,Standard,64
+KSI1247,KATH,Santasi,10.0,Male,8.9,7,Friday,9,72,yes,yes,yes,Urgent,130
+KSI1248,KATH,Tafo,3.0,Female,2.7,14,Friday,6,55,yes,yes,no,Standard,143
+KSI1249,Tafo Govt Hospital,Asokwa,59.0,Male,5.7,7,Friday,6,39,yes,yes,no,Urgent,36
+KSI1250,Suntreso Govt Hospital,Abrepo,76.0,Female,10.6,9,Thursday,5,35,no,no,yes,Standard,107
+KSI1251,Kumasi South Hospital,Ayigya,49.0,Male,8.6,8,Friday,2,45,yes,no,yes,Standard,151
+KSI1252,Manhyia Govt Hospital,Adum,59.0,Female,6.1,9,Tuesday,4,47,no,no,no,Standard,72
+KSI1253,KATH,Asafo,31.0,Male,6.6,9,Wednesday,11,46,yes,no,no,Standard,68
+KSI1254,KATH,Asafo,69.0,Female,8.7,9,Thursday,8,61,yes,yes,no,Standard,122
+KSI1255,Kumasi South Hospital,Abrepo,62.0,Female,0.6,8,Friday,3,46,yes,no,no,Standard,100
+KSI1256,Manhyia Govt Hospital,Tafo,52.0,Female,1.6,11,Wednesday,7,31,yes,no,no,Urgent,19
+KSI1257,KATH,Ayigya,41.0,Male,13.3,10,Monday,6,62,yes,no,no,Standard,151
+KSI1258,Manhyia Govt Hospital,Kwadaso,31.0,Female,1.6,12,Monday,5,51,no,yes,no,Standard,127
+KSI1259,KATH,Abrepo,85.0,Female,10.7,8,Wednesday,7,54,yes,no,no,Standard,111
+KSI1260,Suntreso Govt Hospital,Tafo,84.0,Female,13.8,10,Tuesday,7,37,yes,no,no,Urgent,15
+KSI1261,KATH,Ayigya,22.0,Male,4.4,10,Wednesday,8,68,no,no,yes,Standard,116
+KSI1262,Kumasi South Hospital,Adum,4.0,Female,5.9,8,Wednesday,5,45,yes,no,no,Standard,88
+KSI1263,Manhyia Govt Hospital,Santasi,13.0,Male,8.7,9,Thursday,3,28,no,no,no,Standard,35
+KSI1264,Manhyia Govt Hospital,Kwadaso,45.0,Male,13.3,8,Monday,7,60,no,no,no,Standard,75
+KSI1265,KATH,Asokwa,,Male,14.2,7,Monday,9,76,yes,yes,yes,Standard,225
+KSI1266,KATH,Asafo,49.0,Female,11.2,7,Friday,8,70,yes,no,yes,Standard,165
+KSI1267,Manhyia Govt Hospital,Bantama,20.0,Male,1.8,7,Wednesday,4,41,yes,no,yes,Urgent,77
+KSI1268,Manhyia Govt Hospital,Adum,77.0,Male,10.2,10,Wednesday,3,33,no,yes,yes,Urgent,80
+KSI1269,Suntreso Govt Hospital,Asafo,81.0,Female,6.4,10,Tuesday,7,30,yes,no,yes,Standard,65
+KSI1270,KATH,Suame,54.0,Female,7.3,14,Monday,10,63,yes,no,no,Urgent,53
+KSI1271,Kumasi South Hospital,Bantama,36.0,Male,1.2,11,Tuesday,3,33,no,no,yes,Standard,68
+KSI1272,Tafo Govt Hospital,Asafo,1.0,Female,3.3,7,Thursday,5,48,yes,no,yes,Standard,147
+KSI1273,Kumasi South Hospital,Tafo,15.0,Male,12.0,13,Friday,7,29,no,no,yes,Standard,46
+KSI1274,KATH,Kwadaso,77.0,Male,7.1,13,Tuesday,6,44,yes,no,no,Standard,49
+KSI1275,Manhyia Govt Hospital,Asafo,17.0,Male,4.9,9,Monday,5,50,yes,yes,yes,Standard,176
+KSI1276,KATH,Asokwa,24.0,Female,6.1,10,Thursday,10,51,no,no,yes,Standard,84
+KSI1277,KATH,Santasi,58.0,Male,,15,Wednesday,6,48,yes,yes,no,Standard,77
+KSI1278,Tafo Govt Hospital,Tafo,72.0,Male,11.4,9,Thursday,5,26,yes,yes,no,Standard,67
+KSI1279,KATH,Adum,23.0,Male,4.4,13,Tuesday,7,53,yes,no,yes,Standard,132
+KSI1280,Manhyia Govt Hospital,Adum,,Female,2.2,7,Monday,7,51,yes,no,yes,Standard,143
+KSI1281,Suntreso Govt Hospital,Adum,72.0,Male,4.2,7,Tuesday,3,46,yes,no,yes,Standard,161
+KSI1282,Kumasi South Hospital,Adum,8.0,Male,13.9,9,Wednesday,3,40,no,yes,no,Standard,71
+KSI1283,Suntreso Govt Hospital,Santasi,59.0,Male,8.9,10,Wednesday,2,35,yes,no,yes,Urgent,81
+KSI1284,KATH,Asafo,59.0,Male,8.2,12,Monday,9,73,yes,yes,no,Standard,137
+KSI1285,Manhyia Govt Hospital,Ayigya,13.0,Female,9.1,15,Friday,8,48,yes,no,yes,Standard,72
+KSI1286,Suntreso Govt Hospital,Asafo,,Female,5.8,8,Thursday,6,42,yes,no,no,Standard,94
+KSI1287,KATH,Suame,28.0,Male,12.2,7,Thursday,8,62,no,yes,yes,Standard,148
+KSI1288,Manhyia Govt Hospital,Kwadaso,61.0,Male,8.1,12,Wednesday,4,44,no,no,yes,Urgent,61
+KSI1289,KATH,Bantama,16.0,Male,2.2,10,Tuesday,9,61,yes,yes,no,Standard,128
+KSI1290,KATH,Ayigya,2.0,Male,2.4,7,Tuesday,7,55,yes,no,yes,Standard,132
+KSI1291,Manhyia Govt Hospital,Ayigya,82.0,Male,8.3,9,Friday,6,46,yes,no,yes,Urgent,67
+KSI1292,KATH,Asafo,17.0,Female,14.1,11,Tuesday,9,64,yes,no,no,Standard,107
+KSI1293,Suntreso Govt Hospital,Ayigya,30.0,Female,5.0,11,Thursday,4,25,yes,no,no,Standard,75
+KSI1294,Kumasi South Hospital,Abrepo,13.0,Female,13.1,9,Tuesday,5,38,yes,no,yes,Standard,132
+KSI1295,Kumasi South Hospital,Abrepo,82.0,Female,11.6,8,Friday,4,48,no,yes,no,Standard,105
+KSI1296,KATH,Suame,,Female,4.1,15,Thursday,6,34,yes,yes,no,Standard,84
+KSI1297,KATH,Bantama,43.0,Female,1.0,10,Tuesday,7,62,no,no,no,Standard,95
+KSI1298,KATH,Asokwa,,Male,2.0,8,Thursday,8,64,yes,no,no,Standard,119
+KSI1299,Suntreso Govt Hospital,Santasi,21.0,Female,11.1,8,Wednesday,7,35,yes,yes,no,Standard,68
+KSI1300,Kumasi South Hospital,Asafo,55.0,Female,,11,Wednesday,3,38,no,no,yes,Standard,88
+KSI1301,KATH,Santasi,81.0,Female,5.9,8,Wednesday,11,57,yes,no,no,Standard,73
+KSI1302,Tafo Govt Hospital,Asokwa,40.0,Female,7.8,7,Tuesday,5,36,no,no,yes,Standard,77
+KSI1303,KATH,Asafo,83.0,Male,11.0,9,Friday,11,45,yes,no,yes,Standard,127
+KSI1304,Suntreso Govt Hospital,Asafo,15.0,Male,2.1,8,Thursday,2,37,yes,no,no,Standard,105
+KSI1305,Kumasi South Hospital,Bantama,73.0,Female,6.4,10,Monday,6,46,no,no,yes,Standard,86
+KSI1306,Tafo Govt Hospital,Santasi,52.0,Male,7.5,7,Wednesday,5,36,yes,yes,no,Standard,91
+KSI1307,Kumasi South Hospital,Abrepo,74.0,Female,8.3,10,Wednesday,5,47,no,no,no,Standard,51
+KSI1308,Kumasi South Hospital,Adum,53.0,Female,12.4,8,Monday,7,52,no,yes,no,Standard,96
+KSI1309,Manhyia Govt Hospital,Santasi,52.0,Female,3.0,7,Monday,6,56,yes,yes,yes,Standard,183
+KSI1310,Kumasi South Hospital,Kwadaso,30.0,Female,12.2,7,Tuesday,7,38,yes,no,yes,Standard,113
+KSI1311,KATH,Kwadaso,33.0,Male,10.5,14,Thursday,10,40,yes,no,no,Standard,95
+KSI1312,Tafo Govt Hospital,Asafo,57.0,Male,8.6,13,Wednesday,4,30,yes,yes,no,Standard,91
+KSI1313,Suntreso Govt Hospital,Adum,52.0,Female,10.6,8,Friday,3,40,no,no,yes,Urgent,66
+KSI1314,Kumasi South Hospital,Tafo,9.0,Female,6.5,11,Tuesday,7,35,yes,no,yes,Standard,99
+KSI1315,Manhyia Govt Hospital,Asokwa,54.0,Female,2.5,10,Tuesday,8,38,yes,yes,no,Standard,77
+KSI1316,Suntreso Govt Hospital,Suame,1.0,Male,10.2,15,Friday,5,26,yes,no,yes,Standard,57
+KSI1317,Suntreso Govt Hospital,Adum,44.0,Male,8.1,8,Friday,7,44,yes,no,no,Urgent,63
+KSI1318,Kumasi South Hospital,Suame,75.0,Female,9.8,10,Friday,6,35,no,yes,no,Standard,74
+KSI1319,KATH,Santasi,80.0,Male,5.4,7,Monday,9,74,yes,no,no,Standard,139
+KSI1320,KATH,Santasi,9.0,Female,13.6,8,Wednesday,9,72,no,no,yes,Urgent,100
+KSI1321,KATH,Suame,32.0,Male,,14,Monday,8,71,yes,no,yes,Standard,175
+KSI1322,KATH,Asokwa,15.0,Female,1.7,9,Wednesday,8,80,yes,no,yes,Standard,183
+KSI1323,Tafo Govt Hospital,Adum,12.0,Female,7.0,8,Monday,5,31,yes,yes,no,Standard,72
+KSI1324,KATH,Tafo,78.0,Female,11.5,7,Thursday,7,56,yes,no,no,Standard,118
+KSI1325,Tafo Govt Hospital,Asafo,57.0,Male,12.0,11,Wednesday,6,32,no,yes,no,Standard,43
+KSI1326,Manhyia Govt Hospital,Bantama,8.0,Female,7.7,10,Tuesday,3,49,yes,no,no,Urgent,86
+KSI1327,KATH,Santasi,72.0,Female,13.5,8,Wednesday,11,57,no,no,yes,Standard,113
+KSI1328,Kumasi South Hospital,Kwadaso,27.0,Male,4.4,14,Wednesday,2,27,yes,yes,no,Standard,102
+KSI1329,Suntreso Govt Hospital,Asokwa,62.0,Female,6.5,7,Wednesday,6,47,yes,no,no,Standard,74
+KSI1330,Manhyia Govt Hospital,Bantama,12.0,Female,13.5,8,Thursday,4,48,yes,yes,no,Standard,109
+KSI1331,Suntreso Govt Hospital,Tafo,65.0,Female,13.5,14,Monday,3,36,yes,no,yes,Standard,130
+KSI1332,Kumasi South Hospital,Ayigya,42.0,Female,10.4,8,Tuesday,3,38,yes,no,no,Standard,82
+KSI1333,KATH,Asafo,62.0,Male,13.0,8,Monday,8,58,yes,yes,no,Standard,117
+KSI1334,Tafo Govt Hospital,Santasi,11.0,Male,1.8,9,Monday,5,39,no,no,no,Standard,68
+KSI1335,Tafo Govt Hospital,Asafo,43.0,Male,13.0,12,Friday,1,29,yes,no,yes,Standard,93
+KSI1336,Suntreso Govt Hospital,Bantama,17.0,Female,5.1,7,Thursday,3,41,yes,yes,no,Standard,141
+KSI1337,KATH,Asafo,32.0,Female,3.1,14,Friday,10,59,yes,no,yes,Standard,120
+KSI1338,Kumasi South Hospital,Ayigya,85.0,Female,4.0,12,Thursday,7,25,yes,no,no,Standard,43
+KSI1339,KATH,Bantama,85.0,Male,6.6,7,Monday,6,73,no,no,no,Standard,126
+KSI1340,KATH,Santasi,40.0,Male,4.1,11,Monday,8,67,yes,no,no,Urgent,116
+KSI1341,KATH,Adum,23.0,Female,5.1,8,Thursday,9,67,yes,no,no,Standard,123
+KSI1342,Manhyia Govt Hospital,Kwadaso,56.0,Female,2.5,8,Monday,3,63,yes,no,no,Standard,136
+KSI1343,Tafo Govt Hospital,Bantama,6.0,Male,4.8,11,Monday,6,54,yes,no,yes,Standard,116
+KSI1344,Kumasi South Hospital,Abrepo,50.0,Female,8.8,14,Tuesday,2,29,yes,no,yes,Urgent,61
+KSI1345,Kumasi South Hospital,Ayigya,37.0,Male,6.9,7,Friday,2,38,yes,yes,no,Standard,101
+KSI1346,Manhyia Govt Hospital,Bantama,64.0,Male,5.5,9,Friday,6,44,yes,no,no,Standard,99
+KSI1347,Manhyia Govt Hospital,Bantama,54.0,Female,11.3,9,Friday,4,44,yes,no,yes,Standard,97
+KSI1348,Manhyia Govt Hospital,Abrepo,72.0,Male,13.5,8,Wednesday,8,54,no,no,yes,Standard,94
+KSI1349,Tafo Govt Hospital,Santasi,49.0,Female,11.5,8,Tuesday,4,37,yes,yes,no,Urgent,70
+KSI1350,KATH,Bantama,,Male,5.3,7,Friday,6,60,no,no,no,Standard,105
+KSI1351,Tafo Govt Hospital,Kwadaso,49.0,Male,11.3,10,Friday,6,32,yes,no,no,Standard,45
+KSI1352,Suntreso Govt Hospital,Asafo,21.0,Male,2.7,9,Tuesday,4,50,no,no,yes,Standard,115
+KSI1353,Manhyia Govt Hospital,Santasi,66.0,Female,2.4,7,Monday,3,55,yes,no,no,Standard,119
+KSI1354,Kumasi South Hospital,Kwadaso,63.0,Male,5.5,12,Friday,4,29,yes,no,no,Urgent,27
+KSI1355,Manhyia Govt Hospital,Santasi,83.0,Female,12.2,12,Monday,7,59,yes,no,no,Standard,116
+KSI1356,Tafo Govt Hospital,Kwadaso,28.0,Male,4.1,9,Friday,3,40,yes,no,no,Standard,92
+KSI1357,Tafo Govt Hospital,Ayigya,17.0,Male,1.4,8,Thursday,1,33,yes,yes,yes,Standard,125
+KSI1358,Manhyia Govt Hospital,Kwadaso,6.0,Male,2.4,10,Wednesday,6,40,yes,no,no,Standard,93
+KSI1359,KATH,Suame,19.0,Female,13.0,8,Friday,6,52,yes,yes,yes,Standard,160
+KSI1360,Suntreso Govt Hospital,Kwadaso,56.0,Female,9.7,8,Thursday,2,45,yes,no,yes,Standard,146
+KSI1361,Tafo Govt Hospital,Adum,28.0,Male,4.2,11,Tuesday,5,33,yes,no,no,Standard,82
+KSI1362,KATH,Adum,66.0,Female,8.6,7,Thursday,7,54,no,no,no,Standard,103
+KSI1363,Suntreso Govt Hospital,Asokwa,38.0,Female,8.1,7,Tuesday,2,40,yes,yes,no,Standard,135
+KSI1364,Suntreso Govt Hospital,Suame,37.0,Male,10.0,7,Friday,6,29,yes,no,no,Urgent,31
+KSI1365,Kumasi South Hospital,Suame,68.0,Female,3.9,7,Tuesday,5,38,yes,yes,yes,Standard,143
+KSI1366,KATH,Asafo,49.0,Male,13.0,7,Thursday,10,70,yes,yes,no,Standard,141
+KSI1367,Kumasi South Hospital,Suame,43.0,Female,5.0,15,Wednesday,6,25,yes,yes,yes,Standard,68
+KSI1368,Tafo Govt Hospital,Asafo,36.0,Female,10.6,8,Monday,3,49,no,no,no,Standard,93
+KSI1369,KATH,Asokwa,58.0,Female,0.7,7,Monday,7,78,yes,no,yes,Standard,193
+KSI1370,KATH,Asokwa,13.0,Female,5.9,8,Wednesday,7,58,yes,no,no,Standard,123
+KSI1371,Tafo Govt Hospital,Ayigya,52.0,Male,5.6,14,Monday,6,30,yes,no,yes,Standard,83
+KSI1372,KATH,Adum,58.0,Female,8.4,9,Friday,9,49,yes,yes,no,Urgent,60
+KSI1373,Tafo Govt Hospital,Kwadaso,32.0,Male,1.6,8,Friday,6,36,no,no,no,Standard,51
+KSI1374,Manhyia Govt Hospital,Kwadaso,81.0,Male,12.0,13,Thursday,7,46,no,yes,no,Standard,45
+KSI1375,KATH,Abrepo,60.0,Female,3.7,8,Thursday,9,66,yes,yes,no,Standard,156
+KSI1376,Tafo Govt Hospital,Abrepo,83.0,Female,10.3,8,Tuesday,4,38,yes,yes,no,Standard,94
+KSI1377,Manhyia Govt Hospital,Tafo,58.0,Female,12.1,7,Thursday,4,47,yes,no,no,Standard,107
+KSI1378,Suntreso Govt Hospital,Santasi,56.0,Male,8.6,8,Friday,3,32,yes,no,no,Standard,89
+KSI1379,Manhyia Govt Hospital,Ayigya,28.0,Female,11.2,8,Thursday,4,48,yes,no,no,Standard,111
+KSI1380,Suntreso Govt Hospital,Tafo,1.0,Female,10.1,10,Monday,2,36,yes,no,yes,Standard,107
+KSI1381,KATH,Tafo,42.0,Male,5.7,8,Tuesday,10,55,yes,no,yes,Standard,137
+KSI1382,Manhyia Govt Hospital,Bantama,82.0,Male,12.2,9,Tuesday,6,53,yes,yes,yes,Standard,150
+KSI1383,Tafo Govt Hospital,Bantama,48.0,Male,4.8,7,Friday,5,32,yes,no,yes,Standard,88
+KSI1384,KATH,Tafo,40.0,Male,8.8,7,Thursday,9,53,no,no,no,Urgent,28
+KSI1385,Suntreso Govt Hospital,Suame,63.0,Female,11.3,8,Monday,5,38,yes,no,yes,Standard,116
+KSI1386,Manhyia Govt Hospital,Santasi,76.0,Female,,14,Thursday,8,29,no,no,yes,Standard,25
+KSI1387,Kumasi South Hospital,Ayigya,72.0,Female,4.9,8,Wednesday,5,49,yes,no,yes,Standard,153
+KSI1388,KATH,Tafo,80.0,Female,7.2,10,Thursday,9,58,yes,yes,no,Urgent,105
+KSI1389,Tafo Govt Hospital,Kwadaso,4.0,Male,12.4,8,Friday,3,40,no,no,no,Standard,69
+KSI1390,Manhyia Govt Hospital,Santasi,38.0,Female,14.0,7,Thursday,5,35,no,no,yes,Standard,82
+KSI1391,KATH,Bantama,27.0,Male,8.4,7,Tuesday,11,59,yes,yes,no,Urgent,79
+KSI1392,KATH,Kwadaso,9.0,Female,10.1,8,Monday,6,67,yes,no,yes,Standard,186
+KSI1393,KATH,Bantama,16.0,Male,13.6,7,Friday,7,65,no,no,no,Standard,129
+KSI1394,Suntreso Govt Hospital,Bantama,56.0,Female,1.9,7,Wednesday,5,29,yes,yes,no,Standard,78
+KSI1395,Manhyia Govt Hospital,Santasi,76.0,Male,3.9,11,Monday,7,64,yes,no,yes,Standard,129
+KSI1396,Kumasi South Hospital,Bantama,31.0,Male,10.8,7,Monday,4,48,no,no,no,Standard,113
+KSI1397,Manhyia Govt Hospital,Asokwa,14.0,Female,,9,Tuesday,4,37,yes,no,no,Standard,57
+KSI1398,KATH,Adum,25.0,Male,12.9,8,Tuesday,6,68,yes,yes,no,Standard,137
+KSI1399,Suntreso Govt Hospital,Asokwa,34.0,Female,6.5,9,Tuesday,3,42,yes,yes,no,Standard,107
+KSI1400,Kumasi South Hospital,Adum,,Male,1.8,9,Friday,5,36,yes,no,yes,Urgent,47
+KSI1401,KATH,Abrepo,24.0,Female,6.8,8,Thursday,7,48,yes,no,yes,Standard,146
+KSI1402,KATH,Abrepo,73.0,Male,3.8,8,Monday,9,69,yes,no,yes,Standard,176
+KSI1403,KATH,Bantama,26.0,Male,4.7,11,Thursday,11,50,yes,yes,yes,Standard,114
+KSI1404,Kumasi South Hospital,Ayigya,20.0,Male,11.7,13,Thursday,4,31,yes,yes,yes,Standard,130
+KSI1405,Suntreso Govt Hospital,Ayigya,64.0,Female,1.6,7,Tuesday,4,42,yes,yes,no,Standard,133
+KSI1406,Manhyia Govt Hospital,Adum,10.0,Male,12.5,7,Thursday,6,48,yes,no,yes,Standard,123
+KSI1407,Kumasi South Hospital,Kwadaso,83.0,Male,6.7,13,Monday,6,46,no,no,no,Standard,55
+KSI1408,Kumasi South Hospital,Santasi,67.0,Male,9.1,8,Monday,4,49,yes,no,no,Standard,148
+KSI1409,Suntreso Govt Hospital,Bantama,24.0,Male,1.8,9,Wednesday,6,38,no,no,no,Standard,58
+KSI1410,Tafo Govt Hospital,Santasi,5.0,Female,5.4,8,Friday,4,39,yes,no,no,Standard,85
+KSI1411,KATH,Asokwa,,Female,1.8,7,Thursday,11,54,no,no,no,Standard,86
+KSI1412,KATH,Ayigya,58.0,Male,14.4,10,Friday,9,62,yes,yes,no,Urgent,93
+KSI1413,KATH,Suame,27.0,Female,12.2,9,Friday,11,62,yes,no,no,Standard,90
+KSI1414,KATH,Asokwa,80.0,Female,7.2,7,Friday,8,59,no,no,no,Standard,90
+KSI1415,Suntreso Govt Hospital,Asokwa,15.0,Male,3.7,9,Friday,6,39,no,yes,no,Standard,82
+KSI1416,Tafo Govt Hospital,Adum,35.0,Female,14.0,12,Monday,4,28,yes,yes,yes,Urgent,50
+KSI1417,KATH,Asafo,76.0,Male,5.5,10,Thursday,8,68,yes,no,no,Standard,115
+KSI1418,KATH,Asokwa,53.0,Female,2.8,7,Wednesday,11,72,yes,no,no,Standard,139
+KSI1419,Manhyia Govt Hospital,Bantama,44.0,Male,8.7,9,Friday,6,39,no,yes,yes,Standard,92
+KSI1420,Tafo Govt Hospital,Tafo,26.0,Female,14.2,11,Wednesday,6,29,yes,yes,yes,Standard,120
+KSI1421,Manhyia Govt Hospital,Tafo,47.0,Female,0.6,12,Monday,4,47,yes,no,no,Standard,124
+KSI1422,Suntreso Govt Hospital,Bantama,34.0,Male,4.0,10,Monday,7,35,yes,no,no,Standard,71
+KSI1423,KATH,Asafo,50.0,Male,14.1,7,Tuesday,7,75,yes,no,yes,Standard,164
+KSI1424,KATH,Asafo,84.0,Female,3.0,11,Friday,8,38,no,yes,no,Standard,61
+KSI1425,Tafo Govt Hospital,Adum,12.0,Male,2.1,10,Tuesday,4,31,yes,yes,no,Standard,122
+KSI1426,Tafo Govt Hospital,Ayigya,4.0,Female,8.8,7,Wednesday,3,42,yes,yes,no,Urgent,104
+KSI1427,KATH,Santasi,48.0,Female,13.0,8,Thursday,6,57,yes,yes,no,Standard,138
+KSI1428,Tafo Govt Hospital,Asafo,55.0,Female,7.4,8,Tuesday,6,36,yes,no,no,Standard,57
+KSI1429,Suntreso Govt Hospital,Suame,1.0,Female,14.9,10,Monday,4,64,yes,no,no,Standard,132
+KSI1430,Tafo Govt Hospital,Adum,66.0,Female,10.3,7,Friday,3,42,yes,no,yes,Standard,127
+KSI1431,Manhyia Govt Hospital,Abrepo,30.0,Female,1.6,10,Wednesday,4,38,no,no,no,Standard,39
+KSI1432,Suntreso Govt Hospital,Kwadaso,3.0,Female,14.9,13,Monday,7,32,yes,yes,no,Standard,79
+KSI1433,Manhyia Govt Hospital,Abrepo,21.0,Female,6.4,12,Thursday,4,33,yes,no,no,Standard,90
+KSI1434,Suntreso Govt Hospital,Adum,84.0,Male,4.7,14,Friday,5,29,yes,no,no,Standard,24
+KSI1435,KATH,Asokwa,49.0,Female,8.6,15,Thursday,8,43,yes,no,yes,Standard,112
+KSI1436,KATH,Santasi,85.0,Female,4.9,7,Thursday,11,59,no,yes,no,Standard,112
+KSI1437,Manhyia Govt Hospital,Kwadaso,62.0,Male,,10,Friday,5,40,yes,no,yes,Standard,102
+KSI1438,Kumasi South Hospital,Abrepo,38.0,Female,0.5,8,Friday,5,33,yes,yes,yes,Urgent,111
+KSI1439,KATH,Kwadaso,15.0,Female,7.0,12,Thursday,10,46,yes,yes,yes,Standard,109
+KSI1440,Suntreso Govt Hospital,Suame,52.0,Male,12.6,8,Wednesday,5,46,yes,no,yes,Standard,128
+KSI1441,Tafo Govt Hospital,Suame,79.0,Female,8.8,15,Friday,2,25,yes,no,no,Standard,48
+KSI1442,KATH,Suame,46.0,Male,15.0,10,Monday,7,52,no,yes,yes,Standard,131
+KSI1443,Suntreso Govt Hospital,Adum,25.0,Female,4.7,12,Tuesday,4,33,yes,yes,yes,Standard,106
+KSI1444,Manhyia Govt Hospital,Santasi,21.0,Male,4.6,7,Wednesday,4,56,yes,no,no,Standard,127
+KSI1445,Tafo Govt Hospital,Adum,5.0,Female,2.8,7,Friday,6,32,yes,yes,yes,Standard,124
+KSI1446,KATH,Tafo,70.0,Female,2.9,11,Friday,9,60,yes,no,yes,Urgent,94
+KSI1447,Kumasi South Hospital,Asokwa,47.0,Male,4.6,7,Wednesday,4,39,yes,yes,yes,Standard,117
+KSI1448,Kumasi South Hospital,Asokwa,68.0,Female,12.0,12,Tuesday,5,33,no,yes,yes,Standard,92
+KSI1449,Tafo Govt Hospital,Suame,18.0,Female,13.6,7,Thursday,4,39,yes,no,yes,Standard,120
+KSI1450,Kumasi South Hospital,Tafo,21.0,Male,14.6,10,Monday,4,41,yes,no,yes,Standard,124
+KSI1451,Manhyia Govt Hospital,Asafo,23.0,Female,3.9,8,Friday,7,55,yes,yes,no,Standard,144
+KSI1452,Suntreso Govt Hospital,Asafo,64.0,Female,13.3,10,Tuesday,3,35,no,no,yes,Standard,62
+KSI1453,Tafo Govt Hospital,Suame,67.0,Male,5.3,10,Monday,1,47,yes,yes,yes,Standard,130
+KSI1454,Suntreso Govt Hospital,Abrepo,40.0,Male,2.1,8,Wednesday,2,51,no,yes,no,Standard,96
+KSI1455,KATH,Adum,10.0,Male,13.1,7,Friday,6,58,yes,no,no,Standard,133
+KSI1456,Tafo Govt Hospital,Suame,52.0,Male,9.7,7,Thursday,2,36,no,no,no,Standard,48
+KSI1457,Kumasi South Hospital,Ayigya,72.0,Female,2.9,10,Wednesday,6,35,yes,no,no,Standard,51
+KSI1458,Suntreso Govt Hospital,Kwadaso,75.0,Female,6.7,9,Friday,5,37,yes,no,yes,Standard,120
+KSI1459,KATH,Asokwa,61.0,Male,4.7,11,Tuesday,8,62,yes,no,no,Urgent,80
+KSI1460,Suntreso Govt Hospital,Asafo,64.0,Male,11.2,9,Monday,6,40,yes,no,yes,Urgent,88
+KSI1461,Manhyia Govt Hospital,Bantama,5.0,Male,7.1,9,Monday,3,59,yes,yes,yes,Standard,193
+KSI1462,Suntreso Govt Hospital,Asafo,53.0,Female,14.8,8,Friday,7,44,yes,yes,no,Standard,90
+KSI1463,KATH,Asokwa,55.0,Male,1.3,7,Wednesday,7,56,yes,no,no,Urgent,73
+KSI1464,Suntreso Govt Hospital,Kwadaso,37.0,Female,5.6,8,Thursday,3,29,yes,no,no,Standard,88
+KSI1465,Tafo Govt Hospital,Asokwa,,Female,7.5,15,Tuesday,3,17,no,no,no,Standard,5
+KSI1466,KATH,Bantama,59.0,Male,7.8,13,Friday,11,51,yes,no,yes,Standard,69
+KSI1467,Tafo Govt Hospital,Suame,69.0,Female,5.1,8,Tuesday,4,40,no,no,no,Standard,51
+KSI1468,Manhyia Govt Hospital,Tafo,73.0,Female,11.1,10,Monday,7,55,yes,yes,no,Standard,137
+KSI1469,Tafo Govt Hospital,Bantama,59.0,Female,13.2,12,Thursday,6,30,yes,no,no,Standard,51
+KSI1470,Kumasi South Hospital,Asokwa,2.0,Female,14.1,9,Tuesday,6,37,yes,no,no,Standard,84
+KSI1471,Suntreso Govt Hospital,Asokwa,65.0,Male,12.2,7,Friday,6,56,yes,no,no,Standard,74
+KSI1472,Kumasi South Hospital,Ayigya,60.0,Male,12.8,7,Thursday,5,53,no,yes,yes,Urgent,98
+KSI1473,Tafo Govt Hospital,Ayigya,51.0,Female,8.5,9,Wednesday,4,31,yes,no,no,Standard,76
+KSI1474,Manhyia Govt Hospital,Santasi,30.0,Male,12.5,14,Friday,6,34,no,no,yes,Standard,41
+KSI1475,Manhyia Govt Hospital,Ayigya,11.0,Male,4.9,10,Tuesday,5,43,no,no,yes,Standard,103
+KSI1476,Suntreso Govt Hospital,Adum,76.0,Male,6.3,7,Thursday,3,54,yes,no,no,Standard,114
+KSI1477,Kumasi South Hospital,Tafo,39.0,Male,,7,Friday,2,43,no,no,yes,Standard,157
+KSI1478,Kumasi South Hospital,Kwadaso,77.0,Female,7.3,11,Thursday,5,36,yes,no,no,Standard,37
+KSI1479,Kumasi South Hospital,Bantama,72.0,Male,4.6,12,Thursday,3,30,no,no,yes,Standard,94
+KSI1480,Manhyia Govt Hospital,Asokwa,63.0,Female,14.4,10,Thursday,6,29,yes,yes,no,Standard,71
+KSI1481,Kumasi South Hospital,Santasi,64.0,Female,5.0,10,Tuesday,2,53,yes,no,yes,Urgent,84
+KSI1482,KATH,Santasi,61.0,Male,1.9,7,Friday,11,65,no,no,yes,Standard,105
+KSI1483,Suntreso Govt Hospital,Kwadaso,54.0,Male,8.1,12,Monday,5,46,yes,no,yes,Standard,128
+KSI1484,KATH,Tafo,73.0,Female,1.3,11,Monday,7,60,yes,yes,no,Standard,156
+KSI1485,Manhyia Govt Hospital,Bantama,58.0,Male,2.1,8,Tuesday,5,40,yes,no,yes,Standard,141
+KSI1486,Manhyia Govt Hospital,Asafo,85.0,Female,3.7,11,Tuesday,8,45,yes,yes,no,Standard,110
+KSI1487,Manhyia Govt Hospital,Ayigya,56.0,Female,7.2,7,Thursday,8,33,yes,yes,yes,Standard,96
+KSI1488,Kumasi South Hospital,Suame,34.0,Male,6.8,7,Friday,7,38,no,no,yes,Standard,95
+KSI1489,Manhyia Govt Hospital,Santasi,31.0,Female,12.1,7,Friday,3,52,yes,yes,yes,Standard,170
+KSI1490,Manhyia Govt Hospital,Ayigya,52.0,Female,11.2,7,Wednesday,4,53,yes,yes,no,Standard,121
+KSI1491,KATH,Ayigya,76.0,Male,6.7,8,Wednesday,10,61,yes,no,no,Standard,101
+KSI1492,Manhyia Govt Hospital,Adum,1.0,Female,5.3,8,Monday,7,57,yes,yes,no,Urgent,85
+KSI1493,KATH,Tafo,55.0,Female,5.1,9,Wednesday,10,73,yes,no,yes,Standard,150
+KSI1494,KATH,Suame,22.0,Male,11.7,9,Wednesday,8,59,no,yes,no,Standard,91
+KSI1495,Suntreso Govt Hospital,Asafo,40.0,Female,1.3,8,Monday,5,38,no,no,no,Urgent,16
+KSI1496,Suntreso Govt Hospital,Asokwa,1.0,Female,0.7,7,Monday,5,46,yes,no,yes,Standard,143
+KSI1497,Suntreso Govt Hospital,Adum,65.0,Female,12.0,10,Wednesday,5,31,yes,no,no,Standard,73
+KSI1498,Manhyia Govt Hospital,Ayigya,63.0,Female,7.4,8,Friday,5,43,no,yes,no,Standard,80
+KSI1499,Manhyia Govt Hospital,Ayigya,54.0,Female,2.4,8,Wednesday,7,39,no,yes,yes,Standard,118
+KSI1500,Tafo Govt Hospital,Abrepo,42.0,Male,3.9,13,Thursday,6,29,yes,yes,yes,Standard,88
